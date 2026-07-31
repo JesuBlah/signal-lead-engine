@@ -11,8 +11,3 @@
 - Meta-pikseli löytyy sivustolta.
 - Sivustolla havaittiin seuraavia laatuongelmia: 2.
 - Havaitut tekniset liput: no_meta_description,slow_response.
-
-## Suositukset
-
-1. Korjatkaa sivuston tekniset laatuongelmat ennen mainosbudjetin kasvattamista.
-2. Nopea vastaaminen liideihin parantaa mainonnan tuottoa.

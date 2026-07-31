@@ -10,8 +10,3 @@
 - Conversion tracking is installed on the site.
 - Meta Pixel is installed on the site.
 - The site has the following quality issues: 0.
-
-## Recommendations
-
-1. Fix the site's technical quality issues before increasing ad spend.
-2. Responding quickly to leads improves ad ROI.

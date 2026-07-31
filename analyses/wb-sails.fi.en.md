@@ -11,9 +11,3 @@
 - Meta Pixel is installed on the site.
 - The site has the following quality issues: 2.
 - Detected technical flags: no_h1,stale_copyright.
-
-## Recommendations
-
-1. Install Google Ads conversion tracking first.
-2. Fix the site's technical quality issues before increasing ad spend.
-3. Responding quickly to leads improves ad ROI.

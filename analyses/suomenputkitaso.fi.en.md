@@ -10,9 +10,3 @@
 - Conversion tracking is installed on the site.
 - No Meta Pixel was found.
 - The site has the following quality issues: 0.
-
-## Recommendations
-
-1. Add the Meta Pixel to enable remarketing.
-2. Fix the site's technical quality issues before increasing ad spend.
-3. Responding quickly to leads improves ad ROI.

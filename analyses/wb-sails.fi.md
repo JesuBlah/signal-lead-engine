@@ -11,9 +11,3 @@
 - Meta-pikseli löytyy sivustolta.
 - Sivustolla havaittiin seuraavia laatuongelmia: 2.
 - Havaitut tekniset liput: no_h1,stale_copyright.
-
-## Suositukset
-
-1. Asentakaa Google Ads -konversioseuranta ensimmäisenä.
-2. Korjatkaa sivuston tekniset laatuongelmat ennen mainosbudjetin kasvattamista.
-3. Nopea vastaaminen liideihin parantaa mainonnan tuottoa.
