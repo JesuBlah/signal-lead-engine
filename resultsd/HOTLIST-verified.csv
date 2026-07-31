@@ -1,0 +1,163 @@
+score,run,niche,niche_source,niche_confidence,company,domain,segment,revenue_eur,employees,google_ads,conv_tracking,meta_pixel,quality_issues,issue_flags,platform,email,phone,city,google_verified_live,google_advertiser_name,ads_status
+61,resultsd,insurance,keywords,0.5,Vääksyn Konepiste Oy,venekauppa.com,A_ads_weak_site,,,True,False,True,2,"stale_copyright,slow_response",,,,,True,Vääksyn Konepiste Oy,LIVE_CONFIRMED
+61,resultsd,restaurant,keywords,0.5,MMK-Kuljetus Oy,mmkkuljetus.fi,A_ads_weak_site,,,True,False,True,2,"no_meta_description,slow_response",wordpress,,,,True,0100100 Solutions Oy,LIVE_CONFIRMED
+61,resultsd,cleaning,keywords,0.5,Siivouspalvelu Kota,siivouspalvelukota.fi,A_ads_weak_site,,,True,False,True,2,"no_h1,slow_response",wordpress,,,,True,Siivouspalvelu Kota Oy,LIVE_CONFIRMED
+55,resultsd,,none,0.0,Nero Lattialämmitys Oy,neroll.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,wordpress,,,,True,Nero Lattialämmitys Oy,LIVE_CONFIRMED
+55,resultsd,,none,0.0,JS-Infra,jsinfra.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,,,,,True,JS-Automoto Oy,LIVE_CONFIRMED
+55,resultsd,electrical,keywords,0.5,Sähkö-Saarelainen Oy,sahkosaarelainen.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,wordpress,,,,True,Sähkö-Saarelainen Oy,LIVE_CONFIRMED
+55,resultsd,,none,0.0,T. Hostikka Oy,rakennustyohostikka.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,,,,,True,Rakennustyö Hostikka Oy,LIVE_CONFIRMED
+55,resultsd,,none,0.0,MRV Infra Oy,mrvinfra.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,,,,,True,Fonecta Oy,LIVE_CONFIRMED
+55,resultsd,hotel,keywords,0.65,N-Clean Tampere,nclean.fi,B_ads_no_conv_tracking,,,True,False,True,1,stale_copyright,wordpress,,,,True,N-Clean Oy,LIVE_CONFIRMED
+55,resultsd,hvac,keywords,0.65,Lvi-Asiantuntija Oy,lviasiantuntija.fi,B_ads_no_conv_tracking,,,True,False,True,1,stale_copyright,wordpress,,,,True,LVI-Asiantuntija Oy,LIVE_CONFIRMED
+55,resultsd,,none,0.0,"Alina Kuopio, keskusta",alinahoivatiimi.fi,B_ads_no_conv_tracking,,,True,False,True,1,no_h1,,,,,True,Alina Hoivatiimi Oy,LIVE_CONFIRMED
+55,resultsd,,none,0.0,Tarvike Center Ivalo Oy,tarvikecenter.com,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,,,,,True,Fonecta Oy,LIVE_CONFIRMED
+55,resultsd,cleaning,keywords,0.5,Winclean Oy,winclean.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,wordpress,,,,True,Winclean Oy,LIVE_CONFIRMED
+55,resultsd,accounting,keywords,0.5,Rehti-Isännöinti Oy,rehti-isannointi.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,,,,,True,Fonecta Oy,LIVE_CONFIRMED
+55,resultsd,hvac,keywords,0.5,Uusiolämpö Oy Raahe,uusiolampo.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,,,,,True,Uusiolämpö Oy,LIVE_CONFIRMED
+55,resultsd,hvac,keywords,0.5,TJ-Airtec Oy,tjairtec.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,,,,,True,TJ-Airtec Oy,LIVE_CONFIRMED
+55,resultsd,,none,0.0,Maijasto Oy,maijasto.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,squarespace,,,,True,Maijasto Oy,LIVE_CONFIRMED
+55,resultsd,,none,0.0,Maanrakennus L&T Oy,mrlt.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,,,,,True,Fonecta Oy,LIVE_CONFIRMED
+55,resultsd,,none,0.0,Koneurakointi Hartikka Oy,koneurakointihartikka.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,,,,,True,Koneurakointi Hartikka avoin yhtiö,LIVE_CONFIRMED
+55,resultsd,cleaning,keywords,0.5,Siivoova Oy - Siivouspalvelut Kuopiossa,siivoova.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,wordpress,,,,True,Siivoova Oy,LIVE_CONFIRMED
+55,resultsd,cleaning,keywords,0.5,TJ Siivous ja kotiapu,tjsiivous.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,wordpress,,,,True,TJ Remontit Oy,LIVE_CONFIRMED
+55,resultsd,,none,0.0,Pienkone-Ekspertit Oy Husqvarna,pienkone-ekspertit.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,,,,,True,Siilin Pienkone-Ekspertit Oy,LIVE_CONFIRMED
+55,resultsd,restaurant,keywords,0.5,TT Better Trading Oy,puustelli.fi,B_ads_no_conv_tracking,,,True,False,True,1,slow_response,,,,,True,Puustelli Group Oy,LIVE_CONFIRMED
+54,resultsd,,none,0.0,DSV Air & Sea Oy,dsv.com,A_ads_weak_site,,,True,True,True,2,"no_meta_description,slow_response",,,,,True,DSV ROAD S.R.L,LIVE_CONFIRMED
+54,resultsd,,none,0.0,Kontu Isännöinti Oy,kontuoy.fi,A_ads_weak_site,,,True,True,True,2,"stale_copyright,slow_response",wordpress,,,,True,MTR-Isännöinti Oy,LIVE_CONFIRMED
+54,resultsd,cleaning,keywords,0.5,Omenasiivous,omenasiivous.fi,A_ads_weak_site,,,True,True,True,2,"no_h1,slow_response",wordpress,,,,True,Omenasiivous Oy,LIVE_CONFIRMED
+54,resultsd,electrical,keywords,0.5,Meredin,meredin.fi,A_ads_weak_site,,,True,True,True,2,"no_h1,slow_response",,,,,True,Marina Pargas Ab,LIVE_CONFIRMED
+49,resultsd,,none,0.0,SKT-Rengas Oulu,sktrengas.fi,B_ads_no_conv_tracking,,,True,False,True,0,,,,,,True,Sapparin Konetyö Oy,LIVE_CONFIRMED
+49,resultsd,plumbing,keywords,0.65,Lahden Putkipalvelut Oy,lahdenputkipalvelut.fi,B_ads_no_conv_tracking,,,True,False,True,0,,,,,,True,Lahden Putkipalvelut Oy,LIVE_CONFIRMED
+49,resultsd,,none,0.0,Yrjö Latva-Luopa Oy,latvaluopa.fi,B_ads_no_conv_tracking,,,True,False,True,0,,,,,,True,Yrjö Latva-Luopa Oy,LIVE_CONFIRMED
+49,resultsd,,none,0.0,Isännöinti Asuville Oy,asuville.fi,B_ads_no_conv_tracking,,,True,False,True,0,,,,,,True,Fonecta Oy,LIVE_CONFIRMED
+49,resultsd,plumbing,keywords,0.5,PUTKIAHTI,putkiahti.fi,B_ads_no_conv_tracking,,,True,False,True,0,,,,,,True,Riku Ahvonen,LIVE_CONFIRMED
+49,resultsd,electrical,keywords,0.5,Sähköasennus Ristimäki Oy,sahkoasennus-ristimaki.fi,B_ads_no_conv_tracking,,,True,False,True,0,,,,,,True,Fonecta Oy,LIVE_CONFIRMED
+49,resultsd,plumbing,keywords,0.5,EK-Asennustekniikka,ek-asennustekniikka.fi,B_ads_no_conv_tracking,,,True,False,True,0,,,,,,True,Mediaplaani Oy,LIVE_CONFIRMED
+49,resultsd,,none,0.0,Kaivuu ja kuljetus P & T Mäkelä,kaivuujakuljetusptmakela.fi,B_ads_no_conv_tracking,,,True,False,True,0,,,,,,True,Mediaplaani Oy,LIVE_CONFIRMED
+49,resultsd,cleaning,keywords,0.5,Siskon Siivous Oy,siskonsiivous.fi,B_ads_no_conv_tracking,,,True,False,True,0,,wordpress,,,,True,Siskon Siivous Oy,LIVE_CONFIRMED
+49,resultsd,cleaning,keywords,0.5,Rakas koti Oy,rakaskoti.fi,B_ads_no_conv_tracking,,,True,False,True,0,,wordpress,,,,True,Rakas koti oy,LIVE_CONFIRMED
+49,resultsd,cleaning,keywords,0.5,MM Siivouspalvelut Oy,mmsiivouspalvelut.fi,B_ads_no_conv_tracking,,,True,False,True,0,,,,,,True,Fonecta Oy,LIVE_CONFIRMED
+49,resultsd,,none,0.0,Ahmamotor Oy,ahmamotor.fi,B_ads_no_conv_tracking,,,True,False,True,0,,,,,,True,Fonecta Oy,LIVE_CONFIRMED
+49,resultsd,cleaning,keywords,0.5,Urhopesu Oy,urhopesu.fi,B_ads_no_conv_tracking,,,True,False,True,0,,wordpress,,,,True,Urhopesu Oy,LIVE_CONFIRMED
+49,resultsd,cleaning,keywords,0.5,Hämeen Laatusiivous Oy,hameenlaatusiivous.fi,B_ads_no_conv_tracking,,,True,False,True,0,,wordpress,,,,True,Hämeen Laatusiivous Oy,LIVE_CONFIRMED
+49,resultsd,,none,0.0,Kolmen Sepän Isännöinti Oy,kolmensepanisannointi.fi,A_ads_weak_site,,,True,False,False,2,"no_meta_description,slow_response",wordpress,,,,True,Kolmen Sepän Isännöinti Oy,LIVE_CONFIRMED
+49,resultsd,accounting,keywords,0.5,Tunturi-Lapin Isännöintipalvelu Oy,tunturilapinisannointipalvelu.fi,A_ads_weak_site,,,True,False,False,2,"no_h1,slow_response",,,,,True,Tunturi-Lapin Isännöintipalvelu Oy,LIVE_CONFIRMED
+49,resultsd,cleaning,keywords,0.5,Smobbi Oy,smobbi.fi,A_ads_weak_site,,,True,False,False,2,"stale_copyright,slow_response",wordpress,,,,True,Smobbi Oy,LIVE_CONFIRMED
+48,resultsd,,none,0.0,Läänin Kuljetus Oy,laaninkuljetus.fi,C_ads_ok_site,,,True,True,True,1,slow_response,wordpress,,,,True,Läänin Kuljetus Oy,LIVE_CONFIRMED
+48,resultsd,,none,0.0,Oy Maritim Ab,maritim.fi,C_ads_ok_site,,,True,True,True,1,slow_response,wordpress,,,,True,Oy Maritim Ab,LIVE_CONFIRMED
+48,resultsd,,none,0.0,Kaukokiito Eura,kaukokiito.fi,C_ads_ok_site,,,True,True,True,1,slow_response,wordpress,,,,True,Suomen Kaukokiito Oy,LIVE_CONFIRMED
+48,resultsd,accounting,keywords,0.5,Helsingin Seudun Isännöitsijät Oy,hsi.fi,C_ads_ok_site,,,True,True,True,1,slow_response,,,,,True,ESKO JUHANI PIETIKÄINEN,LIVE_CONFIRMED
+48,resultsd,,none,0.0,Fluxio Isännöinti Oy,fluxioisannointi.fi,C_ads_ok_site,,,True,True,True,1,slow_response,wordpress,,,,True,Fluxio Isännöinti Oy,LIVE_CONFIRMED
+48,resultsd,plumbing,keywords,0.5,Lämpövelho Oy,lampovelho.fi,C_ads_ok_site,,,True,True,True,1,slow_response,,,,,True,Lämpövelho Oy,LIVE_CONFIRMED
+48,resultsd,,none,0.0,Aamu & Isännöintipiste Oy,isannointipiste.fi,C_ads_ok_site,,,True,True,True,1,slow_response,wordpress,,,,True,Ainoa & Co Oy,LIVE_CONFIRMED
+48,resultsd,plumbing,keywords,0.5,Lahden Putkihuolto Oy,lph.fi,C_ads_ok_site,,,True,True,True,1,slow_response,wordpress,,,,True,Keskisuomalainen Oyj,LIVE_CONFIRMED
+48,resultsd,,none,0.0,Kemiönsaaren Venekeskus Oy,venekeskus.com,C_ads_ok_site,,,True,True,True,1,slow_response,,,,,True,Kemiönsaaren Venekeskus Oy,LIVE_CONFIRMED
+48,resultsd,,none,0.0,Raymarine Finland Oy,raymarine.com,C_ads_ok_site,,,True,True,True,1,slow_response,,,,,True,"Flir Systems, Inc.",LIVE_CONFIRMED
+48,resultsd,hvac,keywords,0.65,AE Engineering Oy,heatco.fi,C_ads_ok_site,,,True,True,True,1,no_h1,wordpress,,,,True,Heatco Finland Oy,LIVE_CONFIRMED
+48,resultsd,accounting,keywords,0.65,Jokilaakson Taloustaitaja Oy,taloustaitaja.fi,C_ads_ok_site,,,True,True,True,1,slow_response,wordpress,,,,True,Tirri Tomi,LIVE_CONFIRMED
+48,resultsd,cleaning,keywords,0.5,WASH UP!,washup.fi,C_ads_ok_site,,,True,True,True,1,slow_response,wordpress,,,,True,WashUP Oy,LIVE_CONFIRMED
+48,resultsd,electrical,keywords,0.5,LämpöWire Oy,elfin.fi,C_ads_ok_site,,,True,True,True,1,slow_response,wordpress,,,,True,Elfin,LIVE_CONFIRMED
+48,resultsd,cleaning,keywords,0.5,Lempi Kodinhoito Oy Tampere,lempi.fi,C_ads_ok_site,,,True,True,True,1,slow_response,,,,,True,Lempi Kodinhoito Oy,LIVE_CONFIRMED
+48,resultsd,,none,0.0,Pesurivuokraus,pesurivuokraus.fi,C_ads_ok_site,,,True,True,True,1,slow_response,,,,,True,Wise Rental Services Oy,LIVE_CONFIRMED
+48,resultsd,cleaning,keywords,0.5,Kalmasiivous Vantaa Optimasiivous Oy,optimasiivous.fi,C_ads_ok_site,,,True,True,True,1,slow_response,wordpress,,,,True,Optimasiivous Oy,LIVE_CONFIRMED
+48,resultsd,cleaning,keywords,0.5,Koti Puhtaaksi Oy,kotipuhtaaksi.fi,C_ads_ok_site,,,True,True,True,1,slow_response,wordpress,,,,True,Sahera Koti Puhtaaksi Oy,LIVE_CONFIRMED
+48,resultsd,cleaning,keywords,0.5,Freesikoti Oy,freesikoti.fi,C_ads_ok_site,,,True,True,True,1,slow_response,,,,,True,Freesikoti Oy,LIVE_CONFIRMED
+48,resultsd,cleaning,keywords,0.5,Pohjanmaan Siivous Oy,pohjanmaansiivous.fi,C_ads_ok_site,,,True,True,True,1,slow_response,wordpress,,,,True,Pohjanmaan Siivous Oy,LIVE_CONFIRMED
+48,resultsd,cleaning,keywords,0.5,Helpmax Siivouspalvelut,helpmax.fi,C_ads_ok_site,,,True,True,True,1,slow_response,wordpress,,,,True,CURU Oy,LIVE_CONFIRMED
+48,resultsd,cleaning,keywords,0.5,Huoltosiivous Turku Oy,huoltosiivous.fi,C_ads_ok_site,,,True,True,True,1,slow_response,,,,,True,Huoltosiivous Turku Oy,LIVE_CONFIRMED
+48,resultsd,cleaning,keywords,0.5,Siivouspalvelu Aton-yhtiöt,aton.fi,C_ads_ok_site,,,True,True,True,1,slow_response,wordpress,,,,True,Aton Oy,LIVE_CONFIRMED
+48,resultsd,cleaning,keywords,0.5,Kodinhoitajapäiväksi - Kodin siivouspalvelu,kodinhoitajapaivaksi.fi,C_ads_ok_site,,,True,True,True,1,slow_response,wordpress,,,,True,Inkan Kotitalouspalvelut Oy,LIVE_CONFIRMED
+48,resultsd,,none,0.0,Boatslice Oy,boatslice.fi,C_ads_ok_site,,,True,True,True,1,slow_response,,,,,True,Boatslice Oy,LIVE_CONFIRMED
+43,resultsd,,none,0.0,Tuoretie Oy,tuoretie.fi,B_ads_no_conv_tracking,,,True,False,False,1,slow_response,wordpress,,,,True,Tuoretie Oy,LIVE_CONFIRMED
+43,resultsd,,none,0.0,SKH-Isännöinti Oy,skh.fi,B_ads_no_conv_tracking,,,True,False,False,1,slow_response,wordpress,,,,True,SKH-Isännöinti Oy,LIVE_CONFIRMED
+43,resultsd,electrical,keywords,0.5,Telilän Sähkötyö Oy,telila.fi,B_ads_no_conv_tracking,,,True,False,False,1,slow_response,wordpress,,,,True,Telilän Sähkötyö Oy,LIVE_CONFIRMED
+43,resultsd,cleaning,keywords,0.5,Kuopion Tehosiivous Oy,kuopiontehosiivous.fi,B_ads_no_conv_tracking,,,True,False,False,1,slow_response,wordpress,,,,False,,TAG_STALE_OR_HIDDEN
+43,resultsd,cleaning,keywords,0.5,Kotova Oy,kotova.fi,B_ads_no_conv_tracking,,,True,False,False,1,slow_response,wordpress,,,,True,Kotova Oy,LIVE_CONFIRMED
+43,resultsd,,none,0.0,Tasotalo Oy,tasotalo.fi,B_ads_no_conv_tracking,,,True,False,False,1,slow_response,wordpress,,,,True,Tasotalo Oy,LIVE_CONFIRMED
+43,resultsd,,none,0.0,Torttila Oy,torttilaoy.fi,B_ads_no_conv_tracking,,,True,False,False,1,slow_response,,,,,True,Torttila Oy,LIVE_CONFIRMED
+43,resultsd,cleaning,keywords,0.5,HygiSafe,hygisafe.fi,B_ads_no_conv_tracking,,,True,False,False,1,slow_response,wordpress,,,,False,,TAG_STALE_OR_HIDDEN
+43,resultsd,,none,0.0,Soutu Finland Oy,soutu.fi,B_ads_no_conv_tracking,,,True,False,False,1,slow_response,,,,,True,Soutu Finland Oy,LIVE_CONFIRMED
+43,resultsd,accounting,keywords,0.5,Trio Isännöinti Oy,trioisannointi.fi,B_ads_no_conv_tracking,,,True,False,False,1,slow_response,wordpress,,,,True,Trio Isännöinti,LIVE_CONFIRMED
+43,resultsd,cleaning,keywords,0.5,DiakonSiivous,diakon.fi,B_ads_no_conv_tracking,,,True,False,False,1,slow_response,wordpress,,,,True,Vida Design Oy,LIVE_CONFIRMED
+43,resultsd,cleaning,keywords,0.5,Palokan Kotipalvelu,siivoussolina.fi,B_ads_no_conv_tracking,,,True,False,False,1,slow_response,wordpress,,,,True,Kiinteistöpalvelu Solina Oy,LIVE_CONFIRMED
+42,resultsd,restaurant,keywords,0.5,Let's Go Taksi,letsgo.fi,C_ads_ok_site,,,True,True,True,0,,wordpress,,,,True,DRide Oy,LIVE_CONFIRMED
+42,resultsd,plumbing,keywords,0.5,Retta Isännöinti Oy,retta.fi,C_ads_ok_site,,,True,True,True,0,,wordpress,,,,True,Retta Services Oy,LIVE_CONFIRMED
+42,resultsd,,none,0.0,Maansiirto Harry Mäkelä Oy,maansiirtomakela.fi,C_ads_ok_site,,,True,True,True,0,,wordpress,,,,True,Maansiirto Harry Mäkelä Oy,LIVE_CONFIRMED
+42,resultsd,electrical,keywords,0.5,AM-Sähkö Oy,amsahko.net,A_ads_weak_site,,,True,True,False,2,"no_meta_description,no_h1",wordpress,,,,True,"ADVERT.IO, S.A",LIVE_CONFIRMED
+42,resultsd,real_estate,keywords,0.5,Kiinteistö-Tahkola Rovaniemi Oy,kiinteistotahkola.fi,C_ads_ok_site,,,True,True,True,0,,wordpress,,,,True,Kiinteistö-Tahkola Helsinki Oy,LIVE_CONFIRMED
+42,resultsd,hvac,keywords,0.65,Smart Heating Oy Pirkanmaa,smartheating.fi,A_ads_weak_site,,,True,True,False,2,"stale_copyright,slow_response",wordpress,,,,True,Smart Heating Oy,LIVE_CONFIRMED
+42,resultsd,cleaning,keywords,0.5,Pirkanmaan Laatuisännöinti Oy,pirkanmaanlaatuisannointi.fi,A_ads_weak_site,,,True,True,False,2,"stale_copyright,slow_response",wordpress,,,,True,Joni Ilari Brander,LIVE_CONFIRMED
+42,resultsd,plumbing,keywords,0.5,K&T Pipe Oy,ktpipe.fi,A_ads_weak_site,,,True,True,False,2,"stale_copyright,slow_response",wordpress,,,,True,K&T Pipe Oy,LIVE_CONFIRMED
+42,resultsd,,none,0.0,Etalo Isännöinti Oy,etalo.fi,C_ads_ok_site,,,True,True,True,0,,wordpress,,,,True,eTalo Isännöinti Oy,LIVE_CONFIRMED
+42,resultsd,,none,0.0,Reilu Isännöinti Oy,reiluisannointi.fi,C_ads_ok_site,,,True,True,True,0,,wordpress,,,,True,Reilu Isännöinti Oy,LIVE_CONFIRMED
+42,resultsd,cleaning,keywords,0.5,Sivina Helsinki,sivina.fi,C_ads_ok_site,,,True,True,True,0,,wordpress,,,,True,Campmedia Oy,LIVE_CONFIRMED
+42,resultsd,cleaning,keywords,0.5,Kotirinki Helsinki,kotirinki.fi,C_ads_ok_site,,,True,True,True,0,,,,,,True,Kotirinki Oy,LIVE_CONFIRMED
+42,resultsd,accounting,keywords,0.5,Isännöinti Kärkkäinen Oy,taloasema.fi,C_ads_ok_site,,,True,True,True,0,,wordpress,,,,True,Taloasema Oy,LIVE_CONFIRMED
+42,resultsd,hvac,keywords,0.5,Rakenne Center,rakennecenter.fi,C_ads_ok_site,,,True,True,True,0,,,,,,True,Riku Latvala,LIVE_CONFIRMED
+42,resultsd,cleaning,keywords,0.5,Loiste Siivous Oy,loistesiivous.fi,C_ads_ok_site,,,True,True,True,0,,wordpress,,,,True,Loiste Siivous Oy,LIVE_CONFIRMED
+42,resultsd,cleaning,keywords,0.5,Kotisiivooja,kotisiivooja.com,C_ads_ok_site,,,True,True,True,0,,,,,,True,Puhdas Unelma Oy,LIVE_CONFIRMED
+42,resultsd,cleaning,keywords,0.5,iloClean Oy,iloclean.fi,C_ads_ok_site,,,True,True,True,0,,wordpress,,,,True,IloClean Oy,LIVE_CONFIRMED
+42,resultsd,cleaning,keywords,0.5,Kotileena Jyväskylä,kotileena.fi,C_ads_ok_site,,,True,True,True,0,,,,,,True,Kotileena Oy,LIVE_CONFIRMED
+42,resultsd,,none,0.0,Oulun Porrassiivous,finder.fi,C_ads_ok_site,,,True,True,True,0,,nextjs,,,,True,Dagmar Scale Oy,LIVE_CONFIRMED
+42,resultsd,cleaning,keywords,0.5,ServiceOne,serviceone.fi,C_ads_ok_site,,,True,True,True,0,,wordpress,,,,True,A&A Palvelut Oy,LIVE_CONFIRMED
+42,resultsd,,none,0.0,M-Kone,mkone.fi,A_ads_weak_site,,,True,True,False,2,"no_h1,slow_response",,,,,True,M-Kone,LIVE_CONFIRMED
+42,resultsd,plumbing,keywords,0.5,Suunnos Oy,suunnos.fi,A_ads_weak_site,,,True,True,False,2,"stale_copyright,slow_response",webflow,,,,True,Medialuotsi OY,LIVE_CONFIRMED
+42,resultsd,cleaning,keywords,0.5,Pikkuapu,pikkuapu.fi,A_ads_weak_site,,,True,True,False,2,"stale_copyright,slow_response",,,,,True,Madleena Anne Marina Konttinen,LIVE_CONFIRMED
+42,resultsd,cleaning,keywords,0.5,Siivouspalvelu - Arvojes Oy,arvojes.fi,A_ads_weak_site,,,True,True,False,2,"stale_copyright,slow_response",wordpress,,,,True,Arvojes Oy,LIVE_CONFIRMED
+37,resultsd,hotel,keywords,0.65,Äyräväinen Oy,ayravainen.fi,B_ads_no_conv_tracking,,,True,False,False,0,,wordpress,,,,True,Äyräväinen Oy,LIVE_CONFIRMED
+37,resultsd,,none,0.0,Lopen Talo & Tili Oy,talotili.fi,B_ads_no_conv_tracking,,,True,False,False,0,,,,,,True,Lopen Talo & Tili Oy,LIVE_CONFIRMED
+37,resultsd,plumbing,keywords,0.5,Insinööritoimisto Karlsson Karves & Co Oy LVIS,lvitsto-karlsson.fi,B_ads_no_conv_tracking,,,True,False,False,0,,wordpress,,,,True,"LVIS-insinööritoimisto Karlsson, Karves & Co Oy",LIVE_CONFIRMED
+37,resultsd,restaurant,keywords,0.5,ADA Housing Oy,adaisannointi.fi,B_ads_no_conv_tracking,,,True,False,False,0,,wordpress,,,,True,Netice Oy,LIVE_CONFIRMED
+37,resultsd,,none,0.0,TiKo Isännöinti Oy,tikoisannointi.fi,B_ads_no_conv_tracking,,,True,False,False,0,,squarespace,,,,True,TiKo Isännöinti Oy,LIVE_CONFIRMED
+37,resultsd,accounting,keywords,0.5,Isännöintikeskus Tammen Oy,tammentalot.fi,B_ads_no_conv_tracking,,,True,False,False,0,,wordpress,,,,True,Isännöintikeskus Tammen Oy,LIVE_CONFIRMED
+37,resultsd,cleaning,keywords,0.5,Puhdina,puhdina.fi,B_ads_no_conv_tracking,,,True,False,False,0,,webflow,,,,True,Puhdina Oy,LIVE_CONFIRMED
+37,resultsd,hvac,keywords,0.5,Atlas Energia Oy,atlasenergia.fi,B_ads_no_conv_tracking,,,True,False,False,0,,elementor,,,,True,Atlas Energia Oy,LIVE_CONFIRMED
+37,resultsd,cleaning,keywords,0.5,Kotiapusi Oy,kotiapusi.fi,B_ads_no_conv_tracking,,,True,False,False,0,,webflow,,,,True,AITEK Solutions Oy,LIVE_CONFIRMED
+36,resultsd,,none,0.0,Lännen Isännöintipalvelu Oy,lipalvelu.fi,C_ads_ok_site,,,True,True,False,1,slow_response,wordpress,,,,True,Lännen Isännöintipalvelu Oy,LIVE_CONFIRMED
+36,resultsd,accounting,keywords,0.5,REIM Lappeenranta Oy Ltd,reim.fi,C_ads_ok_site,,,True,True,False,1,no_meta_description,wordpress,,,,True,REIM Pääkaupunkiseutu Oy,LIVE_CONFIRMED
+36,resultsd,restaurant,keywords,0.5,Isännöitsijätoimisto Fallenius Oy,fallenius.fi,C_ads_ok_site,,,True,True,False,1,slow_response,wordpress,,,,True,Fluxio Isännöinti Oy,LIVE_CONFIRMED
+36,resultsd,,none,0.0,PKH Siekkinen Oy,pienkonehuoltosiekkinen.fi,C_ads_ok_site,,,True,True,False,1,slow_response,,,,,True,Pienkonehuolto Siekkinen Oy,LIVE_CONFIRMED
+36,resultsd,real_estate,schema_org,0.95,Asuntopehtoori Isännöinti Oy,asuntopehtoori.fi,C_ads_ok_site,,,True,True,False,1,slow_response,wordpress,,,,True,Asuntopehtoori,LIVE_CONFIRMED
+36,resultsd,cleaning,keywords,0.5,TilaaSiivous,tilaasiivous.com,C_ads_ok_site,,,True,True,False,1,no_h1,wordpress,,,,True,Ardit Azemi,LIVE_CONFIRMED
+36,resultsd,plumbing,keywords,0.5,LVI-Sasto Oy,lvi-sasto.com,C_ads_ok_site,,,True,True,False,1,no_h1,wordpress,,,,True,Lvi-Sasto Oy,LIVE_CONFIRMED
+36,resultsd,cleaning,keywords,0.5,Siivouspalvelu Tupla-Luuta Oy,tuplaluuta.fi,C_ads_ok_site,,,True,True,False,1,no_h1,wordpress,,,,True,Design Inspis Oy,LIVE_CONFIRMED
+36,resultsd,hvac,keywords,0.65,Teljän Energiatekniikka,teljanet.fi,C_ads_ok_site,,,True,True,False,1,slow_response,wordpress,,,,True,Teljän energiatekniikka,LIVE_CONFIRMED
+36,resultsd,restaurant,keywords,0.5,Paloturvasuunnittelu Block Oy,paloturvasuunnittelu.fi,C_ads_ok_site,,,True,True,False,1,slow_response,wordpress,,,,True,Medialuotsi OY,LIVE_CONFIRMED
+36,resultsd,plumbing,keywords,0.5,Insinööritoimisto Putkimaailma Oy,putkimaailma.fi,C_ads_ok_site,,,True,True,False,1,slow_response,wordpress,,,,True,Medialuotsi OY,LIVE_CONFIRMED
+36,resultsd,,none,0.0,Suomen Alitustekniikka Oy,alitustekniikka.fi,C_ads_ok_site,,,True,True,False,1,slow_response,wordpress,,,,True,Fonecta Oy,LIVE_CONFIRMED
+36,resultsd,cleaning,keywords,0.5,IsoJoo! -palvelut,isojoo.fi,C_ads_ok_site,,,True,True,False,1,slow_response,,,,,True,Vertigo Nordic Oy,LIVE_CONFIRMED
+36,resultsd,plumbing,keywords,0.5,Vaaratek,vaaratek.fi,C_ads_ok_site,,,True,True,False,1,slow_response,,,,,True,Vaaratek,LIVE_CONFIRMED
+36,resultsd,hvac,schema_org,0.95,V-S Energiatalo Oy,vsenergiatalo.fi,C_ads_ok_site,,,True,True,False,1,slow_response,wordpress,,,,True,VS-Energiatalo Oy,LIVE_CONFIRMED
+36,resultsd,cleaning,keywords,0.5,Näsin Siivous Tmi,nasinsiivous.fi,C_ads_ok_site,,,True,True,False,1,slow_response,wordpress,,,,True,advert.io lda,LIVE_CONFIRMED
+36,resultsd,cleaning,keywords,0.5,Safai Siivouspalvelut,safai.fi,C_ads_ok_site,,,True,True,False,1,slow_response,nextjs,,,,True,Deepesh Kalura,LIVE_CONFIRMED
+36,resultsd,cleaning,keywords,0.5,Clean Spot Oy,cleanspot.fi,C_ads_ok_site,,,True,True,False,1,slow_response,wordpress,,,,True,Cleanspot Oy,LIVE_CONFIRMED
+36,resultsd,cleaning,keywords,0.5,Siivouspalvelu Kari Toivonen,yrityssiivoushelsinki.fi,C_ads_ok_site,,,True,True,False,1,slow_response,,,,,True,Kari Toivonen,LIVE_CONFIRMED
+36,resultsd,cleaning,keywords,0.5,Siivous Eliitti- Kotisiivous Ullanlinna,siivouseliitti.fi,C_ads_ok_site,,,True,True,False,1,slow_response,wordpress,,,,True,Huolto Eliitti Oy,LIVE_CONFIRMED
+36,resultsd,cleaning,keywords,0.5,vapaa-aika.com,vapaa-aika.com,C_ads_ok_site,,,True,True,False,1,slow_response,,,,,True,Vapaa-ajan tarviketalo AK&Co Oy,LIVE_CONFIRMED
+36,resultsd,cleaning,keywords,0.5,Trinomi Siivouspalvelut,trinomi.fi,C_ads_ok_site,,,True,True,False,1,slow_response,,,,,True,Siivouspalvelu Trinomi Oy,LIVE_CONFIRMED
+36,resultsd,cleaning,keywords,0.5,TEN-Yhtiö Oy,tenyhtio.fi,C_ads_ok_site,,,True,True,False,1,slow_response,wordpress,,,,True,TEN-yhtiö Oy,LIVE_CONFIRMED
+36,resultsd,cleaning,keywords,0.5,Pirkanmaan Duo siivouspalvelut Oy,duosiivouspalvelut.fi,C_ads_ok_site,,,True,True,False,1,slow_response,wordpress,,,,True,Iasy Oy,LIVE_CONFIRMED
+36,resultsd,cleaning,keywords,0.5,GreenVibe Palvelut Oy,greenvibe.fi,C_ads_ok_site,,,True,True,False,1,slow_response,wordpress,,,,True,GreenVibe Palvelut Oy,LIVE_CONFIRMED
+36,resultsd,hvac,keywords,0.5,Safety At Sea Finland Marnela Oy Ltd,marnela.com,C_ads_ok_site,,,True,True,False,1,slow_response,wordpress,,,,True,Safety at Sea Finland Marnela Oy Ltd,LIVE_CONFIRMED
+30,resultsd,accounting,keywords,0.5,OIT Isännöinti Oy,oit.fi,C_ads_ok_site,,,True,True,False,0,,wordpress,,,,True,OIT Isännöinti Oy,LIVE_CONFIRMED
+30,resultsd,hvac,keywords,0.65,Lapin Lvi-Asennus Oy,lapinlviasennus.fi,C_ads_ok_site,,,True,True,False,0,,wordpress,,,,True,Lapin LVI-asennu Oy,LIVE_CONFIRMED
+30,resultsd,electrical,keywords,0.5,Alti-Systems Oy,alti-systems.fi,C_ads_ok_site,,,True,True,False,0,,wordpress,,,,True,Alti-Systems Oy,LIVE_CONFIRMED
+30,resultsd,,none,0.0,Insinööritoimisto Vesitaito Oy,vesitaito.fi,C_ads_ok_site,,,True,True,False,0,,wordpress,,,,True,Insinööritoimisto Vesitaito Oy,LIVE_CONFIRMED
+30,resultsd,,none,0.0,Isännöintipalvelu Terwa Oy,terwaisannointi.fi,C_ads_ok_site,,,True,True,False,0,,wordpress,,,,True,Isännöintipalvelu Terwa,LIVE_CONFIRMED
+30,resultsd,hvac,keywords,0.65,LVI-suunnittelu Center Oy,lvisuunnittelucenter.fi,C_ads_ok_site,,,True,True,False,0,,wordpress,,,,True,Sähkömatti Oy,LIVE_CONFIRMED
+30,resultsd,,none,0.0,Suomen Putkitaso Oy,suomenputkitaso.fi,C_ads_ok_site,,,True,True,False,0,,,,,,True,Suomen Putkitaso Oy,LIVE_CONFIRMED
+30,resultsd,plumbing,keywords,0.5,Piirosto Oy,piirosto.fi,C_ads_ok_site,,,True,True,False,0,,wordpress,,,,True,Piirosto Oy,LIVE_CONFIRMED
+30,resultsd,,none,0.0,Suomen Pumppaamo-Muovitekniikka Oy,spm-tekniikka.fi,C_ads_ok_site,,,True,True,False,0,,,,,,True,Teemu Aleksi Suhonen,LIVE_CONFIRMED
+30,resultsd,laundry,keywords,0.5,Maanrakennus Pajunen,maanrakennuspajunen.fi,C_ads_ok_site,,,True,True,False,0,,,,,,True,Maanrakennus Pajunen avoin yhtiö,LIVE_CONFIRMED
+30,resultsd,cleaning,keywords,0.5,CLEANii koti- ja siivouspalvelu,cleanii.fi,C_ads_ok_site,,,True,True,False,0,,wordpress,,,,True,Medialuotsi OY,LIVE_CONFIRMED
+30,resultsd,cleaning,keywords,0.5,Puhtosin Oy,puhtosin.fi,C_ads_ok_site,,,True,True,False,0,,wordpress,,,,True,Puhtosin Oy,LIVE_CONFIRMED
+30,resultsd,cleaning,keywords,0.5,Tasolaiset Tampere Oy,tasolaiset.fi,C_ads_ok_site,,,True,True,False,0,,wordpress,,,,True,Tasolaiset Oy,LIVE_CONFIRMED
+30,resultsd,cleaning,keywords,0.5,Siivouspalvelu teho+,tehoplus.fi,C_ads_ok_site,,,True,True,False,0,,wordpress,,,,True,Siivouspalvelu Teho+,LIVE_CONFIRMED
+30,resultsd,,none,0.0,JM Laatuisännöinti Oy,jmlaatuisannointi.fi,A_ads_weak_site,,,False,False,True,3,"no_meta_description,no_h1,slow_response",wordpress,,,,True,JM Laatuisannointi Oy,LIVE_CONFIRMED
+30,resultsd,,none,0.0,Veneveistämö VeneVa,veneva.fi,C_ads_ok_site,,,True,True,False,0,,,,,,True,Fonecta Oy,LIVE_CONFIRMED
+24,resultsd,,none,0.0,WB-Sails Oy,wb-sails.fi,A_ads_weak_site,,,False,False,True,2,"no_h1,stale_copyright",wordpress,,,,True,WB-Sails Ltd Oy,LIVE_CONFIRMED
+24,resultsd,,none,0.0,Akku-Teho Marine Oy,akkuteho.fi,A_ads_weak_site,,,False,False,True,2,"no_h1,slow_response",,,,,True,Akku-Teho Marine Oy,LIVE_CONFIRMED
+24,resultsd,cleaning,keywords,0.5,Siivouspalvelut Löytty,siivouspalvelutloytty.fi,A_ads_weak_site,,,False,False,True,2,"stale_copyright,slow_response",wordpress,,,,True,Siivouspalvelut Löytty,LIVE_CONFIRMED
+18,resultsd,,none,0.0,Lahden Isännöitsijätoimisto Oy,lit.fi,C_ads_ok_site,,,False,False,True,1,slow_response,wordpress,,,,True,Lahden Isännöitsijätoimisto Oy,LIVE_CONFIRMED
+18,resultsd,accounting,keywords,0.5,Talokompassi Oy,talokompassi.fi,C_ads_ok_site,,,False,False,True,1,slow_response,squarespace,,,,True,Talokompassi Oy,LIVE_CONFIRMED
+12,resultsd,cleaning,keywords,0.5,Siivousystävät,siivousystavat.fi,C_ads_ok_site,,,False,False,True,0,,,,,,True,Johanna Oksanen,LIVE_CONFIRMED
