@@ -17,7 +17,3 @@
 1. Ottakaa Meta-pikseli käyttöön uudelleenmarkkinointia varten.
 2. Korjatkaa sivuston tekniset laatuongelmat ennen mainosbudjetin kasvattamista.
 3. Nopea vastaaminen liideihin parantaa mainonnan tuottoa.
-
-Käydään läpi 15 minuutissa, jos haluatte.
-
-Felix Wickholm / Wicflow Oy

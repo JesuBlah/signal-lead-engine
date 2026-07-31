@@ -1,14 +1,24 @@
-import Link from "next/link";
+"use client";
+
+import { useRouter } from "next/navigation";
 import { Building2, MapPin, FileText, Mail } from "lucide-react";
 import type { Company } from "@/lib/types";
 import { SegmentBadge, ScoreBadge, StatusPill } from "./StatusBadge";
 import { Target, LineChart, Fingerprint } from "lucide-react";
 
 export default function CompanyCard({ company }: { company: Company }) {
+  const router = useRouter();
+  const href = `/company/${encodeURIComponent(company.domain)}`;
+
   return (
-    <Link
-      href={`/company/${encodeURIComponent(company.domain)}`}
-      className="group flex flex-col gap-4 rounded-2xl border border-border bg-surface p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
+    <div
+      role="link"
+      tabIndex={0}
+      onClick={() => router.push(href)}
+      onKeyDown={(e) => {
+        if (e.key === "Enter") router.push(href);
+      }}
+      className="group flex cursor-pointer flex-col gap-4 rounded-2xl border border-border bg-surface p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
     >
       <div className="flex items-start justify-between gap-3">
         <div className="flex items-start gap-3">
@@ -51,15 +61,20 @@ export default function CompanyCard({ company }: { company: Company }) {
           {company.hasAnalysis ? "AI analysis ready" : "No analysis yet"}
         </span>
         {company.email ? (
-          <span className="flex items-center gap-1 text-success">
-            <Mail size={12} /> email found
-          </span>
+          
+            <a
+              href={`mailto:${company.email}`}
+              onClick={(e) => e.stopPropagation()}
+              className="flex items-center gap-1 rounded-md border border-success/30 bg-success/10 px-2 py-1 font-medium text-success transition hover:bg-success/20"
+            >
+              <Mail size={12} /> Email
+            </a>
         ) : (
           <span className="flex items-center gap-1">
             <Mail size={12} /> no email
           </span>
         )}
       </div>
-    </Link>
+    </div>
   );
 }

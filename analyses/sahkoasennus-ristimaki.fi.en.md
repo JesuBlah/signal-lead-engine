@@ -16,7 +16,3 @@
 1. Install Google Ads conversion tracking first.
 2. Fix the site's technical quality issues before increasing ad spend.
 3. Responding quickly to leads improves ad ROI.
-
-Happy to walk through this in 15 minutes, if useful.
-
-Felix Wickholm / Wicflow Oy

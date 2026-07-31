@@ -5,6 +5,7 @@ import { SearchX } from "lucide-react";
 import type { BooleanFilter, Company, SegmentFilter } from "@/lib/types";
 import FilterBar from "./FilterBar";
 import CompanyCard from "./CompanyCard";
+import ExportCsvButton from "./ExportCsvButton";
 
 function matchesBool(filter: BooleanFilter, value: boolean) {
   if (filter === "all") return true;
@@ -54,6 +55,10 @@ export default function DashboardClient({
 
   return (
     <div className="flex flex-col gap-6">
+      <div className="flex justify-end">
+        <ExportCsvButton companies={filtered} />
+      </div>
+
       <FilterBar
         query={query}
         onQueryChange={setQuery}
