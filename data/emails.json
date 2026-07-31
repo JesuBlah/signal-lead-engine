@@ -1,0 +1,16 @@
+{
+  "venekauppa.com": {
+    "domain": "venekauppa.com",
+    "emails": [
+      "myynti@venekauppa.com",
+      "huolto@venekauppa.com",
+      "lahti@venekauppa.com"
+    ],
+    "phone": "046845820",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T07:27:15.140Z",
+    "pagesChecked": [
+      "https://venekauppa.com"
+    ]
+  }
+}
