@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Signal Lead Engine
 
 Finds Finnish companies that are actively running Google Ads but have gaps in
@@ -233,3 +234,19 @@ signal-lead-engine/
 | A — weak site | Running ads, but the site itself has quality problems | 22 |
 | B — no conversion tracking | Running ads, tracking pixel missing | 55 |
 | C — solid site | Running ads, tracking + site both fine | 85 |
+=======
+# web/ — Signal Lead Engine dashboard
+
+This is the Next.js dashboard half of the project.
+
+**See the top-level [`../README.md`](../README.md) for the full picture**
+— how this connects to the Python data pipeline, setup, the contact-email
+finder, and deployment instructions.
+
+Quick start:
+
+```bash
+npm install
+npm run dev
+```
+>>>>>>> 564f0b448ee654089c971c0350275ca4f30d36d8

@@ -1,0 +1,3750 @@
+{
+  "venekauppa.com": {
+    "domain": "venekauppa.com",
+    "emails": [
+      "myynti@venekauppa.com",
+      "huolto@venekauppa.com",
+      "lahti@venekauppa.com",
+      "jukka.virtanen@venekauppa.com",
+      "taavi.ahokas@venekauppa.com",
+      "jouni.korhonen@venekauppa.com",
+      "joona.makela@venekauppa.com",
+      "katja.nissinen@venekauppa.com",
+      "aki.hasunen@venekauppa.com",
+      "jani.laamanen@venekauppa.com",
+      "antti.ahvenainen@venekauppa.com",
+      "janne.korhonen@venekauppa.com",
+      "petteri.korhonen@venekauppa.com"
+    ],
+    "phone": "046845820",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:09.015Z",
+    "pagesChecked": [
+      "https://venekauppa.com",
+      "https://venekauppa.com/yhteystiedot",
+      "https://venekauppa.com/yhteystiedot/",
+      "https://venekauppa.com/contact",
+      "https://venekauppa.com/contact-us",
+      "https://venekauppa.com/about",
+      "https://venekauppa.com/about-us",
+      "https://venekauppa.com/ota-yhteytta",
+      "https://venekauppa.com/meille"
+    ]
+  },
+  "jsinfra.fi": {
+    "domain": "jsinfra.fi",
+    "emails": [
+      "janne.korri@jsinfra.fi",
+      "juho.saarela@jsautomoto.fi",
+      "jaakko@lakeudenkoneasema.fi",
+      "jukka@lakeudenkoneasema.fi",
+      "joonas@lakeudenkoneasema.fi"
+    ],
+    "phone": "0152-0153",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:11.027Z",
+    "pagesChecked": [
+      "https://jsinfra.fi",
+      "https://jsinfra.fi/yhteystiedot",
+      "https://jsinfra.fi/yhteystiedot/",
+      "https://jsinfra.fi/contact",
+      "https://jsinfra.fi/contact-us",
+      "https://jsinfra.fi/about",
+      "https://jsinfra.fi/about-us",
+      "https://jsinfra.fi/ota-yhteytta",
+      "https://jsinfra.fi/meille"
+    ]
+  },
+  "neroll.fi": {
+    "domain": "neroll.fi",
+    "emails": [
+      "info@neroll.fi",
+      "jarkko.laivo@neroll.fi",
+      "matti.kesseli@neroll.fi",
+      "aki.lofgren@neroll.fi",
+      "roni.koskela@neroll.fi",
+      "janne.linnansuu@neroll.fi",
+      "nina.nyman@neroll.fi"
+    ],
+    "phone": "00000015",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:09.993Z",
+    "pagesChecked": [
+      "https://neroll.fi",
+      "https://neroll.fi/yhteystiedot",
+      "https://neroll.fi/yhteystiedot/",
+      "https://neroll.fi/contact",
+      "https://neroll.fi/contact-us",
+      "https://neroll.fi/about",
+      "https://neroll.fi/about-us",
+      "https://neroll.fi/ota-yhteytta",
+      "https://neroll.fi/meille"
+    ]
+  },
+  "rakennustyohostikka.fi": {
+    "domain": "rakennustyohostikka.fi",
+    "emails": [
+      "teemu.hostikka@rakennustyohostikka.fi"
+    ],
+    "phone": "0152-0153",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:12.694Z",
+    "pagesChecked": [
+      "https://rakennustyohostikka.fi",
+      "https://rakennustyohostikka.fi/yhteystiedot",
+      "https://rakennustyohostikka.fi/yhteystiedot/",
+      "https://rakennustyohostikka.fi/contact",
+      "https://rakennustyohostikka.fi/contact-us",
+      "https://rakennustyohostikka.fi/about",
+      "https://rakennustyohostikka.fi/about-us",
+      "https://rakennustyohostikka.fi/ota-yhteytta",
+      "https://rakennustyohostikka.fi/meille"
+    ]
+  },
+  "siivouspalvelukota.fi": {
+    "domain": "siivouspalvelukota.fi",
+    "emails": [
+      "info@siivouspalvelukota.fi",
+      "heli@siivouspalvelukota.fi",
+      "henriikka@siivouspalvelukota.fi",
+      "pasi.ruohonen@siivouspalvelukota.fi"
+    ],
+    "phone": "019607843",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:13.197Z",
+    "pagesChecked": [
+      "https://siivouspalvelukota.fi",
+      "https://siivouspalvelukota.fi/yhteystiedot",
+      "https://siivouspalvelukota.fi/yhteystiedot/",
+      "https://siivouspalvelukota.fi/contact",
+      "https://siivouspalvelukota.fi/contact-us",
+      "https://siivouspalvelukota.fi/about",
+      "https://siivouspalvelukota.fi/about-us",
+      "https://siivouspalvelukota.fi/ota-yhteytta",
+      "https://siivouspalvelukota.fi/meille"
+    ]
+  },
+  "mmkkuljetus.fi": {
+    "domain": "mmkkuljetus.fi",
+    "emails": [
+      "tilaukset@mmkkuljetus.fi",
+      "9102tilaukset@mmkkuljetus.fi",
+      "jenni.roni@mmkkuljetus.fi",
+      "harri.kiljunen@mmkkuljetus.fi",
+      "vili.tuononen@mmkkuljetus.fi",
+      "atte.turkia@mmkkuljetus.fi",
+      "matti.kosonen@mmkkuljetus.fi",
+      "laskutus@mmkkuljetus.fi",
+      "tiina.mynttinen@mmkkuljetus.fi",
+      "minna.ronkanen@mmkkuljetus.fi",
+      "marko.kilpia@mmkkuljetus.fi",
+      "mikko.kilpia@mmkkuljetus.fi",
+      "tilaukset@kuljetuskilpia.fi",
+      "korjaamo@mmkpower.fi",
+      "1538korjaamo@mmkpower.fi",
+      "jari.oinonen@mmkpower.fi",
+      "eetu.kiljunen@mmkpower.fi",
+      "etunimi.sukunimi@kuljetuskilpia.fi",
+      "mail@mail.mail",
+      "11201mail@mail.mail",
+      "55mail@mail.mail"
+    ],
+    "phone": "045 324 9102",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:13.695Z",
+    "pagesChecked": [
+      "https://mmkkuljetus.fi",
+      "https://mmkkuljetus.fi/yhteystiedot",
+      "https://mmkkuljetus.fi/yhteystiedot/",
+      "https://mmkkuljetus.fi/contact",
+      "https://mmkkuljetus.fi/contact-us",
+      "https://mmkkuljetus.fi/about",
+      "https://mmkkuljetus.fi/about-us",
+      "https://mmkkuljetus.fi/ota-yhteytta",
+      "https://mmkkuljetus.fi/meille"
+    ]
+  },
+  "mrvinfra.fi": {
+    "domain": "mrvinfra.fi",
+    "emails": [
+      "tarjouspyynto@mrvinfra.fi",
+      "jani@mrvinfra.fi",
+      "info@mrvinfra.fi",
+      "003727971376@procountor.apix.fi"
+    ],
+    "phone": "01005613",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:14.527Z",
+    "pagesChecked": [
+      "https://mrvinfra.fi",
+      "https://mrvinfra.fi/yhteystiedot",
+      "https://mrvinfra.fi/yhteystiedot/",
+      "https://mrvinfra.fi/contact",
+      "https://mrvinfra.fi/contact-us",
+      "https://mrvinfra.fi/about",
+      "https://mrvinfra.fi/about-us",
+      "https://mrvinfra.fi/ota-yhteytta",
+      "https://mrvinfra.fi/meille"
+    ]
+  },
+  "nclean.fi": {
+    "domain": "nclean.fi",
+    "emails": [
+      "nclean@nclean.fi",
+      "anne-marie.ylikangas@nclean.fi",
+      "leena.gerdt@nclean.fi",
+      "akseli.hammaren@nclean.fi",
+      "mervi.haapiainen@nclean.fi",
+      "sonja.saijets@nclean.fi",
+      "maija.laine@nclean.fi",
+      "elina.nurminen@nclean.fi",
+      "ville.tuhkanen@nclean.fi",
+      "pekka.tolonen@nclean.fi",
+      "hanni.hakkarainen@nclean.fi",
+      "hannele.helenius@nclean.fi",
+      "minna.sippola@nclean.fi",
+      "tuomas.hvitfelt@nclean.fi",
+      "merja.alatalo@nclean.fi",
+      "lotta.karjalainen@nclean.fi",
+      "kaisa.makinen@nclean.fi",
+      "carita.laakkonen@nclean.fi",
+      "tarja.wester@nclean.fi",
+      "anna-maija.maatta@nclean.fi",
+      "anja.myllyla@nclean.fi",
+      "santtu.jokinen@nclean.fi",
+      "sini.kivimaa@nclean.fi",
+      "marika.lappi@nclean.fi",
+      "elina.harkki@nclean.fi",
+      "panu.kinnari@nclean.fi",
+      "nita.kumpu-tiinus@nclean.fi",
+      "jenni.hakli@nclean.fi",
+      "laskutus.nclean@nclean.fi",
+      "joakim.sjostedt@miabab.se",
+      "invoices-1009938-2@kollektorinvoice.com",
+      "invoices-3207392-5@kollektorinvoice.com"
+    ],
+    "phone": "020 743 2450",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:14.837Z",
+    "pagesChecked": [
+      "https://nclean.fi",
+      "https://nclean.fi/yhteystiedot",
+      "https://nclean.fi/yhteystiedot/",
+      "https://nclean.fi/contact",
+      "https://nclean.fi/contact-us",
+      "https://nclean.fi/about",
+      "https://nclean.fi/about-us",
+      "https://nclean.fi/ota-yhteytta",
+      "https://nclean.fi/meille"
+    ]
+  },
+  "alinahoivatiimi.fi": {
+    "domain": "alinahoivatiimi.fi",
+    "emails": [
+      "info@alinahoivatiimi.fi"
+    ],
+    "phone": "075751986892",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:16.063Z",
+    "pagesChecked": [
+      "https://alinahoivatiimi.fi",
+      "https://alinahoivatiimi.fi/yhteystiedot",
+      "https://alinahoivatiimi.fi/yhteystiedot/",
+      "https://alinahoivatiimi.fi/contact",
+      "https://alinahoivatiimi.fi/contact-us",
+      "https://alinahoivatiimi.fi/about",
+      "https://alinahoivatiimi.fi/about-us",
+      "https://alinahoivatiimi.fi/ota-yhteytta",
+      "https://alinahoivatiimi.fi/meille"
+    ]
+  },
+  "lviasiantuntija.fi": {
+    "domain": "lviasiantuntija.fi",
+    "emails": [
+      "info@lviasiantuntija.fi",
+      "jeremias.leppanen@lviasiantuntija.fi",
+      "kati.reittu@lviasiantuntija.fi",
+      "bogdan.ronskyi@lviasiantuntija.fi",
+      "kari.manty@lviasiantuntija.fi"
+    ],
+    "phone": "0792 9620",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:16.722Z",
+    "pagesChecked": [
+      "https://lviasiantuntija.fi",
+      "https://lviasiantuntija.fi/yhteystiedot",
+      "https://lviasiantuntija.fi/yhteystiedot/",
+      "https://lviasiantuntija.fi/contact",
+      "https://lviasiantuntija.fi/contact-us",
+      "https://lviasiantuntija.fi/about",
+      "https://lviasiantuntija.fi/about-us",
+      "https://lviasiantuntija.fi/ota-yhteytta",
+      "https://lviasiantuntija.fi/meille"
+    ]
+  },
+  "tarvikecenter.com": {
+    "domain": "tarvikecenter.com",
+    "emails": [
+      "info@tarvikecenter.com"
+    ],
+    "phone": "04472100",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:17.383Z",
+    "pagesChecked": [
+      "https://tarvikecenter.com",
+      "https://tarvikecenter.com/yhteystiedot",
+      "https://tarvikecenter.com/yhteystiedot/",
+      "https://tarvikecenter.com/contact",
+      "https://tarvikecenter.com/contact-us",
+      "https://tarvikecenter.com/about",
+      "https://tarvikecenter.com/about-us",
+      "https://tarvikecenter.com/ota-yhteytta",
+      "https://tarvikecenter.com/meille"
+    ]
+  },
+  "sahkosaarelainen.fi": {
+    "domain": "sahkosaarelainen.fi",
+    "emails": [
+      "%20jari.lehikoinen@sahko-saarelainen.fi",
+      "%20jonne.turpeinen@sahko-saarelainen.fi",
+      "%20petri.lintunen@sahko-saarelainen.fi",
+      "%20kari.surakka@sahko-saarelainen.fi",
+      "%20jyrki.utriainen@sahko-saarelainen.fi",
+      "%20jarkko.lintunen@sahko-saarelainen.fi",
+      "%20pekka.pesonen@sahko-saarelainen.fi",
+      "%20antti.saarelainen@sahko-saarelainen.fi",
+      "%20jorma.tykkylainen@sahko-saarelainen.fi",
+      "etunimi.sukunimi@sahko-saarelainen.fi"
+    ],
+    "phone": "+358103975000",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:17.837Z",
+    "pagesChecked": [
+      "https://sahkosaarelainen.fi",
+      "https://sahkosaarelainen.fi/yhteystiedot",
+      "https://sahkosaarelainen.fi/yhteystiedot/",
+      "https://sahkosaarelainen.fi/contact",
+      "https://sahkosaarelainen.fi/contact-us",
+      "https://sahkosaarelainen.fi/about",
+      "https://sahkosaarelainen.fi/about-us",
+      "https://sahkosaarelainen.fi/ota-yhteytta",
+      "https://sahkosaarelainen.fi/meille"
+    ]
+  },
+  "rehti-isannointi.fi": {
+    "domain": "rehti-isannointi.fi",
+    "emails": [
+      "info@rehti-isannointi.fi",
+      "mika.mali@rehti-isannointi.fi",
+      "harri.koskinen@rehti-isannointi.fi",
+      "pekka.rissanen@rehti-isannointi.fi",
+      "timo.ylonen@rehti-isannointi.fi",
+      "harri.vilonen@rehti-isannointi.fi",
+      "maria.tarhasaari@rehti-isannointi.fi",
+      "susanna.oksala@rehti-isannointi.fi"
+    ],
+    "phone": "0152-0153",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:18.833Z",
+    "pagesChecked": [
+      "https://rehti-isannointi.fi",
+      "https://rehti-isannointi.fi/yhteystiedot",
+      "https://rehti-isannointi.fi/yhteystiedot/",
+      "https://rehti-isannointi.fi/contact",
+      "https://rehti-isannointi.fi/contact-us",
+      "https://rehti-isannointi.fi/about",
+      "https://rehti-isannointi.fi/about-us",
+      "https://rehti-isannointi.fi/ota-yhteytta",
+      "https://rehti-isannointi.fi/meille"
+    ]
+  },
+  "uusiolampo.fi": {
+    "domain": "uusiolampo.fi",
+    "emails": [
+      "myynti@uusiolampo.fi",
+      "sami.ahola@uusiolampo.fi"
+    ],
+    "phone": "0124411670",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:19.533Z",
+    "pagesChecked": [
+      "https://uusiolampo.fi",
+      "https://uusiolampo.fi/yhteystiedot",
+      "https://uusiolampo.fi/yhteystiedot/",
+      "https://uusiolampo.fi/contact",
+      "https://uusiolampo.fi/contact-us",
+      "https://uusiolampo.fi/about",
+      "https://uusiolampo.fi/about-us",
+      "https://uusiolampo.fi/ota-yhteytta",
+      "https://uusiolampo.fi/meille"
+    ]
+  },
+  "tjairtec.fi": {
+    "domain": "tjairtec.fi",
+    "emails": [
+      "toni.juslin@tjairtec.fi"
+    ],
+    "phone": "0152-0153",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:20.337Z",
+    "pagesChecked": [
+      "https://tjairtec.fi",
+      "https://tjairtec.fi/yhteystiedot",
+      "https://tjairtec.fi/yhteystiedot/",
+      "https://tjairtec.fi/contact",
+      "https://tjairtec.fi/contact-us",
+      "https://tjairtec.fi/about",
+      "https://tjairtec.fi/about-us",
+      "https://tjairtec.fi/ota-yhteytta",
+      "https://tjairtec.fi/meille"
+    ]
+  },
+  "mrlt.fi": {
+    "domain": "mrlt.fi",
+    "emails": [
+      "mrltposti@mrlt.fi"
+    ],
+    "phone": "00950377",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:21.678Z",
+    "pagesChecked": [
+      "https://mrlt.fi",
+      "https://mrlt.fi/yhteystiedot",
+      "https://mrlt.fi/yhteystiedot/",
+      "https://mrlt.fi/contact",
+      "https://mrlt.fi/contact-us",
+      "https://mrlt.fi/about",
+      "https://mrlt.fi/about-us",
+      "https://mrlt.fi/ota-yhteytta",
+      "https://mrlt.fi/meille"
+    ]
+  },
+  "maijasto.fi": {
+    "domain": "maijasto.fi",
+    "emails": [
+      "laskut@maijasto.fi",
+      "maija.von.knorring@maijasto.fi",
+      "ullamaria.hall@maijasto.fi",
+      "eero.puranen@maijasto.fi",
+      "pikkis.hukkanen@maijasto.fi",
+      "johanna.hall@maijasto.fi",
+      "elisa.haikio@maijasto.fi",
+      "maija.koskelo@maijasto.fi",
+      "niina.pohjonen@maijasto.fi",
+      "tekniset@maijasto.fi",
+      "isannointi@maijasto.fi"
+    ],
+    "phone": "0102-0103",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:21.960Z",
+    "pagesChecked": [
+      "https://maijasto.fi",
+      "https://maijasto.fi/yhteystiedot",
+      "https://maijasto.fi/yhteystiedot/",
+      "https://maijasto.fi/contact",
+      "https://maijasto.fi/contact-us",
+      "https://maijasto.fi/about",
+      "https://maijasto.fi/about-us",
+      "https://maijasto.fi/ota-yhteytta",
+      "https://maijasto.fi/meille"
+    ]
+  },
+  "koneurakointihartikka.fi": {
+    "domain": "koneurakointihartikka.fi",
+    "emails": [
+      "mail@koneurakointihartikka.fi",
+      "tomihartikka@gmail.com"
+    ],
+    "phone": "00848616",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:22.397Z",
+    "pagesChecked": [
+      "https://koneurakointihartikka.fi",
+      "https://koneurakointihartikka.fi/yhteystiedot",
+      "https://koneurakointihartikka.fi/yhteystiedot/",
+      "https://koneurakointihartikka.fi/contact",
+      "https://koneurakointihartikka.fi/contact-us",
+      "https://koneurakointihartikka.fi/about",
+      "https://koneurakointihartikka.fi/about-us",
+      "https://koneurakointihartikka.fi/ota-yhteytta",
+      "https://koneurakointihartikka.fi/meille"
+    ]
+  },
+  "winclean.fi": {
+    "domain": "winclean.fi",
+    "emails": [],
+    "phone": "0 0 100 100",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:22.533Z",
+    "pagesChecked": [
+      "https://winclean.fi",
+      "https://winclean.fi/yhteystiedot",
+      "https://winclean.fi/yhteystiedot/",
+      "https://winclean.fi/contact",
+      "https://winclean.fi/contact-us",
+      "https://winclean.fi/about",
+      "https://winclean.fi/about-us",
+      "https://winclean.fi/ota-yhteytta",
+      "https://winclean.fi/meille"
+    ],
+    "error": "Could not reach https://winclean.fi/contact"
+  },
+  "pienkone-ekspertit.fi": {
+    "domain": "pienkone-ekspertit.fi",
+    "emails": [
+      "myynti@pienkone-ekspertit.fi",
+      "mail@mail.com"
+    ],
+    "phone": "0152-0153",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:26.292Z",
+    "pagesChecked": [
+      "https://pienkone-ekspertit.fi",
+      "https://pienkone-ekspertit.fi/yhteystiedot",
+      "https://pienkone-ekspertit.fi/yhteystiedot/",
+      "https://pienkone-ekspertit.fi/contact",
+      "https://pienkone-ekspertit.fi/contact-us",
+      "https://pienkone-ekspertit.fi/about",
+      "https://pienkone-ekspertit.fi/about-us",
+      "https://pienkone-ekspertit.fi/ota-yhteytta",
+      "https://pienkone-ekspertit.fi/meille"
+    ]
+  },
+  "tjsiivous.fi": {
+    "domain": "tjsiivous.fi",
+    "emails": [
+      "tjsiivousjakotiapu@gmail.com"
+    ],
+    "phone": "09232772232",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:26.637Z",
+    "pagesChecked": [
+      "https://tjsiivous.fi",
+      "https://tjsiivous.fi/yhteystiedot",
+      "https://tjsiivous.fi/yhteystiedot/",
+      "https://tjsiivous.fi/contact",
+      "https://tjsiivous.fi/contact-us",
+      "https://tjsiivous.fi/about",
+      "https://tjsiivous.fi/about-us",
+      "https://tjsiivous.fi/ota-yhteytta",
+      "https://tjsiivous.fi/meille"
+    ]
+  },
+  "siivoova.fi": {
+    "domain": "siivoova.fi",
+    "emails": [
+      "asiakaspalvelu@siivoova.fi",
+      "oulu@siivoova.fi"
+    ],
+    "phone": "+3584578711527",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:30.887Z",
+    "pagesChecked": [
+      "https://siivoova.fi",
+      "https://siivoova.fi/yhteystiedot",
+      "https://siivoova.fi/yhteystiedot/",
+      "https://siivoova.fi/contact",
+      "https://siivoova.fi/contact-us",
+      "https://siivoova.fi/about",
+      "https://siivoova.fi/about-us",
+      "https://siivoova.fi/ota-yhteytta",
+      "https://siivoova.fi/meille"
+    ]
+  },
+  "puustelli.fi": {
+    "domain": "puustelli.fi",
+    "emails": [],
+    "phone": "03844439",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:30.901Z",
+    "pagesChecked": [
+      "https://puustelli.fi",
+      "https://puustelli.fi/yhteystiedot",
+      "https://puustelli.fi/yhteystiedot/",
+      "https://puustelli.fi/contact",
+      "https://puustelli.fi/contact-us",
+      "https://puustelli.fi/about",
+      "https://puustelli.fi/about-us",
+      "https://puustelli.fi/ota-yhteytta",
+      "https://puustelli.fi/meille"
+    ],
+    "error": "Could not reach https://puustelli.fi/contact"
+  },
+  "dsv.com": {
+    "domain": "dsv.com",
+    "emails": [],
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:34.297Z",
+    "pagesChecked": [
+      "https://dsv.com",
+      "https://dsv.com/yhteystiedot",
+      "https://dsv.com/yhteystiedot/",
+      "https://dsv.com/contact",
+      "https://dsv.com/contact-us",
+      "https://dsv.com/about",
+      "https://dsv.com/about-us",
+      "https://dsv.com/ota-yhteytta",
+      "https://dsv.com/meille"
+    ],
+    "error": "Could not reach https://dsv.com"
+  },
+  "kontuoy.fi": {
+    "domain": "kontuoy.fi",
+    "emails": [],
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:34.645Z",
+    "pagesChecked": [
+      "https://kontuoy.fi",
+      "https://kontuoy.fi/yhteystiedot",
+      "https://kontuoy.fi/yhteystiedot/",
+      "https://kontuoy.fi/contact",
+      "https://kontuoy.fi/contact-us",
+      "https://kontuoy.fi/about",
+      "https://kontuoy.fi/about-us",
+      "https://kontuoy.fi/ota-yhteytta",
+      "https://kontuoy.fi/meille"
+    ],
+    "error": "Could not reach https://kontuoy.fi"
+  },
+  "omenasiivous.fi": {
+    "domain": "omenasiivous.fi",
+    "emails": [],
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:38.891Z",
+    "pagesChecked": [
+      "https://omenasiivous.fi",
+      "https://omenasiivous.fi/yhteystiedot",
+      "https://omenasiivous.fi/yhteystiedot/",
+      "https://omenasiivous.fi/contact",
+      "https://omenasiivous.fi/contact-us",
+      "https://omenasiivous.fi/about",
+      "https://omenasiivous.fi/about-us",
+      "https://omenasiivous.fi/ota-yhteytta",
+      "https://omenasiivous.fi/meille"
+    ],
+    "error": "Could not reach https://omenasiivous.fi"
+  },
+  "meredin.fi": {
+    "domain": "meredin.fi",
+    "emails": [],
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:38.906Z",
+    "pagesChecked": [
+      "https://meredin.fi",
+      "https://meredin.fi/yhteystiedot",
+      "https://meredin.fi/yhteystiedot/",
+      "https://meredin.fi/contact",
+      "https://meredin.fi/contact-us",
+      "https://meredin.fi/about",
+      "https://meredin.fi/about-us",
+      "https://meredin.fi/ota-yhteytta",
+      "https://meredin.fi/meille"
+    ],
+    "error": "Could not reach https://meredin.fi"
+  },
+  "sktrengas.fi": {
+    "domain": "sktrengas.fi",
+    "emails": [
+      "info@sktrengas.fi",
+      "markku.korri@sktrengas.fi",
+      "ilkka@sktrengas.fi",
+      "risto@sktrengas.fi",
+      "jere.maatta@sktrengas.fi",
+      "tapani@sapparinkonetyo.fi",
+      "23207856@scan.netvisor.fi"
+    ],
+    "phone": "09236308",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:41.739Z",
+    "pagesChecked": [
+      "https://sktrengas.fi",
+      "https://sktrengas.fi/yhteystiedot",
+      "https://sktrengas.fi/yhteystiedot/",
+      "https://sktrengas.fi/contact",
+      "https://sktrengas.fi/contact-us",
+      "https://sktrengas.fi/about",
+      "https://sktrengas.fi/about-us",
+      "https://sktrengas.fi/ota-yhteytta",
+      "https://sktrengas.fi/meille"
+    ]
+  },
+  "lahdenputkipalvelut.fi": {
+    "domain": "lahdenputkipalvelut.fi",
+    "emails": [
+      "toimisto@lahdenputkipalvelut.fi",
+      "marko.merehinen@lahdenputkipalvelut.fi",
+      "ville.maenpaa@lahdenputkipalvelut.fi"
+    ],
+    "phone": "01191370",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:41.835Z",
+    "pagesChecked": [
+      "https://lahdenputkipalvelut.fi",
+      "https://lahdenputkipalvelut.fi/yhteystiedot",
+      "https://lahdenputkipalvelut.fi/yhteystiedot/",
+      "https://lahdenputkipalvelut.fi/contact",
+      "https://lahdenputkipalvelut.fi/contact-us",
+      "https://lahdenputkipalvelut.fi/about",
+      "https://lahdenputkipalvelut.fi/about-us",
+      "https://lahdenputkipalvelut.fi/ota-yhteytta",
+      "https://lahdenputkipalvelut.fi/meille"
+    ]
+  },
+  "latvaluopa.fi": {
+    "domain": "latvaluopa.fi",
+    "emails": [
+      "info@latvaluopa.fi",
+      "marjaana.mustasilta@lohimet.fi"
+    ],
+    "phone": "00984511",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:41.958Z",
+    "pagesChecked": [
+      "https://latvaluopa.fi",
+      "https://latvaluopa.fi/yhteystiedot",
+      "https://latvaluopa.fi/yhteystiedot/",
+      "https://latvaluopa.fi/contact",
+      "https://latvaluopa.fi/contact-us",
+      "https://latvaluopa.fi/about",
+      "https://latvaluopa.fi/about-us",
+      "https://latvaluopa.fi/ota-yhteytta",
+      "https://latvaluopa.fi/meille"
+    ]
+  },
+  "asuville.fi": {
+    "domain": "asuville.fi",
+    "emails": [
+      "ville.sinetta@asuville.fi"
+    ],
+    "phone": "00947386",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:42.568Z",
+    "pagesChecked": [
+      "https://asuville.fi",
+      "https://asuville.fi/yhteystiedot",
+      "https://asuville.fi/yhteystiedot/",
+      "https://asuville.fi/contact",
+      "https://asuville.fi/contact-us",
+      "https://asuville.fi/about",
+      "https://asuville.fi/about-us",
+      "https://asuville.fi/ota-yhteytta",
+      "https://asuville.fi/meille"
+    ]
+  },
+  "sahkoasennus-ristimaki.fi": {
+    "domain": "sahkoasennus-ristimaki.fi",
+    "emails": [
+      "info@sahkoasennus-ristimaki.fi"
+    ],
+    "phone": "0302-0303",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:44.720Z",
+    "pagesChecked": [
+      "https://sahkoasennus-ristimaki.fi",
+      "https://sahkoasennus-ristimaki.fi/yhteystiedot",
+      "https://sahkoasennus-ristimaki.fi/yhteystiedot/",
+      "https://sahkoasennus-ristimaki.fi/contact",
+      "https://sahkoasennus-ristimaki.fi/contact-us",
+      "https://sahkoasennus-ristimaki.fi/about",
+      "https://sahkoasennus-ristimaki.fi/about-us",
+      "https://sahkoasennus-ristimaki.fi/ota-yhteytta",
+      "https://sahkoasennus-ristimaki.fi/meille"
+    ]
+  },
+  "ek-asennustekniikka.fi": {
+    "domain": "ek-asennustekniikka.fi",
+    "emails": [
+      "eero@ek-asennustekniikka.fi"
+    ],
+    "phone": "08283641",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:45.045Z",
+    "pagesChecked": [
+      "https://ek-asennustekniikka.fi",
+      "https://ek-asennustekniikka.fi/yhteystiedot",
+      "https://ek-asennustekniikka.fi/yhteystiedot/",
+      "https://ek-asennustekniikka.fi/contact",
+      "https://ek-asennustekniikka.fi/contact-us",
+      "https://ek-asennustekniikka.fi/about",
+      "https://ek-asennustekniikka.fi/about-us",
+      "https://ek-asennustekniikka.fi/ota-yhteytta",
+      "https://ek-asennustekniikka.fi/meille"
+    ]
+  },
+  "kaivuujakuljetusptmakela.fi": {
+    "domain": "kaivuujakuljetusptmakela.fi",
+    "emails": [
+      "teromakela@hotmail.fi"
+    ],
+    "phone": "010360767",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:45.279Z",
+    "pagesChecked": [
+      "https://kaivuujakuljetusptmakela.fi",
+      "https://kaivuujakuljetusptmakela.fi/yhteystiedot",
+      "https://kaivuujakuljetusptmakela.fi/yhteystiedot/",
+      "https://kaivuujakuljetusptmakela.fi/contact",
+      "https://kaivuujakuljetusptmakela.fi/contact-us",
+      "https://kaivuujakuljetusptmakela.fi/about",
+      "https://kaivuujakuljetusptmakela.fi/about-us",
+      "https://kaivuujakuljetusptmakela.fi/ota-yhteytta",
+      "https://kaivuujakuljetusptmakela.fi/meille"
+    ]
+  },
+  "putkiahti.fi": {
+    "domain": "putkiahti.fi",
+    "emails": [
+      "riku.ahvonen@putkiahti.fi"
+    ],
+    "phone": "01044085",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:45.534Z",
+    "pagesChecked": [
+      "https://putkiahti.fi",
+      "https://putkiahti.fi/yhteystiedot",
+      "https://putkiahti.fi/yhteystiedot/",
+      "https://putkiahti.fi/contact",
+      "https://putkiahti.fi/contact-us",
+      "https://putkiahti.fi/about",
+      "https://putkiahti.fi/about-us",
+      "https://putkiahti.fi/ota-yhteytta",
+      "https://putkiahti.fi/meille"
+    ]
+  },
+  "siskonsiivous.fi": {
+    "domain": "siskonsiivous.fi",
+    "emails": [
+      "asiakaspalvelu@siskonsiivous.fi",
+      "ronja.witick@siskonsiivous.fi",
+      "tiia.virolainen@siskonsiivous.fi",
+      "sofia.tallila@siskonsiivous.fi",
+      "ostolaskut@siskonsiivous.fi",
+      "rekrytointi@siskonsiivous.fi",
+      "tommi.outinen@siskonsiivous.fi",
+      "kaisa.kajak@siskonsiivous.fi",
+      "terhi.pyyhtia@siskonsiivous.fi",
+      "irene.parviainen@siskonsiivous.fi",
+      "anni.koskinen@siskonsiivous.fi",
+      "simo.tenhunen@siskonsiivous.fi",
+      "katja.pusta-ek@siskonsiivous.fi",
+      "helena.haihu-nurmi@siskonsiivous.fi",
+      "robert.tedre@siskonsiivous.fi",
+      "kati.kukkola@siskonsiivous.fi",
+      "kristiina.lougas@siskonsiivous.fi",
+      "tulan.samaletdin@siskonsiivous.fi",
+      "niina.nyman@siskonsiivous.fi",
+      "venla.jussila@siskonsiivous.fi",
+      "pille.lohmus@siskonsiivous.fi",
+      "cristian.copadineanu@siskonsiivous.fi",
+      "kirsika.sinisalu@siskonsiivous.fi",
+      "killy.vainikka@siskonsiivous.fi",
+      "kaie.saagpakk@siskonsiivous.fi",
+      "claudia.rahnel@siskonsiivous.fi",
+      "irma.varblane@siskonsiivous.fi",
+      "mari.leppoja@siskonsiivous.fi",
+      "jaanika.horg@siskonsiivous.fi",
+      "katre.laanemets@siskonsiivous.fi",
+      "tarja.kumpulainen@siskonsiivous.fi",
+      "kadri.sormus@siskonsiivous.fi",
+      "livia.aru@siskonsiivous.fi",
+      "saana.maki@siskonsiivous.fi",
+      "mia.murro@siskonsiivous.fi",
+      "jonna.roine@siskonsiivous.fi",
+      "jere.laukkanen@siskonsiivous.fi",
+      "jenna.nurmio@siskonsiivous.fi",
+      "vili.sandberg@siskonsiivous.fi",
+      "matti.haikara@siskonsiivous.fi",
+      "merja.teperi-kemppainen@siskonsiivous.fi",
+      "ly.lees@siskonsiivous.fi",
+      "kayode.adebiyi@siskonsiivous.fi",
+      "anne.m.schwartz@siskonsiivous.fi",
+      "jagadeesan@siskonsiivous.fi",
+      "andra.vain@siskonsiivous.fi",
+      "terhi.kotkansalo@siskonsiivous.fi",
+      "juha.niskanen@siskonsiivous.fi",
+      "minna.kylmanen@siskonsiivous.fi",
+      "anna-leena.valkila@siskonsiivous.fi",
+      "laura.sorri@siskonsiivous.fi",
+      "jonna.mertanen@siskonsiivous.fi",
+      "palkat@siskonsiivous.fi",
+      "esimerkki@esimerkki.com",
+      "your.email@example.com"
+    ],
+    "phone": "0 0 100 100",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:48.021Z",
+    "pagesChecked": [
+      "https://siskonsiivous.fi",
+      "https://siskonsiivous.fi/yhteystiedot",
+      "https://siskonsiivous.fi/yhteystiedot/",
+      "https://siskonsiivous.fi/contact",
+      "https://siskonsiivous.fi/contact-us",
+      "https://siskonsiivous.fi/about",
+      "https://siskonsiivous.fi/about-us",
+      "https://siskonsiivous.fi/ota-yhteytta",
+      "https://siskonsiivous.fi/meille"
+    ]
+  },
+  "mmsiivouspalvelut.fi": {
+    "domain": "mmsiivouspalvelut.fi",
+    "emails": [
+      "info@mmsiivouspalvelut.fi"
+    ],
+    "phone": "00780531",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:48.947Z",
+    "pagesChecked": [
+      "https://mmsiivouspalvelut.fi",
+      "https://mmsiivouspalvelut.fi/yhteystiedot",
+      "https://mmsiivouspalvelut.fi/yhteystiedot/",
+      "https://mmsiivouspalvelut.fi/contact",
+      "https://mmsiivouspalvelut.fi/contact-us",
+      "https://mmsiivouspalvelut.fi/about",
+      "https://mmsiivouspalvelut.fi/about-us",
+      "https://mmsiivouspalvelut.fi/ota-yhteytta",
+      "https://mmsiivouspalvelut.fi/meille"
+    ]
+  },
+  "ahmamotor.fi": {
+    "domain": "ahmamotor.fi",
+    "emails": [
+      "info@ahmamotor.fi"
+    ],
+    "phone": "030111-1920",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:49.023Z",
+    "pagesChecked": [
+      "https://ahmamotor.fi",
+      "https://ahmamotor.fi/yhteystiedot",
+      "https://ahmamotor.fi/yhteystiedot/",
+      "https://ahmamotor.fi/contact",
+      "https://ahmamotor.fi/contact-us",
+      "https://ahmamotor.fi/about",
+      "https://ahmamotor.fi/about-us",
+      "https://ahmamotor.fi/ota-yhteytta",
+      "https://ahmamotor.fi/meille"
+    ]
+  },
+  "hameenlaatusiivous.fi": {
+    "domain": "hameenlaatusiivous.fi",
+    "emails": [
+      "info@hameenlaatusiivous.fi"
+    ],
+    "phone": "072681879482",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:52.015Z",
+    "pagesChecked": [
+      "https://hameenlaatusiivous.fi",
+      "https://hameenlaatusiivous.fi/yhteystiedot",
+      "https://hameenlaatusiivous.fi/yhteystiedot/",
+      "https://hameenlaatusiivous.fi/contact",
+      "https://hameenlaatusiivous.fi/contact-us",
+      "https://hameenlaatusiivous.fi/about",
+      "https://hameenlaatusiivous.fi/about-us",
+      "https://hameenlaatusiivous.fi/ota-yhteytta",
+      "https://hameenlaatusiivous.fi/meille"
+    ]
+  },
+  "rakaskoti.fi": {
+    "domain": "rakaskoti.fi",
+    "emails": [
+      "%20info@rakaskoti.fi",
+      "info@rakaskoti.fi"
+    ],
+    "phone": "0 0 320 512",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:53.194Z",
+    "pagesChecked": [
+      "https://rakaskoti.fi",
+      "https://rakaskoti.fi/yhteystiedot",
+      "https://rakaskoti.fi/yhteystiedot/",
+      "https://rakaskoti.fi/contact",
+      "https://rakaskoti.fi/contact-us",
+      "https://rakaskoti.fi/about",
+      "https://rakaskoti.fi/about-us",
+      "https://rakaskoti.fi/ota-yhteytta",
+      "https://rakaskoti.fi/meille"
+    ]
+  },
+  "urhopesu.fi": {
+    "domain": "urhopesu.fi",
+    "emails": [
+      "toimisto@urhopesu.fi",
+      "jaakko@urhopesu.fi"
+    ],
+    "phone": "03314434",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:53.263Z",
+    "pagesChecked": [
+      "https://urhopesu.fi",
+      "https://urhopesu.fi/yhteystiedot",
+      "https://urhopesu.fi/yhteystiedot/",
+      "https://urhopesu.fi/contact",
+      "https://urhopesu.fi/contact-us",
+      "https://urhopesu.fi/about",
+      "https://urhopesu.fi/about-us",
+      "https://urhopesu.fi/ota-yhteytta",
+      "https://urhopesu.fi/meille"
+    ]
+  },
+  "tunturilapinisannointipalvelu.fi": {
+    "domain": "tunturilapinisannointipalvelu.fi",
+    "emails": [],
+    "phone": "04378635",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:54.850Z",
+    "pagesChecked": [
+      "https://tunturilapinisannointipalvelu.fi",
+      "https://tunturilapinisannointipalvelu.fi/yhteystiedot",
+      "https://tunturilapinisannointipalvelu.fi/yhteystiedot/",
+      "https://tunturilapinisannointipalvelu.fi/contact",
+      "https://tunturilapinisannointipalvelu.fi/contact-us",
+      "https://tunturilapinisannointipalvelu.fi/about",
+      "https://tunturilapinisannointipalvelu.fi/about-us",
+      "https://tunturilapinisannointipalvelu.fi/ota-yhteytta",
+      "https://tunturilapinisannointipalvelu.fi/meille"
+    ],
+    "error": "Could not reach https://tunturilapinisannointipalvelu.fi/contact"
+  },
+  "smobbi.fi": {
+    "domain": "smobbi.fi",
+    "emails": [
+      "info@smobbi.fi",
+      "esa.karhumaa@smobbi.fi",
+      "etunimi.sukunimi@sahkoposti.fi"
+    ],
+    "phone": "01085643",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:55.658Z",
+    "pagesChecked": [
+      "https://smobbi.fi",
+      "https://smobbi.fi/yhteystiedot",
+      "https://smobbi.fi/yhteystiedot/",
+      "https://smobbi.fi/contact",
+      "https://smobbi.fi/contact-us",
+      "https://smobbi.fi/about",
+      "https://smobbi.fi/about-us",
+      "https://smobbi.fi/ota-yhteytta",
+      "https://smobbi.fi/meille"
+    ]
+  },
+  "kolmensepanisannointi.fi": {
+    "domain": "kolmensepanisannointi.fi",
+    "emails": [
+      "asiakaspalvelu@kolmensepanisannointi.fi",
+      "niko.matinpalo@kolmensepanisannointi.fi",
+      "jani.laaksolahti@kolmensepanisannointi.fi"
+    ],
+    "phone": "0 0 100 100",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:56.854Z",
+    "pagesChecked": [
+      "https://kolmensepanisannointi.fi",
+      "https://kolmensepanisannointi.fi/yhteystiedot",
+      "https://kolmensepanisannointi.fi/yhteystiedot/",
+      "https://kolmensepanisannointi.fi/contact",
+      "https://kolmensepanisannointi.fi/contact-us",
+      "https://kolmensepanisannointi.fi/about",
+      "https://kolmensepanisannointi.fi/about-us",
+      "https://kolmensepanisannointi.fi/ota-yhteytta",
+      "https://kolmensepanisannointi.fi/meille"
+    ]
+  },
+  "maritim.fi": {
+    "domain": "maritim.fi",
+    "emails": [],
+    "phone": "00750591300",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:58.129Z",
+    "pagesChecked": [
+      "https://maritim.fi",
+      "https://maritim.fi/yhteystiedot",
+      "https://maritim.fi/yhteystiedot/",
+      "https://maritim.fi/contact",
+      "https://maritim.fi/contact-us",
+      "https://maritim.fi/about",
+      "https://maritim.fi/about-us",
+      "https://maritim.fi/ota-yhteytta",
+      "https://maritim.fi/meille"
+    ],
+    "error": "Could not reach https://maritim.fi/contact-us"
+  },
+  "kaukokiito.fi": {
+    "domain": "kaukokiito.fi",
+    "emails": [
+      "info@kaukokiito.fi",
+      "tarjous@kaukokiito.fi",
+      "selvitys@kaukokiito.fi",
+      "laskutiedustelu@kaukokiito.fi",
+      "kaukoputkituki@kaukokiito.fi",
+      "edi.support@kaukokiito.fi",
+      "vahingot@kaukokiito.fi",
+      "pekka.karjalainen@kaukokiito.fi"
+    ],
+    "phone": "0 0 100 100",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:58.905Z",
+    "pagesChecked": [
+      "https://kaukokiito.fi",
+      "https://kaukokiito.fi/yhteystiedot",
+      "https://kaukokiito.fi/yhteystiedot/",
+      "https://kaukokiito.fi/contact",
+      "https://kaukokiito.fi/contact-us",
+      "https://kaukokiito.fi/about",
+      "https://kaukokiito.fi/about-us",
+      "https://kaukokiito.fi/ota-yhteytta",
+      "https://kaukokiito.fi/meille"
+    ]
+  },
+  "hsi.fi": {
+    "domain": "hsi.fi",
+    "emails": [],
+    "phone": "08073624",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:01:59.228Z",
+    "pagesChecked": [
+      "https://hsi.fi",
+      "https://hsi.fi/yhteystiedot",
+      "https://hsi.fi/yhteystiedot/",
+      "https://hsi.fi/contact",
+      "https://hsi.fi/contact-us",
+      "https://hsi.fi/about",
+      "https://hsi.fi/about-us",
+      "https://hsi.fi/ota-yhteytta",
+      "https://hsi.fi/meille"
+    ],
+    "error": "Could not reach https://hsi.fi/yhteystiedot/"
+  },
+  "lampovelho.fi": {
+    "domain": "lampovelho.fi",
+    "emails": [
+      "lampovelho@lampovelho.fi",
+      "jonne.rantala@lampovelho.fi",
+      "lauri.juvonen@lampovelho.fi",
+      "teemu.ryynanen@lampovelho.fi",
+      "etunimi.sukunimi@lampovelho.fi",
+      "admicom@xbs-salo.com"
+    ],
+    "phone": "0152-0153",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:01.096Z",
+    "pagesChecked": [
+      "https://lampovelho.fi",
+      "https://lampovelho.fi/yhteystiedot",
+      "https://lampovelho.fi/yhteystiedot/",
+      "https://lampovelho.fi/contact",
+      "https://lampovelho.fi/contact-us",
+      "https://lampovelho.fi/about",
+      "https://lampovelho.fi/about-us",
+      "https://lampovelho.fi/ota-yhteytta",
+      "https://lampovelho.fi/meille"
+    ]
+  },
+  "laaninkuljetus.fi": {
+    "domain": "laaninkuljetus.fi",
+    "emails": [],
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:01.272Z",
+    "pagesChecked": [
+      "https://laaninkuljetus.fi",
+      "https://laaninkuljetus.fi/yhteystiedot",
+      "https://laaninkuljetus.fi/yhteystiedot/",
+      "https://laaninkuljetus.fi/contact",
+      "https://laaninkuljetus.fi/contact-us",
+      "https://laaninkuljetus.fi/about",
+      "https://laaninkuljetus.fi/about-us",
+      "https://laaninkuljetus.fi/ota-yhteytta",
+      "https://laaninkuljetus.fi/meille"
+    ],
+    "error": "Could not reach https://laaninkuljetus.fi"
+  },
+  "fluxioisannointi.fi": {
+    "domain": "fluxioisannointi.fi",
+    "emails": [
+      "asiakaspalvelu@fluxio.fi",
+      "anna.koskenkorva@fluxio.fi"
+    ],
+    "phone": "010 339 0533",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:01.443Z",
+    "pagesChecked": [
+      "https://fluxioisannointi.fi",
+      "https://fluxioisannointi.fi/yhteystiedot",
+      "https://fluxioisannointi.fi/yhteystiedot/",
+      "https://fluxioisannointi.fi/contact",
+      "https://fluxioisannointi.fi/contact-us",
+      "https://fluxioisannointi.fi/about",
+      "https://fluxioisannointi.fi/about-us",
+      "https://fluxioisannointi.fi/ota-yhteytta",
+      "https://fluxioisannointi.fi/meille"
+    ]
+  },
+  "venekeskus.com": {
+    "domain": "venekeskus.com",
+    "emails": [
+      "sales@venekeskus.com"
+    ],
+    "phone": "0651-225817",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:03.454Z",
+    "pagesChecked": [
+      "https://venekeskus.com",
+      "https://venekeskus.com/yhteystiedot",
+      "https://venekeskus.com/yhteystiedot/",
+      "https://venekeskus.com/contact",
+      "https://venekeskus.com/contact-us",
+      "https://venekeskus.com/about",
+      "https://venekeskus.com/about-us",
+      "https://venekeskus.com/ota-yhteytta",
+      "https://venekeskus.com/meille"
+    ]
+  },
+  "isannointipiste.fi": {
+    "domain": "isannointipiste.fi",
+    "emails": [
+      "asiakaspalvelu@isannointipiste.fi",
+      "%20asiakaspalvelu@isannointipiste.fi",
+      "%20hannu.makela@isannointipiste.fi",
+      "%20tero.nevalainen@isannointipiste.fi",
+      "hannu.makela@isannointipiste.fi",
+      "tero.nevalainen@isannointipiste.fi",
+      "%20%20jussi.laukkanen@aamu.io",
+      "payform@bambora.com"
+    ],
+    "phone": "0 0 320 512",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:04.300Z",
+    "pagesChecked": [
+      "https://isannointipiste.fi",
+      "https://isannointipiste.fi/yhteystiedot",
+      "https://isannointipiste.fi/yhteystiedot/",
+      "https://isannointipiste.fi/contact",
+      "https://isannointipiste.fi/contact-us",
+      "https://isannointipiste.fi/about",
+      "https://isannointipiste.fi/about-us",
+      "https://isannointipiste.fi/ota-yhteytta",
+      "https://isannointipiste.fi/meille"
+    ]
+  },
+  "raymarine.com": {
+    "domain": "raymarine.com",
+    "emails": [],
+    "phone": "08061165312",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:04.310Z",
+    "pagesChecked": [
+      "https://raymarine.com",
+      "https://raymarine.com/yhteystiedot",
+      "https://raymarine.com/yhteystiedot/",
+      "https://raymarine.com/contact",
+      "https://raymarine.com/contact-us",
+      "https://raymarine.com/about",
+      "https://raymarine.com/about-us",
+      "https://raymarine.com/ota-yhteytta",
+      "https://raymarine.com/meille"
+    ],
+    "error": "Could not reach https://raymarine.com/yhteystiedot"
+  },
+  "lph.fi": {
+    "domain": "lph.fi",
+    "emails": [
+      "lvi@lph.fi",
+      "jani.piipponen@lph.fi",
+      "jatta.kiukkola@lph.fi",
+      "marko.suppula@lph.fi",
+      "tuukka.helin@lph.fi",
+      "marko.lahikainen@lph.fi",
+      "maarit.liukko@lph.fi",
+      "jari.kallijarvi@lph.fi",
+      "minna.sipponen@lph.fi"
+    ],
+    "phone": "083878350",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:04.757Z",
+    "pagesChecked": [
+      "https://lph.fi",
+      "https://lph.fi/yhteystiedot",
+      "https://lph.fi/yhteystiedot/",
+      "https://lph.fi/contact",
+      "https://lph.fi/contact-us",
+      "https://lph.fi/about",
+      "https://lph.fi/about-us",
+      "https://lph.fi/ota-yhteytta",
+      "https://lph.fi/meille"
+    ]
+  },
+  "heatco.fi": {
+    "domain": "heatco.fi",
+    "emails": [
+      "myynti@heatco.fi",
+      "suunnittelu@heatco.fi",
+      "pekka.aaltonen@heatco.fi",
+      "patrik.muli@heatco.fi",
+      "kimmo.korhonen@heatco.fi",
+      "eemeli.muli@heatco.fi",
+      "ossian.katainen@heatco.fi",
+      "heikki.ylanne@heatco.fi",
+      "nestori.naukkarinen@heatco.fi",
+      "laura.tyyska@heatco.fi",
+      "linnea.linnanmaki@heatco.fi",
+      "jyri.huttunen@heatco.fi",
+      "jyri.jalonen@heatco.fi",
+      "timo.marin@heatco.fi",
+      "olli-pekka.marin@heatco.fi",
+      "markku.tuomisto@heatco.fi",
+      "heikki.riihimaki@heatco.fi",
+      "valde.karppinen@heatco.fi",
+      "anssi.kimari@heatco.fi",
+      "jere.puustinen@heatco.fi",
+      "juuso.laurinmaki@heatco.fi",
+      "logistiikka@heatco.fi",
+      "saara.muli@heatco.fi",
+      "lauren.muli@heatco.fi",
+      "sauli.muli@heatco.fi",
+      "ossi.karhumaa@heatco.fi",
+      "taloushallinto@heatco.fi",
+      "huolto@heatco.fi"
+    ],
+    "phone": "0996094 0",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:06.011Z",
+    "pagesChecked": [
+      "https://heatco.fi",
+      "https://heatco.fi/yhteystiedot",
+      "https://heatco.fi/yhteystiedot/",
+      "https://heatco.fi/contact",
+      "https://heatco.fi/contact-us",
+      "https://heatco.fi/about",
+      "https://heatco.fi/about-us",
+      "https://heatco.fi/ota-yhteytta",
+      "https://heatco.fi/meille"
+    ]
+  },
+  "taloustaitaja.fi": {
+    "domain": "taloustaitaja.fi",
+    "emails": [
+      "toimisto@taloustaitaja.fi",
+      "jyrki.veijola@taloustaitaja.fi",
+      "etunimi.sukunimi@taloustaitaja.fi"
+    ],
+    "phone": "0400 158 314",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:08.383Z",
+    "pagesChecked": [
+      "https://taloustaitaja.fi",
+      "https://taloustaitaja.fi/yhteystiedot",
+      "https://taloustaitaja.fi/yhteystiedot/",
+      "https://taloustaitaja.fi/contact",
+      "https://taloustaitaja.fi/contact-us",
+      "https://taloustaitaja.fi/about",
+      "https://taloustaitaja.fi/about-us",
+      "https://taloustaitaja.fi/ota-yhteytta",
+      "https://taloustaitaja.fi/meille"
+    ]
+  },
+  "elfin.fi": {
+    "domain": "elfin.fi",
+    "emails": [],
+    "phone": "0 0 100 100",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:09.541Z",
+    "pagesChecked": [
+      "https://elfin.fi",
+      "https://elfin.fi/yhteystiedot",
+      "https://elfin.fi/yhteystiedot/",
+      "https://elfin.fi/contact",
+      "https://elfin.fi/contact-us",
+      "https://elfin.fi/about",
+      "https://elfin.fi/about-us",
+      "https://elfin.fi/ota-yhteytta",
+      "https://elfin.fi/meille"
+    ],
+    "error": "Could not reach https://elfin.fi/yhteystiedot"
+  },
+  "washup.fi": {
+    "domain": "washup.fi",
+    "emails": [
+      "info@washup.fi",
+      "yritysmyynti@washup.fi",
+      "yritysasiakaspalvelu@washup.fi",
+      "laskutus@washup.fi",
+      "markkinointi@washup.fi",
+      "rekry@washup.fi"
+    ],
+    "phone": "00000057",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:10.430Z",
+    "pagesChecked": [
+      "https://washup.fi",
+      "https://washup.fi/yhteystiedot",
+      "https://washup.fi/yhteystiedot/",
+      "https://washup.fi/contact",
+      "https://washup.fi/contact-us",
+      "https://washup.fi/about",
+      "https://washup.fi/about-us",
+      "https://washup.fi/ota-yhteytta",
+      "https://washup.fi/meille"
+    ]
+  },
+  "lempi.fi": {
+    "domain": "lempi.fi",
+    "emails": [
+      "info@lempi.fi",
+      "hello@power.com",
+      "31411304@scan.netvisor.fi",
+      "fsf.asiakaspalvelu@visma.com"
+    ],
+    "phone": "071868086",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:12.090Z",
+    "pagesChecked": [
+      "https://lempi.fi",
+      "https://lempi.fi/yhteystiedot",
+      "https://lempi.fi/yhteystiedot/",
+      "https://lempi.fi/contact",
+      "https://lempi.fi/contact-us",
+      "https://lempi.fi/about",
+      "https://lempi.fi/about-us",
+      "https://lempi.fi/ota-yhteytta",
+      "https://lempi.fi/meille"
+    ]
+  },
+  "optimasiivous.fi": {
+    "domain": "optimasiivous.fi",
+    "emails": [
+      "asiakaspalvelu@optimasiivous.fi"
+    ],
+    "phone": "0490-0491",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:12.292Z",
+    "pagesChecked": [
+      "https://optimasiivous.fi",
+      "https://optimasiivous.fi/yhteystiedot",
+      "https://optimasiivous.fi/yhteystiedot/",
+      "https://optimasiivous.fi/contact",
+      "https://optimasiivous.fi/contact-us",
+      "https://optimasiivous.fi/about",
+      "https://optimasiivous.fi/about-us",
+      "https://optimasiivous.fi/ota-yhteytta",
+      "https://optimasiivous.fi/meille"
+    ]
+  },
+  "pesurivuokraus.fi": {
+    "domain": "pesurivuokraus.fi",
+    "emails": [],
+    "phone": "044 977 2902",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:12.593Z",
+    "pagesChecked": [
+      "https://pesurivuokraus.fi",
+      "https://pesurivuokraus.fi/yhteystiedot",
+      "https://pesurivuokraus.fi/yhteystiedot/",
+      "https://pesurivuokraus.fi/contact",
+      "https://pesurivuokraus.fi/contact-us",
+      "https://pesurivuokraus.fi/about",
+      "https://pesurivuokraus.fi/about-us",
+      "https://pesurivuokraus.fi/ota-yhteytta",
+      "https://pesurivuokraus.fi/meille"
+    ],
+    "error": "Could not reach https://pesurivuokraus.fi/yhteystiedot"
+  },
+  "kotipuhtaaksi.fi": {
+    "domain": "kotipuhtaaksi.fi",
+    "emails": [
+      "asiakaspalvelu@kotipuhtaaksi.fi"
+    ],
+    "phone": "024-45-1024",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:15.027Z",
+    "pagesChecked": [
+      "https://kotipuhtaaksi.fi",
+      "https://kotipuhtaaksi.fi/yhteystiedot",
+      "https://kotipuhtaaksi.fi/yhteystiedot/",
+      "https://kotipuhtaaksi.fi/contact",
+      "https://kotipuhtaaksi.fi/contact-us",
+      "https://kotipuhtaaksi.fi/about",
+      "https://kotipuhtaaksi.fi/about-us",
+      "https://kotipuhtaaksi.fi/ota-yhteytta",
+      "https://kotipuhtaaksi.fi/meille"
+    ]
+  },
+  "freesikoti.fi": {
+    "domain": "freesikoti.fi",
+    "emails": [
+      "posti@freesikoti.fi"
+    ],
+    "phone": "+358503624765",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:15.277Z",
+    "pagesChecked": [
+      "https://freesikoti.fi",
+      "https://freesikoti.fi/yhteystiedot",
+      "https://freesikoti.fi/yhteystiedot/",
+      "https://freesikoti.fi/contact",
+      "https://freesikoti.fi/contact-us",
+      "https://freesikoti.fi/about",
+      "https://freesikoti.fi/about-us",
+      "https://freesikoti.fi/ota-yhteytta",
+      "https://freesikoti.fi/meille"
+    ]
+  },
+  "pohjanmaansiivous.fi": {
+    "domain": "pohjanmaansiivous.fi",
+    "emails": [],
+    "phone": "000464068964",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:16.746Z",
+    "pagesChecked": [
+      "https://pohjanmaansiivous.fi",
+      "https://pohjanmaansiivous.fi/yhteystiedot",
+      "https://pohjanmaansiivous.fi/yhteystiedot/",
+      "https://pohjanmaansiivous.fi/contact",
+      "https://pohjanmaansiivous.fi/contact-us",
+      "https://pohjanmaansiivous.fi/about",
+      "https://pohjanmaansiivous.fi/about-us",
+      "https://pohjanmaansiivous.fi/ota-yhteytta",
+      "https://pohjanmaansiivous.fi/meille"
+    ],
+    "error": "Could not reach https://pohjanmaansiivous.fi/contact"
+  },
+  "huoltosiivous.fi": {
+    "domain": "huoltosiivous.fi",
+    "emails": [
+      "info@huoltosiivous.fi"
+    ],
+    "phone": "0152-0153",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:17.477Z",
+    "pagesChecked": [
+      "https://huoltosiivous.fi",
+      "https://huoltosiivous.fi/yhteystiedot",
+      "https://huoltosiivous.fi/yhteystiedot/",
+      "https://huoltosiivous.fi/contact",
+      "https://huoltosiivous.fi/contact-us",
+      "https://huoltosiivous.fi/about",
+      "https://huoltosiivous.fi/about-us",
+      "https://huoltosiivous.fi/ota-yhteytta",
+      "https://huoltosiivous.fi/meille"
+    ]
+  },
+  "boatslice.fi": {
+    "domain": "boatslice.fi",
+    "emails": [
+      "asiakaspalvelu@boatslice.fi"
+    ],
+    "phone": "01932659-6",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:20.553Z",
+    "pagesChecked": [
+      "https://boatslice.fi",
+      "https://boatslice.fi/yhteystiedot",
+      "https://boatslice.fi/yhteystiedot/",
+      "https://boatslice.fi/contact",
+      "https://boatslice.fi/contact-us",
+      "https://boatslice.fi/about",
+      "https://boatslice.fi/about-us",
+      "https://boatslice.fi/ota-yhteytta",
+      "https://boatslice.fi/meille"
+    ]
+  },
+  "helpmax.fi": {
+    "domain": "helpmax.fi",
+    "emails": [],
+    "phone": "0046133942",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:20.608Z",
+    "pagesChecked": [
+      "https://helpmax.fi",
+      "https://helpmax.fi/yhteystiedot",
+      "https://helpmax.fi/yhteystiedot/",
+      "https://helpmax.fi/contact",
+      "https://helpmax.fi/contact-us",
+      "https://helpmax.fi/about",
+      "https://helpmax.fi/about-us",
+      "https://helpmax.fi/ota-yhteytta",
+      "https://helpmax.fi/meille"
+    ],
+    "error": "Could not reach https://helpmax.fi/yhteystiedot/"
+  },
+  "kodinhoitajapaivaksi.fi": {
+    "domain": "kodinhoitajapaivaksi.fi",
+    "emails": [
+      "inka@kodinhoitajapaivaksi.fi"
+    ],
+    "phone": "010902250",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:20.675Z",
+    "pagesChecked": [
+      "https://kodinhoitajapaivaksi.fi",
+      "https://kodinhoitajapaivaksi.fi/yhteystiedot",
+      "https://kodinhoitajapaivaksi.fi/yhteystiedot/",
+      "https://kodinhoitajapaivaksi.fi/contact",
+      "https://kodinhoitajapaivaksi.fi/contact-us",
+      "https://kodinhoitajapaivaksi.fi/about",
+      "https://kodinhoitajapaivaksi.fi/about-us",
+      "https://kodinhoitajapaivaksi.fi/ota-yhteytta",
+      "https://kodinhoitajapaivaksi.fi/meille"
+    ]
+  },
+  "aton.fi": {
+    "domain": "aton.fi",
+    "emails": [
+      "aton@aton.fi",
+      "niina.saariniemi@aton.fi",
+      "tapio.kesa-heino@aton.fi",
+      "evan.kuvaja@aton.fi",
+      "minna.saariniemi@aton.fi",
+      "dipok.sarker@aton.fi",
+      "michelle.flores@aton.fi",
+      "helen.ounapuu@aton.fi",
+      "mira.sunila@aton.fi",
+      "timo.suhonen@aton.fi",
+      "rodrigo.chavez@aton.fi",
+      "tarja.toivanen@aton.fi",
+      "tuulia.seppanen@aton.fi"
+    ],
+    "phone": "0 0 448 512",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:23.297Z",
+    "pagesChecked": [
+      "https://aton.fi",
+      "https://aton.fi/yhteystiedot",
+      "https://aton.fi/yhteystiedot/",
+      "https://aton.fi/contact",
+      "https://aton.fi/contact-us",
+      "https://aton.fi/about",
+      "https://aton.fi/about-us",
+      "https://aton.fi/ota-yhteytta",
+      "https://aton.fi/meille"
+    ]
+  },
+  "tuoretie.fi": {
+    "domain": "tuoretie.fi",
+    "emails": [
+      "etunimi.sukunimi@tuoretie.fi",
+      "laskutus@tuoretie.fi",
+      "elintarvikekuljetus@tuoretie.fi",
+      "transport@tuoretie.fi",
+      "aspal@tuoretie.fi",
+      "reittihallinta@tuoretie.fi"
+    ],
+    "phone": "+358 20 774 9530",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:24.828Z",
+    "pagesChecked": [
+      "https://tuoretie.fi",
+      "https://tuoretie.fi/yhteystiedot",
+      "https://tuoretie.fi/yhteystiedot/",
+      "https://tuoretie.fi/contact",
+      "https://tuoretie.fi/contact-us",
+      "https://tuoretie.fi/about",
+      "https://tuoretie.fi/about-us",
+      "https://tuoretie.fi/ota-yhteytta",
+      "https://tuoretie.fi/meille"
+    ]
+  },
+  "kotova.fi": {
+    "domain": "kotova.fi",
+    "emails": [
+      "info@kotova.fi"
+    ],
+    "phone": "000000 15",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:26.561Z",
+    "pagesChecked": [
+      "https://kotova.fi",
+      "https://kotova.fi/yhteystiedot",
+      "https://kotova.fi/yhteystiedot/",
+      "https://kotova.fi/contact",
+      "https://kotova.fi/contact-us",
+      "https://kotova.fi/about",
+      "https://kotova.fi/about-us",
+      "https://kotova.fi/ota-yhteytta",
+      "https://kotova.fi/meille"
+    ]
+  },
+  "skh.fi": {
+    "domain": "skh.fi",
+    "emails": [],
+    "phone": "050 574 7107",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:27.358Z",
+    "pagesChecked": [
+      "https://skh.fi",
+      "https://skh.fi/yhteystiedot",
+      "https://skh.fi/yhteystiedot/",
+      "https://skh.fi/contact",
+      "https://skh.fi/contact-us",
+      "https://skh.fi/about",
+      "https://skh.fi/about-us",
+      "https://skh.fi/ota-yhteytta",
+      "https://skh.fi/meille"
+    ],
+    "error": "Could not reach https://skh.fi/yhteystiedot"
+  },
+  "tasotalo.fi": {
+    "domain": "tasotalo.fi",
+    "emails": [
+      "palvelu@tasotalo.fi"
+    ],
+    "phone": "0152-0153",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:27.514Z",
+    "pagesChecked": [
+      "https://tasotalo.fi",
+      "https://tasotalo.fi/yhteystiedot",
+      "https://tasotalo.fi/yhteystiedot/",
+      "https://tasotalo.fi/contact",
+      "https://tasotalo.fi/contact-us",
+      "https://tasotalo.fi/about",
+      "https://tasotalo.fi/about-us",
+      "https://tasotalo.fi/ota-yhteytta",
+      "https://tasotalo.fi/meille"
+    ]
+  },
+  "telila.fi": {
+    "domain": "telila.fi",
+    "emails": [],
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:28.722Z",
+    "pagesChecked": [
+      "https://telila.fi",
+      "https://telila.fi/yhteystiedot",
+      "https://telila.fi/yhteystiedot/",
+      "https://telila.fi/contact",
+      "https://telila.fi/contact-us",
+      "https://telila.fi/about",
+      "https://telila.fi/about-us",
+      "https://telila.fi/ota-yhteytta",
+      "https://telila.fi/meille"
+    ],
+    "error": "Could not reach https://telila.fi"
+  },
+  "torttilaoy.fi": {
+    "domain": "torttilaoy.fi",
+    "emails": [
+      "antti@torttilaoy.fi"
+    ],
+    "phone": "0532992630",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:29.829Z",
+    "pagesChecked": [
+      "https://torttilaoy.fi",
+      "https://torttilaoy.fi/yhteystiedot",
+      "https://torttilaoy.fi/yhteystiedot/",
+      "https://torttilaoy.fi/contact",
+      "https://torttilaoy.fi/contact-us",
+      "https://torttilaoy.fi/about",
+      "https://torttilaoy.fi/about-us",
+      "https://torttilaoy.fi/ota-yhteytta",
+      "https://torttilaoy.fi/meille"
+    ]
+  },
+  "soutu.fi": {
+    "domain": "soutu.fi",
+    "emails": [
+      "info@soutu.fi"
+    ],
+    "phone": "0152-0153",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:30.071Z",
+    "pagesChecked": [
+      "https://soutu.fi",
+      "https://soutu.fi/yhteystiedot",
+      "https://soutu.fi/yhteystiedot/",
+      "https://soutu.fi/contact",
+      "https://soutu.fi/contact-us",
+      "https://soutu.fi/about",
+      "https://soutu.fi/about-us",
+      "https://soutu.fi/ota-yhteytta",
+      "https://soutu.fi/meille"
+    ]
+  },
+  "siivoussolina.fi": {
+    "domain": "siivoussolina.fi",
+    "emails": [],
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:30.942Z",
+    "pagesChecked": [
+      "https://siivoussolina.fi",
+      "https://siivoussolina.fi/yhteystiedot",
+      "https://siivoussolina.fi/yhteystiedot/",
+      "https://siivoussolina.fi/contact",
+      "https://siivoussolina.fi/contact-us",
+      "https://siivoussolina.fi/about",
+      "https://siivoussolina.fi/about-us",
+      "https://siivoussolina.fi/ota-yhteytta",
+      "https://siivoussolina.fi/meille"
+    ],
+    "error": "Could not reach https://siivoussolina.fi"
+  },
+  "retta.fi": {
+    "domain": "retta.fi",
+    "emails": [],
+    "phone": "0228749 84",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:32.692Z",
+    "pagesChecked": [
+      "https://retta.fi",
+      "https://retta.fi/yhteystiedot",
+      "https://retta.fi/yhteystiedot/",
+      "https://retta.fi/contact",
+      "https://retta.fi/contact-us",
+      "https://retta.fi/about",
+      "https://retta.fi/about-us",
+      "https://retta.fi/ota-yhteytta",
+      "https://retta.fi/meille"
+    ],
+    "error": "Could not reach https://retta.fi/meille"
+  },
+  "letsgo.fi": {
+    "domain": "letsgo.fi",
+    "emails": [
+      "toimisto@dride.fi",
+      "myynti@dride.fi",
+      "sales@dride.fi",
+      "markkinointi@dride.fi",
+      "etunimi.sukunimi@dride.fi",
+      "kati.utriainen@dride.fi",
+      "tekniikka@dride.fi",
+      "laskutus@dride.fi",
+      "firstname.lastname@dride.fi"
+    ],
+    "phone": "026030912362",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:32.980Z",
+    "pagesChecked": [
+      "https://letsgo.fi",
+      "https://letsgo.fi/yhteystiedot",
+      "https://letsgo.fi/yhteystiedot/",
+      "https://letsgo.fi/contact",
+      "https://letsgo.fi/contact-us",
+      "https://letsgo.fi/about",
+      "https://letsgo.fi/about-us",
+      "https://letsgo.fi/ota-yhteytta",
+      "https://letsgo.fi/meille"
+    ]
+  },
+  "maansiirtomakela.fi": {
+    "domain": "maansiirtomakela.fi",
+    "emails": [
+      "janne.makela@maansiirtomakela.fi",
+      "jyri.korpivaara@maansiirtomakela.fi",
+      "mikko.kaski@maansiirtomakela.fi",
+      "jani.salojarvi@maansiirtomakela.fi",
+      "janne.rossi@maansiirtomakela.fi",
+      "ville.hakkinen@maansiirtomakela.fi",
+      "atte.puttonen@maansiirtomakela.fi",
+      "tomi.kovanen@maansiirtomakela.fi",
+      "sami.hammar@maansiirtomakela.fi",
+      "jan.isaksson@maansiirtomakela.fi",
+      "jarno.salminen@maansiirtomakela.fi",
+      "jenny.makela@maansiirtomakela.fi",
+      "janne.hakkarainen@maansiirtomakela.fi",
+      "mikko.hietanen@maansiirtomakela.fi",
+      "jouni.takkinen@maansiirtomakela.fi",
+      "hanna.halonen@maansiirtomakela.fi",
+      "jukka-pekka.hirvivuori@maansiirtomakela.fi",
+      "joni.virkki@maansiirtomakela.fi",
+      "daniel.alsila@maansiirtomakela.fi",
+      "olli.inkilainen@maansiirtomakela.fi",
+      "markus.kuivas@maansiirtomakela.fi",
+      "jari.lanne@maansiirtomakela.fi",
+      "kalle.lindholm@maansiirtomakela.fi",
+      "jani.rasanen@maansiirtomakela.fi",
+      "jarno.niemela@maansiirtomakela.fi",
+      "jesse.pasanen@maansiirtomakela.fi",
+      "003708295595@xbs-salo.com"
+    ],
+    "phone": "0152-0153",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:35.017Z",
+    "pagesChecked": [
+      "https://maansiirtomakela.fi",
+      "https://maansiirtomakela.fi/yhteystiedot",
+      "https://maansiirtomakela.fi/yhteystiedot/",
+      "https://maansiirtomakela.fi/contact",
+      "https://maansiirtomakela.fi/contact-us",
+      "https://maansiirtomakela.fi/about",
+      "https://maansiirtomakela.fi/about-us",
+      "https://maansiirtomakela.fi/ota-yhteytta",
+      "https://maansiirtomakela.fi/meille"
+    ]
+  },
+  "trioisannointi.fi": {
+    "domain": "trioisannointi.fi",
+    "emails": [
+      "info@trioisannointi.fi",
+      "henri.kauhala@trioisannointi.fi",
+      "annika.virkkala@trioisannointi.fi",
+      "paula.tiinus@trioisannointi.fi",
+      "jenna.penttinen@trioisannointi.fi",
+      "satu.tiinus@trioisannointi.fi"
+    ],
+    "phone": "0 0 100 100",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:35.526Z",
+    "pagesChecked": [
+      "https://trioisannointi.fi",
+      "https://trioisannointi.fi/yhteystiedot",
+      "https://trioisannointi.fi/yhteystiedot/",
+      "https://trioisannointi.fi/contact",
+      "https://trioisannointi.fi/contact-us",
+      "https://trioisannointi.fi/about",
+      "https://trioisannointi.fi/about-us",
+      "https://trioisannointi.fi/ota-yhteytta",
+      "https://trioisannointi.fi/meille"
+    ]
+  },
+  "diakon.fi": {
+    "domain": "diakon.fi",
+    "emails": [],
+    "phone": "0137315-9",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:36.741Z",
+    "pagesChecked": [
+      "https://diakon.fi",
+      "https://diakon.fi/yhteystiedot",
+      "https://diakon.fi/yhteystiedot/",
+      "https://diakon.fi/contact",
+      "https://diakon.fi/contact-us",
+      "https://diakon.fi/about",
+      "https://diakon.fi/about-us",
+      "https://diakon.fi/ota-yhteytta",
+      "https://diakon.fi/meille"
+    ],
+    "error": "Could not reach https://diakon.fi/contact"
+  },
+  "kiinteistotahkola.fi": {
+    "domain": "kiinteistotahkola.fi",
+    "emails": [
+      "asiakaspalvelu.uusimaa@kiinteistotahkola.fi",
+      "etunimi.sukunimi@kiinteistotahkola.fi",
+      "vuokra.helsinki@kiinteistotahkola.fi",
+      "vuokra.kuopio@kiinteistotahkola.fi",
+      "asiakaspalvelu.rovaniemi@kiinteistotahkola.fi",
+      "asiakaspalvelu.seinajoki@kiinteistotahkola.fi",
+      "asiakaspalvelu.iisalmi@kiinteistotahkola.fi"
+    ],
+    "phone": "012 0 1 1 4 4",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:37.888Z",
+    "pagesChecked": [
+      "https://kiinteistotahkola.fi",
+      "https://kiinteistotahkola.fi/yhteystiedot",
+      "https://kiinteistotahkola.fi/yhteystiedot/",
+      "https://kiinteistotahkola.fi/contact",
+      "https://kiinteistotahkola.fi/contact-us",
+      "https://kiinteistotahkola.fi/about",
+      "https://kiinteistotahkola.fi/about-us",
+      "https://kiinteistotahkola.fi/ota-yhteytta",
+      "https://kiinteistotahkola.fi/meille"
+    ]
+  },
+  "amsahko.net": {
+    "domain": "amsahko.net",
+    "emails": [
+      "tarjouspyynto@amsahko.net",
+      "info@amsahko.net",
+      "ttarjouspyynto@amsahko.net",
+      "asennuksethuolto@amsahko.net",
+      "matti.jarvinen@amsahko.net",
+      "antti.jarvinen@amsahko.net",
+      "janne.koivisto@amsahko.net",
+      "jesse.rantanen@amsahko.net",
+      "huolto@amsahko.net"
+    ],
+    "phone": "0933291026",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:38.883Z",
+    "pagesChecked": [
+      "https://amsahko.net",
+      "https://amsahko.net/yhteystiedot",
+      "https://amsahko.net/yhteystiedot/",
+      "https://amsahko.net/contact",
+      "https://amsahko.net/contact-us",
+      "https://amsahko.net/about",
+      "https://amsahko.net/about-us",
+      "https://amsahko.net/ota-yhteytta",
+      "https://amsahko.net/meille"
+    ]
+  },
+  "smartheating.fi": {
+    "domain": "smartheating.fi",
+    "emails": [
+      "henri.pasanen@smartheating.fi",
+      "jari.aromaki@smartheating.fi",
+      "myynti@smartheating.fi"
+    ],
+    "phone": "03958357",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:39.840Z",
+    "pagesChecked": [
+      "https://smartheating.fi",
+      "https://smartheating.fi/yhteystiedot",
+      "https://smartheating.fi/yhteystiedot/",
+      "https://smartheating.fi/contact",
+      "https://smartheating.fi/contact-us",
+      "https://smartheating.fi/about",
+      "https://smartheating.fi/about-us",
+      "https://smartheating.fi/ota-yhteytta",
+      "https://smartheating.fi/meille"
+    ]
+  },
+  "etalo.fi": {
+    "domain": "etalo.fi",
+    "emails": [
+      "info@etalo.fi"
+    ],
+    "phone": "07424793",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:40.476Z",
+    "pagesChecked": [
+      "https://etalo.fi",
+      "https://etalo.fi/yhteystiedot",
+      "https://etalo.fi/yhteystiedot/",
+      "https://etalo.fi/contact",
+      "https://etalo.fi/contact-us",
+      "https://etalo.fi/about",
+      "https://etalo.fi/about-us",
+      "https://etalo.fi/ota-yhteytta",
+      "https://etalo.fi/meille"
+    ]
+  },
+  "reiluisannointi.fi": {
+    "domain": "reiluisannointi.fi",
+    "emails": [
+      "info@reiluisannointi.fi",
+      "antti.lyly@reiluisannointi.fi",
+      "mia.ahonen@reiluisannointi.fi",
+      "jyrki.toivanen@reiluisannointi.fi",
+      "kalle.valjento@reiluisannointi.fi",
+      "samuil.uzunov@reiluisannointi.fi",
+      "ville.feirikki@reiluisannointi.fi"
+    ],
+    "phone": "062143016057",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:42.462Z",
+    "pagesChecked": [
+      "https://reiluisannointi.fi",
+      "https://reiluisannointi.fi/yhteystiedot",
+      "https://reiluisannointi.fi/yhteystiedot/",
+      "https://reiluisannointi.fi/contact",
+      "https://reiluisannointi.fi/contact-us",
+      "https://reiluisannointi.fi/about",
+      "https://reiluisannointi.fi/about-us",
+      "https://reiluisannointi.fi/ota-yhteytta",
+      "https://reiluisannointi.fi/meille"
+    ]
+  },
+  "sivina.fi": {
+    "domain": "sivina.fi",
+    "emails": [
+      "asiakaspalvelu@sivina.fi",
+      "olari@sivina.fi",
+      "leppavaara@sivina.fi",
+      "hoivanet@sivina.fi",
+      "helsinki@sivina.fi",
+      "helsinki.kodinhoito@sivina.fi",
+      "vantaa@sivina.fi",
+      "vihti@sivina.fi",
+      "turku@sivina.fi",
+      "turku.kotipalvelut@sivina.fi",
+      "pori@sivina.fi",
+      "tampere@sivina.fi",
+      "lahti@sivina.fi",
+      "jyvaskyla@sivina.fi",
+      "oulu@sivina.fi",
+      "pasi.pietila@sivina.fi",
+      "iina.voipio@sivina.fi",
+      "noora.kantola@sivina.fi",
+      "arttu.pietila@sivina.fi",
+      "kotisiivous@sivina.fi",
+      "laskutus@sivina.fi",
+      "paivi.kangaspunta@sivina.fi",
+      "anna.forsten@sivina.fi",
+      "satu.ahonen@sivina.fi",
+      "hameenlinna@sivina.fi",
+      "oulu.kotipalvelut@sivina.fi"
+    ],
+    "phone": "+358290001113",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:43.022Z",
+    "pagesChecked": [
+      "https://sivina.fi",
+      "https://sivina.fi/yhteystiedot",
+      "https://sivina.fi/yhteystiedot/",
+      "https://sivina.fi/contact",
+      "https://sivina.fi/contact-us",
+      "https://sivina.fi/about",
+      "https://sivina.fi/about-us",
+      "https://sivina.fi/ota-yhteytta",
+      "https://sivina.fi/meille"
+    ]
+  },
+  "kotirinki.fi": {
+    "domain": "kotirinki.fi",
+    "emails": [
+      "myynti@kotirinki.fi",
+      "asiakaspalvelu@kotirinki.fi"
+    ],
+    "phone": "004618161047",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:44.694Z",
+    "pagesChecked": [
+      "https://kotirinki.fi",
+      "https://kotirinki.fi/yhteystiedot",
+      "https://kotirinki.fi/yhteystiedot/",
+      "https://kotirinki.fi/contact",
+      "https://kotirinki.fi/contact-us",
+      "https://kotirinki.fi/about",
+      "https://kotirinki.fi/about-us",
+      "https://kotirinki.fi/ota-yhteytta",
+      "https://kotirinki.fi/meille"
+    ]
+  },
+  "pirkanmaanlaatuisannointi.fi": {
+    "domain": "pirkanmaanlaatuisannointi.fi",
+    "emails": [],
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:44.749Z",
+    "pagesChecked": [
+      "https://pirkanmaanlaatuisannointi.fi",
+      "https://pirkanmaanlaatuisannointi.fi/yhteystiedot",
+      "https://pirkanmaanlaatuisannointi.fi/yhteystiedot/",
+      "https://pirkanmaanlaatuisannointi.fi/contact",
+      "https://pirkanmaanlaatuisannointi.fi/contact-us",
+      "https://pirkanmaanlaatuisannointi.fi/about",
+      "https://pirkanmaanlaatuisannointi.fi/about-us",
+      "https://pirkanmaanlaatuisannointi.fi/ota-yhteytta",
+      "https://pirkanmaanlaatuisannointi.fi/meille"
+    ],
+    "error": "Could not reach https://pirkanmaanlaatuisannointi.fi"
+  },
+  "taloasema.fi": {
+    "domain": "taloasema.fi",
+    "emails": [
+      "isannointi.espoo@taloasema.fi",
+      "heinola1@taloasema.fi",
+      "atet@taloasema.fi",
+      "visu@taloasema.fi",
+      "hyvinkaa@taloasema.fi",
+      "melicia.konttinen@taloasema.fi",
+      "mika.liedes@taloasema.fi",
+      "asiakaspalvelu.lappeenranta@taloasema.fi",
+      "averia@taloasema.fi",
+      "nurmijarvi@taloasema.fi",
+      "pori1@taloasema.fi",
+      "rauma@taloasema.fi",
+      "varkaus@taloasema.fi",
+      "vaaksy1@taloasema.fi",
+      "aspa.vs@taloasema.fi"
+    ],
+    "phone": "02105271",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:45.464Z",
+    "pagesChecked": [
+      "https://taloasema.fi",
+      "https://taloasema.fi/yhteystiedot",
+      "https://taloasema.fi/yhteystiedot/",
+      "https://taloasema.fi/contact",
+      "https://taloasema.fi/contact-us",
+      "https://taloasema.fi/about",
+      "https://taloasema.fi/about-us",
+      "https://taloasema.fi/ota-yhteytta",
+      "https://taloasema.fi/meille"
+    ]
+  },
+  "ktpipe.fi": {
+    "domain": "ktpipe.fi",
+    "emails": [
+      "jani@ktpipe.fi",
+      "teemu@ktpipe.fi",
+      "tilaukset@ktpipe.fi"
+    ],
+    "phone": "0451044421",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:45.909Z",
+    "pagesChecked": [
+      "https://ktpipe.fi",
+      "https://ktpipe.fi/yhteystiedot",
+      "https://ktpipe.fi/yhteystiedot/",
+      "https://ktpipe.fi/contact",
+      "https://ktpipe.fi/contact-us",
+      "https://ktpipe.fi/about",
+      "https://ktpipe.fi/about-us",
+      "https://ktpipe.fi/ota-yhteytta",
+      "https://ktpipe.fi/meille"
+    ]
+  },
+  "rakennecenter.fi": {
+    "domain": "rakennecenter.fi",
+    "emails": [
+      "asiakaspalvelu@rakennecenter.fi",
+      "riku@rakennecenter.fi",
+      "tuomas@rakennecenter.fi",
+      "miska@rakennecenter.fi",
+      "teemu.tolkki@rakennecenter.fi",
+      "joni.pamppunen@rakennecenter.fi",
+      "timo.meriluoto@rakennecenter.fi"
+    ],
+    "phone": "009850412744",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:47.014Z",
+    "pagesChecked": [
+      "https://rakennecenter.fi",
+      "https://rakennecenter.fi/yhteystiedot",
+      "https://rakennecenter.fi/yhteystiedot/",
+      "https://rakennecenter.fi/contact",
+      "https://rakennecenter.fi/contact-us",
+      "https://rakennecenter.fi/about",
+      "https://rakennecenter.fi/about-us",
+      "https://rakennecenter.fi/ota-yhteytta",
+      "https://rakennecenter.fi/meille"
+    ]
+  },
+  "loistesiivous.fi": {
+    "domain": "loistesiivous.fi",
+    "emails": [
+      "info@loistesiivous.fi",
+      "martta@loistesiivous.fi",
+      "sirpa@loistesiivous.fi",
+      "emmi@loistesiivous.fi",
+      "hannele@loistesiivous.fi"
+    ],
+    "phone": "056535881",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:47.160Z",
+    "pagesChecked": [
+      "https://loistesiivous.fi",
+      "https://loistesiivous.fi/yhteystiedot",
+      "https://loistesiivous.fi/yhteystiedot/",
+      "https://loistesiivous.fi/contact",
+      "https://loistesiivous.fi/contact-us",
+      "https://loistesiivous.fi/about",
+      "https://loistesiivous.fi/about-us",
+      "https://loistesiivous.fi/ota-yhteytta",
+      "https://loistesiivous.fi/meille"
+    ]
+  },
+  "kotisiivooja.com": {
+    "domain": "kotisiivooja.com",
+    "emails": [],
+    "phone": "09057138",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:47.982Z",
+    "pagesChecked": [
+      "https://kotisiivooja.com",
+      "https://kotisiivooja.com/yhteystiedot",
+      "https://kotisiivooja.com/yhteystiedot/",
+      "https://kotisiivooja.com/contact",
+      "https://kotisiivooja.com/contact-us",
+      "https://kotisiivooja.com/about",
+      "https://kotisiivooja.com/about-us",
+      "https://kotisiivooja.com/ota-yhteytta",
+      "https://kotisiivooja.com/meille"
+    ],
+    "error": "Could not reach https://kotisiivooja.com/yhteystiedot"
+  },
+  "iloclean.fi": {
+    "domain": "iloclean.fi",
+    "emails": [],
+    "phone": "000000000000",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:48.998Z",
+    "pagesChecked": [
+      "https://iloclean.fi",
+      "https://iloclean.fi/yhteystiedot",
+      "https://iloclean.fi/yhteystiedot/",
+      "https://iloclean.fi/contact",
+      "https://iloclean.fi/contact-us",
+      "https://iloclean.fi/about",
+      "https://iloclean.fi/about-us",
+      "https://iloclean.fi/ota-yhteytta",
+      "https://iloclean.fi/meille"
+    ],
+    "error": "Could not reach https://iloclean.fi/yhteystiedot"
+  },
+  "finder.fi": {
+    "domain": "finder.fi",
+    "emails": [],
+    "phone": "02556615",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:49.363Z",
+    "pagesChecked": [
+      "https://finder.fi",
+      "https://finder.fi/yhteystiedot",
+      "https://finder.fi/yhteystiedot/",
+      "https://finder.fi/contact",
+      "https://finder.fi/contact-us",
+      "https://finder.fi/about",
+      "https://finder.fi/about-us",
+      "https://finder.fi/ota-yhteytta",
+      "https://finder.fi/meille"
+    ],
+    "error": "Could not reach https://finder.fi/yhteystiedot"
+  },
+  "kotileena.fi": {
+    "domain": "kotileena.fi",
+    "emails": [
+      "lahti@kotileena.fi",
+      "uusimaa@kotileena.fi",
+      "tampere@kotileena.fi",
+      "kuopio@kotileena.fi",
+      "jyvaskyla@kotileena.fi",
+      "joensuu@kotileena.fi",
+      "toimisto@kotileena.fi",
+      "posti@email.com"
+    ],
+    "phone": "06674542",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:49.476Z",
+    "pagesChecked": [
+      "https://kotileena.fi",
+      "https://kotileena.fi/yhteystiedot",
+      "https://kotileena.fi/yhteystiedot/",
+      "https://kotileena.fi/contact",
+      "https://kotileena.fi/contact-us",
+      "https://kotileena.fi/about",
+      "https://kotileena.fi/about-us",
+      "https://kotileena.fi/ota-yhteytta",
+      "https://kotileena.fi/meille"
+    ]
+  },
+  "suunnos.fi": {
+    "domain": "suunnos.fi",
+    "emails": [
+      "urpo.karppinen@suunnos.fi"
+    ],
+    "phone": "03332060",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:51.874Z",
+    "pagesChecked": [
+      "https://suunnos.fi",
+      "https://suunnos.fi/yhteystiedot",
+      "https://suunnos.fi/yhteystiedot/",
+      "https://suunnos.fi/contact",
+      "https://suunnos.fi/contact-us",
+      "https://suunnos.fi/about",
+      "https://suunnos.fi/about-us",
+      "https://suunnos.fi/ota-yhteytta",
+      "https://suunnos.fi/meille"
+    ]
+  },
+  "pikkuapu.fi": {
+    "domain": "pikkuapu.fi",
+    "emails": [
+      "madleena@pikkuapu.fi",
+      "katja@pikkuapu.fi",
+      "contact@example.com"
+    ],
+    "phone": "00000054-3",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:52.356Z",
+    "pagesChecked": [
+      "https://pikkuapu.fi",
+      "https://pikkuapu.fi/yhteystiedot",
+      "https://pikkuapu.fi/yhteystiedot/",
+      "https://pikkuapu.fi/contact",
+      "https://pikkuapu.fi/contact-us",
+      "https://pikkuapu.fi/about",
+      "https://pikkuapu.fi/about-us",
+      "https://pikkuapu.fi/ota-yhteytta",
+      "https://pikkuapu.fi/meille"
+    ]
+  },
+  "mkone.fi": {
+    "domain": "mkone.fi",
+    "emails": [],
+    "phone": "0260104-21382",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:53.868Z",
+    "pagesChecked": [
+      "https://mkone.fi",
+      "https://mkone.fi/yhteystiedot",
+      "https://mkone.fi/yhteystiedot/",
+      "https://mkone.fi/contact",
+      "https://mkone.fi/contact-us",
+      "https://mkone.fi/about",
+      "https://mkone.fi/about-us",
+      "https://mkone.fi/ota-yhteytta",
+      "https://mkone.fi/meille"
+    ],
+    "error": "Could not reach https://mkone.fi/yhteystiedot"
+  },
+  "serviceone.fi": {
+    "domain": "serviceone.fi",
+    "emails": [
+      "oulu@serviceone.fi",
+      "jenna.pyykko@serviceone.fi",
+      "mikko.raappana@serviceone.fi",
+      "antti.kamarainen@serviceone.fi",
+      "20827291@scan.netvisor.fi"
+    ],
+    "phone": "00000057",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:54.420Z",
+    "pagesChecked": [
+      "https://serviceone.fi",
+      "https://serviceone.fi/yhteystiedot",
+      "https://serviceone.fi/yhteystiedot/",
+      "https://serviceone.fi/contact",
+      "https://serviceone.fi/contact-us",
+      "https://serviceone.fi/about",
+      "https://serviceone.fi/about-us",
+      "https://serviceone.fi/ota-yhteytta",
+      "https://serviceone.fi/meille"
+    ]
+  },
+  "talotili.fi": {
+    "domain": "talotili.fi",
+    "emails": [
+      "toimisto@talotili.fi"
+    ],
+    "phone": "0982382466",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:56.237Z",
+    "pagesChecked": [
+      "https://talotili.fi",
+      "https://talotili.fi/yhteystiedot",
+      "https://talotili.fi/yhteystiedot/",
+      "https://talotili.fi/contact",
+      "https://talotili.fi/contact-us",
+      "https://talotili.fi/about",
+      "https://talotili.fi/about-us",
+      "https://talotili.fi/ota-yhteytta",
+      "https://talotili.fi/meille"
+    ]
+  },
+  "lvitsto-karlsson.fi": {
+    "domain": "lvitsto-karlsson.fi",
+    "emails": [
+      "sture.karlsson@lvitsto-karlsson.fi"
+    ],
+    "phone": "+358505716240",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:56.938Z",
+    "pagesChecked": [
+      "https://lvitsto-karlsson.fi",
+      "https://lvitsto-karlsson.fi/yhteystiedot",
+      "https://lvitsto-karlsson.fi/yhteystiedot/",
+      "https://lvitsto-karlsson.fi/contact",
+      "https://lvitsto-karlsson.fi/contact-us",
+      "https://lvitsto-karlsson.fi/about",
+      "https://lvitsto-karlsson.fi/about-us",
+      "https://lvitsto-karlsson.fi/ota-yhteytta",
+      "https://lvitsto-karlsson.fi/meille"
+    ]
+  },
+  "arvojes.fi": {
+    "domain": "arvojes.fi",
+    "emails": [],
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:02:59.881Z",
+    "pagesChecked": [
+      "https://arvojes.fi",
+      "https://arvojes.fi/yhteystiedot",
+      "https://arvojes.fi/yhteystiedot/",
+      "https://arvojes.fi/contact",
+      "https://arvojes.fi/contact-us",
+      "https://arvojes.fi/about",
+      "https://arvojes.fi/about-us",
+      "https://arvojes.fi/ota-yhteytta",
+      "https://arvojes.fi/meille"
+    ],
+    "error": "Could not reach https://arvojes.fi"
+  },
+  "ayravainen.fi": {
+    "domain": "ayravainen.fi",
+    "emails": [],
+    "phone": "0 0 100 100",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:00.376Z",
+    "pagesChecked": [
+      "https://ayravainen.fi",
+      "https://ayravainen.fi/yhteystiedot",
+      "https://ayravainen.fi/yhteystiedot/",
+      "https://ayravainen.fi/contact",
+      "https://ayravainen.fi/contact-us",
+      "https://ayravainen.fi/about",
+      "https://ayravainen.fi/about-us",
+      "https://ayravainen.fi/ota-yhteytta",
+      "https://ayravainen.fi/meille"
+    ],
+    "error": "Could not reach https://ayravainen.fi/yhteystiedot"
+  },
+  "tikoisannointi.fi": {
+    "domain": "tikoisannointi.fi",
+    "emails": [
+      "posti@tikoisannointi.fi",
+      "veli-pekka.mantynen@tikoisannointi.fi",
+      "veera.mantynen@tikoisannointi.fi",
+      "reetta.rantanen@tikoisannointi.fi",
+      "anne.martikainen@tikoisannointi.fi",
+      "satu.juurakko@tikoisannointi.fi",
+      "tiina.kousa@tikoisannointi.fi"
+    ],
+    "phone": "01970059",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:00.408Z",
+    "pagesChecked": [
+      "https://tikoisannointi.fi",
+      "https://tikoisannointi.fi/yhteystiedot",
+      "https://tikoisannointi.fi/yhteystiedot/",
+      "https://tikoisannointi.fi/contact",
+      "https://tikoisannointi.fi/contact-us",
+      "https://tikoisannointi.fi/about",
+      "https://tikoisannointi.fi/about-us",
+      "https://tikoisannointi.fi/ota-yhteytta",
+      "https://tikoisannointi.fi/meille"
+    ]
+  },
+  "adaisannointi.fi": {
+    "domain": "adaisannointi.fi",
+    "emails": [
+      "asiakaspalvelu@adaisannointi.fi",
+      "etunimi.sukunimi@adaisannointi.fi",
+      "asiakaspalvelu@adaisannointi.fietunimi.sukunimi"
+    ],
+    "phone": "0860542-1",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:00.924Z",
+    "pagesChecked": [
+      "https://adaisannointi.fi",
+      "https://adaisannointi.fi/yhteystiedot",
+      "https://adaisannointi.fi/yhteystiedot/",
+      "https://adaisannointi.fi/contact",
+      "https://adaisannointi.fi/contact-us",
+      "https://adaisannointi.fi/about",
+      "https://adaisannointi.fi/about-us",
+      "https://adaisannointi.fi/ota-yhteytta",
+      "https://adaisannointi.fi/meille"
+    ]
+  },
+  "atlasenergia.fi": {
+    "domain": "atlasenergia.fi",
+    "emails": [],
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:01.992Z",
+    "pagesChecked": [
+      "https://atlasenergia.fi",
+      "https://atlasenergia.fi/yhteystiedot",
+      "https://atlasenergia.fi/yhteystiedot/",
+      "https://atlasenergia.fi/contact",
+      "https://atlasenergia.fi/contact-us",
+      "https://atlasenergia.fi/about",
+      "https://atlasenergia.fi/about-us",
+      "https://atlasenergia.fi/ota-yhteytta",
+      "https://atlasenergia.fi/meille"
+    ],
+    "error": "Could not reach https://atlasenergia.fi"
+  },
+  "puhdina.fi": {
+    "domain": "puhdina.fi",
+    "emails": [
+      "viktoria@puhdina.fi"
+    ],
+    "phone": "040 757 3266",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:02.757Z",
+    "pagesChecked": [
+      "https://puhdina.fi",
+      "https://puhdina.fi/yhteystiedot",
+      "https://puhdina.fi/yhteystiedot/",
+      "https://puhdina.fi/contact",
+      "https://puhdina.fi/contact-us",
+      "https://puhdina.fi/about",
+      "https://puhdina.fi/about-us",
+      "https://puhdina.fi/ota-yhteytta",
+      "https://puhdina.fi/meille"
+    ]
+  },
+  "kotiapusi.fi": {
+    "domain": "kotiapusi.fi",
+    "emails": [
+      "alina@kotiapusi.fi",
+      "sara@kotiapusi.fi",
+      "senja@kotiapusi.fi"
+    ],
+    "phone": "09 2026 07",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:04.107Z",
+    "pagesChecked": [
+      "https://kotiapusi.fi",
+      "https://kotiapusi.fi/yhteystiedot",
+      "https://kotiapusi.fi/yhteystiedot/",
+      "https://kotiapusi.fi/contact",
+      "https://kotiapusi.fi/contact-us",
+      "https://kotiapusi.fi/about",
+      "https://kotiapusi.fi/about-us",
+      "https://kotiapusi.fi/ota-yhteytta",
+      "https://kotiapusi.fi/meille"
+    ]
+  },
+  "reim.fi": {
+    "domain": "reim.fi",
+    "emails": [
+      "asiakaspalvelu.paakaupunkiseutu@reim.fi"
+    ],
+    "phone": "0992243926",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:05.445Z",
+    "pagesChecked": [
+      "https://reim.fi",
+      "https://reim.fi/yhteystiedot",
+      "https://reim.fi/yhteystiedot/",
+      "https://reim.fi/contact",
+      "https://reim.fi/contact-us",
+      "https://reim.fi/about",
+      "https://reim.fi/about-us",
+      "https://reim.fi/ota-yhteytta",
+      "https://reim.fi/meille"
+    ]
+  },
+  "lipalvelu.fi": {
+    "domain": "lipalvelu.fi",
+    "emails": [
+      "asiakaspalvelu@lipalvelu.fi",
+      "info.vlk@lipalvelu.fi",
+      "suvi.salonen@lipalvelu.fi",
+      "mikko.isoniemi@lipalvelu.fi",
+      "jan.stellberg@lipalvelu.fi",
+      "janne.koskela@lipalvelu.fi",
+      "ville.raty@lipalvelu.fi",
+      "hanna.matero@lipalvelu.fi",
+      "hanna.luoma@lipalvelu.fi",
+      "katja.jarventausta@lipalvelu.fi",
+      "heli.riikonen@lipalvelu.fi",
+      "sanna.talvensaari@lipalvelu.fi",
+      "kati.rajala@lipalvelu.fi",
+      "henna.ikonen@lipalvelu.fi",
+      "kristiina.hyotynen@lipalvelu.fi",
+      "kimmo.jaaskelainen@lipalvelu.fi",
+      "marika.korpihalkola@lipalvelu.fi",
+      "laura.tolonen@lipalvelu.fi",
+      "jussi.tuominen@lipalvelu.fi",
+      "maaret.vuorinen@lipalvelu.fi",
+      "helena.asiala@lipalvelu.fi",
+      "riikka.klemola@lipalvelu.fi",
+      "heli.keskinen@lipalvelu.fi",
+      "jutta.ketomaki@lipalvelu.fi",
+      "riika.hovila@lipalvelu.fi",
+      "eija.miettinen@lipalvelu.fi",
+      "kirsi.hannonen@lipalvelu.fi",
+      "jukka.hupanen@lipalvelu.fi",
+      "mikko.fredriksson@lipalvelu.fi",
+      "sanna.heritty@lipalvelu.fi",
+      "raija.viljakainen@lipalvelu.fi",
+      "paavo.salonen@lipalvelu.fi",
+      "mika.niemi@lipalvelu.fi",
+      "toni.torma@lipalvelu.fi",
+      "sakari.sillanpaa@lipalvelu.fi",
+      "jouko.malinen@lipalvelu.fi",
+      "asko.paukkila@lipalvelu.fi",
+      "irene.kauppila@lipalvelu.fi",
+      "paivi.itanen@lipalvelu.fi",
+      "katri.rissanen@lipalvelu.fi"
+    ],
+    "phone": "00587893",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:05.934Z",
+    "pagesChecked": [
+      "https://lipalvelu.fi",
+      "https://lipalvelu.fi/yhteystiedot",
+      "https://lipalvelu.fi/yhteystiedot/",
+      "https://lipalvelu.fi/contact",
+      "https://lipalvelu.fi/contact-us",
+      "https://lipalvelu.fi/about",
+      "https://lipalvelu.fi/about-us",
+      "https://lipalvelu.fi/ota-yhteytta",
+      "https://lipalvelu.fi/meille"
+    ]
+  },
+  "tammentalot.fi": {
+    "domain": "tammentalot.fi",
+    "emails": [],
+    "phone": "+35837559820",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:06.585Z",
+    "pagesChecked": [
+      "https://tammentalot.fi",
+      "https://tammentalot.fi/yhteystiedot",
+      "https://tammentalot.fi/yhteystiedot/",
+      "https://tammentalot.fi/contact",
+      "https://tammentalot.fi/contact-us",
+      "https://tammentalot.fi/about",
+      "https://tammentalot.fi/about-us",
+      "https://tammentalot.fi/ota-yhteytta",
+      "https://tammentalot.fi/meille"
+    ],
+    "error": "Could not reach https://tammentalot.fi/contact"
+  },
+  "pienkonehuoltosiekkinen.fi": {
+    "domain": "pienkonehuoltosiekkinen.fi",
+    "emails": [
+      "myynti@pienkonehuoltosiekkinen.fi"
+    ],
+    "phone": "037154671",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:07.836Z",
+    "pagesChecked": [
+      "https://pienkonehuoltosiekkinen.fi",
+      "https://pienkonehuoltosiekkinen.fi/yhteystiedot",
+      "https://pienkonehuoltosiekkinen.fi/yhteystiedot/",
+      "https://pienkonehuoltosiekkinen.fi/contact",
+      "https://pienkonehuoltosiekkinen.fi/contact-us",
+      "https://pienkonehuoltosiekkinen.fi/about",
+      "https://pienkonehuoltosiekkinen.fi/about-us",
+      "https://pienkonehuoltosiekkinen.fi/ota-yhteytta",
+      "https://pienkonehuoltosiekkinen.fi/meille"
+    ]
+  },
+  "tilaasiivous.com": {
+    "domain": "tilaasiivous.com",
+    "emails": [
+      "info@tilaasiivous.com"
+    ],
+    "phone": "00000057",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:09.573Z",
+    "pagesChecked": [
+      "https://tilaasiivous.com",
+      "https://tilaasiivous.com/yhteystiedot",
+      "https://tilaasiivous.com/yhteystiedot/",
+      "https://tilaasiivous.com/contact",
+      "https://tilaasiivous.com/contact-us",
+      "https://tilaasiivous.com/about",
+      "https://tilaasiivous.com/about-us",
+      "https://tilaasiivous.com/ota-yhteytta",
+      "https://tilaasiivous.com/meille"
+    ]
+  },
+  "asuntopehtoori.fi": {
+    "domain": "asuntopehtoori.fi",
+    "emails": [
+      "toimisto@asuntopehtoori.fi",
+      "huolenpito@asuntopehtoori.fi",
+      "isannointi@asuntopehtoori.fi",
+      "valitys@asuntopehtoori.fi",
+      "paivi.klaavuniemi@asuntopehtoori.fi",
+      "svetlana.karvinen@asuntopehtoori.fi",
+      "sanna.heikkila@asuntopehtoori.fi",
+      "erika.hilden@asuntopehtoori.fi",
+      "heidi.sormunen@asuntopehtoori.fi",
+      "henna.laitinen@asuntopehtoori.fi",
+      "jaana.smeds@asuntopehtoori.fi",
+      "janita.uusikari@asuntopehtoori.fi",
+      "janette.lehtosaari@asuntopehtoori.fi",
+      "jenna.miettinen@asuntopehtoori.fi",
+      "jenniina.kuusrainen@asuntopehtoori.fi",
+      "jenni.junninen@asuntopehtoori.fi",
+      "olli.ikonen@asuntopehtoori.fi",
+      "jenni.reponen@asuntopehtoori.fi",
+      "johanna.lehtinen@asuntopehtoori.fi",
+      "joonas.mankinen@asuntopehtoori.fi",
+      "kimmo.oravuo@asuntopehtoori.fi",
+      "tino.kauppinen@asuntopehtoori.fi",
+      "klara.stenman@asuntopehtoori.fi",
+      "riikka.hamalainen@asuntopehtoori.fi",
+      "maiju.liimatta@asuntopehtoori.fi",
+      "leo.romana@asuntopehtoori.fi",
+      "ruslan.bezhak@asuntopehtoori.fi",
+      "marco.matrone@asuntopehtoori.fi",
+      "mikko.saarinen@asuntopehtoori.fi",
+      "noora.tolonen@asuntopehtoori.fi",
+      "neea.seppanen@asuntopehtoori.fi",
+      "kia.reijonen@asuntopehtoori.fi",
+      "olli.vaatainen@asuntopehtoori.fi",
+      "rene.narusing@asuntopehtoori.fi",
+      "sami.junnola@asuntopehtoori.fi",
+      "sofia.savimaki@asuntopehtoori.fi",
+      "teemu.penninkangas@asuntopehtoori.fi",
+      "tuomas.lehtinen@asuntopehtoori.fi",
+      "veeti.haapasalo@asuntopehtoori.fi",
+      "olivia.jussila@asuntopehtoori.fi",
+      "veeti.tupitsa@asuntopehtoori.fi",
+      "hanna.suni@asuntopehtoori.fi",
+      "kirsi.yliniemi@asuntopehtoori.fi",
+      "maija.ollikainen@asuntopehtoori.fi",
+      "vuokravalvonta@asuntopehtoori.fi",
+      "anna.malkamaki@asuntopehtoori.fi",
+      "antti.hynynen@asuntopehtoori.fi",
+      "anu.kivinen@asuntopehtoori.fi",
+      "hanna.kyrola@asuntopehtoori.fi",
+      "hanna.suoyrjo@asuntopehtoori.fi",
+      "jenni.okkonen@asuntopehtoori.fi",
+      "lauri.lyytinen@asuntopehtoori.fi",
+      "marika.kaihlanen@asuntopehtoori.fi",
+      "marika.vartiainen@asuntopehtoori.fi",
+      "markus.kaukovalta@asuntopehtoori.fi",
+      "meeri.martikainen@asuntopehtoori.fi",
+      "nina.koskinen@asuntopehtoori.fi",
+      "riku.jakobsson@asuntopehtoori.fi",
+      "saija.arvo-poutiainen@asuntopehtoori.fi",
+      "sanna.pukkala@asuntopehtoori.fi",
+      "sanna.salonmaa@asuntopehtoori.fi",
+      "satu.sinisalo@asuntopehtoori.fi",
+      "teija.luhtalampi@asuntopehtoori.fi",
+      "tommi.hanninen@asuntopehtoori.fi",
+      "danila.yonsini@asuntopehtoori.fi",
+      "johanna.hirvonen@asuntopehtoori.fi",
+      "miika@asuntopehtoori.fi",
+      "hallinto@asuntopehtoori.fi",
+      "riitta.jokinen@asuntopehtoori.fi",
+      "outi.vuorensola@asuntopehtoori.fi",
+      "karoliina.peltola@asuntopehtoori.fi",
+      "sofia.mankinen@asuntopehtoori.fi"
+    ],
+    "phone": "0152-0153",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:12.037Z",
+    "pagesChecked": [
+      "https://asuntopehtoori.fi",
+      "https://asuntopehtoori.fi/yhteystiedot",
+      "https://asuntopehtoori.fi/yhteystiedot/",
+      "https://asuntopehtoori.fi/contact",
+      "https://asuntopehtoori.fi/contact-us",
+      "https://asuntopehtoori.fi/about",
+      "https://asuntopehtoori.fi/about-us",
+      "https://asuntopehtoori.fi/ota-yhteytta",
+      "https://asuntopehtoori.fi/meille"
+    ]
+  },
+  "fallenius.fi": {
+    "domain": "fallenius.fi",
+    "emails": [],
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:12.116Z",
+    "pagesChecked": [
+      "https://fallenius.fi",
+      "https://fallenius.fi/yhteystiedot",
+      "https://fallenius.fi/yhteystiedot/",
+      "https://fallenius.fi/contact",
+      "https://fallenius.fi/contact-us",
+      "https://fallenius.fi/about",
+      "https://fallenius.fi/about-us",
+      "https://fallenius.fi/ota-yhteytta",
+      "https://fallenius.fi/meille"
+    ],
+    "error": "Could not reach https://fallenius.fi"
+  },
+  "tuplaluuta.fi": {
+    "domain": "tuplaluuta.fi",
+    "emails": [
+      "info@tuplaluuta.fi",
+      "etunimi.sukunimi@tuplaluuta.fi",
+      "003708121325@procountor.apix.fi"
+    ],
+    "phone": "05182408",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:12.920Z",
+    "pagesChecked": [
+      "https://tuplaluuta.fi",
+      "https://tuplaluuta.fi/yhteystiedot",
+      "https://tuplaluuta.fi/yhteystiedot/",
+      "https://tuplaluuta.fi/contact",
+      "https://tuplaluuta.fi/contact-us",
+      "https://tuplaluuta.fi/about",
+      "https://tuplaluuta.fi/about-us",
+      "https://tuplaluuta.fi/ota-yhteytta",
+      "https://tuplaluuta.fi/meille"
+    ]
+  },
+  "lvi-sasto.com": {
+    "domain": "lvi-sasto.com",
+    "emails": [],
+    "phone": "0400614170",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:14.203Z",
+    "pagesChecked": [
+      "https://lvi-sasto.com",
+      "https://lvi-sasto.com/yhteystiedot",
+      "https://lvi-sasto.com/yhteystiedot/",
+      "https://lvi-sasto.com/contact",
+      "https://lvi-sasto.com/contact-us",
+      "https://lvi-sasto.com/about",
+      "https://lvi-sasto.com/about-us",
+      "https://lvi-sasto.com/ota-yhteytta",
+      "https://lvi-sasto.com/meille"
+    ],
+    "error": "Could not reach https://lvi-sasto.com/contact"
+  },
+  "putkimaailma.fi": {
+    "domain": "putkimaailma.fi",
+    "emails": [
+      "jussi.annala@putkimaailma.fi",
+      "tuomas.kokkonen@putkimaailma.fi",
+      "tomas.rauhala@putkimaailma.fi"
+    ],
+    "phone": "+358401344785",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:16.473Z",
+    "pagesChecked": [
+      "https://putkimaailma.fi",
+      "https://putkimaailma.fi/yhteystiedot",
+      "https://putkimaailma.fi/yhteystiedot/",
+      "https://putkimaailma.fi/contact",
+      "https://putkimaailma.fi/contact-us",
+      "https://putkimaailma.fi/about",
+      "https://putkimaailma.fi/about-us",
+      "https://putkimaailma.fi/ota-yhteytta",
+      "https://putkimaailma.fi/meille"
+    ]
+  },
+  "paloturvasuunnittelu.fi": {
+    "domain": "paloturvasuunnittelu.fi",
+    "emails": [
+      "info@paloturvasuunnittelu.fi",
+      "jarkko.tuuri@paloturvasuunnittelu.fi",
+      "jeroen.porrasoja@paloturvasuunnittelu.fi",
+      "raine.paajanen@paloturvasuunnittelu.fi"
+    ],
+    "phone": "0400217710",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:16.504Z",
+    "pagesChecked": [
+      "https://paloturvasuunnittelu.fi",
+      "https://paloturvasuunnittelu.fi/yhteystiedot",
+      "https://paloturvasuunnittelu.fi/yhteystiedot/",
+      "https://paloturvasuunnittelu.fi/contact",
+      "https://paloturvasuunnittelu.fi/contact-us",
+      "https://paloturvasuunnittelu.fi/about",
+      "https://paloturvasuunnittelu.fi/about-us",
+      "https://paloturvasuunnittelu.fi/ota-yhteytta",
+      "https://paloturvasuunnittelu.fi/meille"
+    ]
+  },
+  "teljanet.fi": {
+    "domain": "teljanet.fi",
+    "emails": [
+      "energiatekniikka@teljanet.fi",
+      "kiinteistotekniikka@teljanet.fi",
+      "etunimi@teljanet.fi",
+      "fennoa.508947@erin.posti.com",
+      "fennoa.507874@erin.posti.com"
+    ],
+    "phone": "0 0 100 100",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:18.333Z",
+    "pagesChecked": [
+      "https://teljanet.fi",
+      "https://teljanet.fi/yhteystiedot",
+      "https://teljanet.fi/yhteystiedot/",
+      "https://teljanet.fi/contact",
+      "https://teljanet.fi/contact-us",
+      "https://teljanet.fi/about",
+      "https://teljanet.fi/about-us",
+      "https://teljanet.fi/ota-yhteytta",
+      "https://teljanet.fi/meille"
+    ]
+  },
+  "isojoo.fi": {
+    "domain": "isojoo.fi",
+    "emails": [
+      "palvelu@isojoo.fi"
+    ],
+    "phone": "064219947447",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:19.462Z",
+    "pagesChecked": [
+      "https://isojoo.fi",
+      "https://isojoo.fi/yhteystiedot",
+      "https://isojoo.fi/yhteystiedot/",
+      "https://isojoo.fi/contact",
+      "https://isojoo.fi/contact-us",
+      "https://isojoo.fi/about",
+      "https://isojoo.fi/about-us",
+      "https://isojoo.fi/ota-yhteytta",
+      "https://isojoo.fi/meille"
+    ]
+  },
+  "vaaratek.fi": {
+    "domain": "vaaratek.fi",
+    "emails": [
+      "joni.vaara@vaaratek.fi",
+      "support@webador.com"
+    ],
+    "phone": "07033617",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:20.234Z",
+    "pagesChecked": [
+      "https://vaaratek.fi",
+      "https://vaaratek.fi/yhteystiedot",
+      "https://vaaratek.fi/yhteystiedot/",
+      "https://vaaratek.fi/contact",
+      "https://vaaratek.fi/contact-us",
+      "https://vaaratek.fi/about",
+      "https://vaaratek.fi/about-us",
+      "https://vaaratek.fi/ota-yhteytta",
+      "https://vaaratek.fi/meille"
+    ]
+  },
+  "alitustekniikka.fi": {
+    "domain": "alitustekniikka.fi",
+    "emails": [],
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:22.212Z",
+    "pagesChecked": [
+      "https://alitustekniikka.fi",
+      "https://alitustekniikka.fi/yhteystiedot",
+      "https://alitustekniikka.fi/yhteystiedot/",
+      "https://alitustekniikka.fi/contact",
+      "https://alitustekniikka.fi/contact-us",
+      "https://alitustekniikka.fi/about",
+      "https://alitustekniikka.fi/about-us",
+      "https://alitustekniikka.fi/ota-yhteytta",
+      "https://alitustekniikka.fi/meille"
+    ],
+    "error": "Could not reach https://alitustekniikka.fi"
+  },
+  "safai.fi": {
+    "domain": "safai.fi",
+    "emails": [
+      "info@safai.fi"
+    ],
+    "phone": "0 10 0 1 1 17 3",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:23.833Z",
+    "pagesChecked": [
+      "https://safai.fi",
+      "https://safai.fi/yhteystiedot",
+      "https://safai.fi/yhteystiedot/",
+      "https://safai.fi/contact",
+      "https://safai.fi/contact-us",
+      "https://safai.fi/about",
+      "https://safai.fi/about-us",
+      "https://safai.fi/ota-yhteytta",
+      "https://safai.fi/meille"
+    ]
+  },
+  "vsenergiatalo.fi": {
+    "domain": "vsenergiatalo.fi",
+    "emails": [
+      "info@vsenergiatalo.fi",
+      "antti.teuri@vsenergiatalo.fi",
+      "miikka.linden@vsenergiatalo.fi",
+      "003735619508@procountor.apix.fi"
+    ],
+    "phone": "0 0 100 100",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:24.892Z",
+    "pagesChecked": [
+      "https://vsenergiatalo.fi",
+      "https://vsenergiatalo.fi/yhteystiedot",
+      "https://vsenergiatalo.fi/yhteystiedot/",
+      "https://vsenergiatalo.fi/contact",
+      "https://vsenergiatalo.fi/contact-us",
+      "https://vsenergiatalo.fi/about",
+      "https://vsenergiatalo.fi/about-us",
+      "https://vsenergiatalo.fi/ota-yhteytta",
+      "https://vsenergiatalo.fi/meille"
+    ]
+  },
+  "nasinsiivous.fi": {
+    "domain": "nasinsiivous.fi",
+    "emails": [
+      "nasi@nasinsiivous.fi"
+    ],
+    "phone": "0 24 150 28",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:26.705Z",
+    "pagesChecked": [
+      "https://nasinsiivous.fi",
+      "https://nasinsiivous.fi/yhteystiedot",
+      "https://nasinsiivous.fi/yhteystiedot/",
+      "https://nasinsiivous.fi/contact",
+      "https://nasinsiivous.fi/contact-us",
+      "https://nasinsiivous.fi/about",
+      "https://nasinsiivous.fi/about-us",
+      "https://nasinsiivous.fi/ota-yhteytta",
+      "https://nasinsiivous.fi/meille"
+    ]
+  },
+  "yrityssiivoushelsinki.fi": {
+    "domain": "yrityssiivoushelsinki.fi",
+    "emails": [
+      "info@yrityssiivoushelsinki.fi",
+      "kari.toivonen@spkt.fi",
+      "teija.toivonen@spkt.fi",
+      "marianne.surakka@spkt.fi"
+    ],
+    "phone": "0505114029",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:27.300Z",
+    "pagesChecked": [
+      "https://yrityssiivoushelsinki.fi",
+      "https://yrityssiivoushelsinki.fi/yhteystiedot",
+      "https://yrityssiivoushelsinki.fi/yhteystiedot/",
+      "https://yrityssiivoushelsinki.fi/contact",
+      "https://yrityssiivoushelsinki.fi/contact-us",
+      "https://yrityssiivoushelsinki.fi/about",
+      "https://yrityssiivoushelsinki.fi/about-us",
+      "https://yrityssiivoushelsinki.fi/ota-yhteytta",
+      "https://yrityssiivoushelsinki.fi/meille"
+    ]
+  },
+  "vapaa-aika.com": {
+    "domain": "vapaa-aika.com",
+    "emails": [
+      "palvelu@vapaa-aika.com"
+    ],
+    "phone": "0000000063",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:27.970Z",
+    "pagesChecked": [
+      "https://vapaa-aika.com",
+      "https://vapaa-aika.com/yhteystiedot",
+      "https://vapaa-aika.com/yhteystiedot/",
+      "https://vapaa-aika.com/contact",
+      "https://vapaa-aika.com/contact-us",
+      "https://vapaa-aika.com/about",
+      "https://vapaa-aika.com/about-us",
+      "https://vapaa-aika.com/ota-yhteytta",
+      "https://vapaa-aika.com/meille"
+    ]
+  },
+  "cleanspot.fi": {
+    "domain": "cleanspot.fi",
+    "emails": [
+      "petri.niemi@cleanspot.fi"
+    ],
+    "phone": "0152-0153",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:29.301Z",
+    "pagesChecked": [
+      "https://cleanspot.fi",
+      "https://cleanspot.fi/yhteystiedot",
+      "https://cleanspot.fi/yhteystiedot/",
+      "https://cleanspot.fi/contact",
+      "https://cleanspot.fi/contact-us",
+      "https://cleanspot.fi/about",
+      "https://cleanspot.fi/about-us",
+      "https://cleanspot.fi/ota-yhteytta",
+      "https://cleanspot.fi/meille"
+    ]
+  },
+  "trinomi.fi": {
+    "domain": "trinomi.fi",
+    "emails": [
+      "info@trinomi.fi",
+      "veijo.oksman@trinomi.fi"
+    ],
+    "phone": "0400 491 194",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:31.247Z",
+    "pagesChecked": [
+      "https://trinomi.fi",
+      "https://trinomi.fi/yhteystiedot",
+      "https://trinomi.fi/yhteystiedot/",
+      "https://trinomi.fi/contact",
+      "https://trinomi.fi/contact-us",
+      "https://trinomi.fi/about",
+      "https://trinomi.fi/about-us",
+      "https://trinomi.fi/ota-yhteytta",
+      "https://trinomi.fi/meille"
+    ]
+  },
+  "siivouseliitti.fi": {
+    "domain": "siivouseliitti.fi",
+    "emails": [],
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:32.899Z",
+    "pagesChecked": [
+      "https://siivouseliitti.fi",
+      "https://siivouseliitti.fi/yhteystiedot",
+      "https://siivouseliitti.fi/yhteystiedot/",
+      "https://siivouseliitti.fi/contact",
+      "https://siivouseliitti.fi/contact-us",
+      "https://siivouseliitti.fi/about",
+      "https://siivouseliitti.fi/about-us",
+      "https://siivouseliitti.fi/ota-yhteytta",
+      "https://siivouseliitti.fi/meille"
+    ],
+    "error": "Could not reach https://siivouseliitti.fi"
+  },
+  "tenyhtio.fi": {
+    "domain": "tenyhtio.fi",
+    "emails": [],
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:35.989Z",
+    "pagesChecked": [
+      "https://tenyhtio.fi",
+      "https://tenyhtio.fi/yhteystiedot",
+      "https://tenyhtio.fi/yhteystiedot/",
+      "https://tenyhtio.fi/contact",
+      "https://tenyhtio.fi/contact-us",
+      "https://tenyhtio.fi/about",
+      "https://tenyhtio.fi/about-us",
+      "https://tenyhtio.fi/ota-yhteytta",
+      "https://tenyhtio.fi/meille"
+    ],
+    "error": "Could not reach https://tenyhtio.fi"
+  },
+  "greenvibe.fi": {
+    "domain": "greenvibe.fi",
+    "emails": [
+      "info@greenvibe.fi"
+    ],
+    "phone": "034414 500",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:37.040Z",
+    "pagesChecked": [
+      "https://greenvibe.fi",
+      "https://greenvibe.fi/yhteystiedot",
+      "https://greenvibe.fi/yhteystiedot/",
+      "https://greenvibe.fi/contact",
+      "https://greenvibe.fi/contact-us",
+      "https://greenvibe.fi/about",
+      "https://greenvibe.fi/about-us",
+      "https://greenvibe.fi/ota-yhteytta",
+      "https://greenvibe.fi/meille"
+    ]
+  },
+  "duosiivouspalvelut.fi": {
+    "domain": "duosiivouspalvelut.fi",
+    "emails": [
+      "info@duosiivouspalvelut.fi"
+    ],
+    "phone": "0490-0491",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:37.315Z",
+    "pagesChecked": [
+      "https://duosiivouspalvelut.fi",
+      "https://duosiivouspalvelut.fi/yhteystiedot",
+      "https://duosiivouspalvelut.fi/yhteystiedot/",
+      "https://duosiivouspalvelut.fi/contact",
+      "https://duosiivouspalvelut.fi/contact-us",
+      "https://duosiivouspalvelut.fi/about",
+      "https://duosiivouspalvelut.fi/about-us",
+      "https://duosiivouspalvelut.fi/ota-yhteytta",
+      "https://duosiivouspalvelut.fi/meille"
+    ]
+  },
+  "marnela.com": {
+    "domain": "marnela.com",
+    "emails": [],
+    "phone": "0490-0491",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:38.249Z",
+    "pagesChecked": [
+      "https://marnela.com",
+      "https://marnela.com/yhteystiedot",
+      "https://marnela.com/yhteystiedot/",
+      "https://marnela.com/contact",
+      "https://marnela.com/contact-us",
+      "https://marnela.com/about",
+      "https://marnela.com/about-us",
+      "https://marnela.com/ota-yhteytta",
+      "https://marnela.com/meille"
+    ],
+    "error": "Could not reach https://marnela.com/contact"
+  },
+  "lapinlviasennus.fi": {
+    "domain": "lapinlviasennus.fi",
+    "emails": [
+      "info@lapinlvi.fi",
+      "santtu.hettula@lapinlvi.fi",
+      "003706605641@xbs-salo.com",
+      "etunimi.sukunimi@lapinlvi.fi",
+      "teppo.lahti@lapinlvi.fi",
+      "petri.miettunen@lapinlvi.fi"
+    ],
+    "phone": "056535881",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:38.823Z",
+    "pagesChecked": [
+      "https://lapinlviasennus.fi",
+      "https://lapinlviasennus.fi/yhteystiedot",
+      "https://lapinlviasennus.fi/yhteystiedot/",
+      "https://lapinlviasennus.fi/contact",
+      "https://lapinlviasennus.fi/contact-us",
+      "https://lapinlviasennus.fi/about",
+      "https://lapinlviasennus.fi/about-us",
+      "https://lapinlviasennus.fi/ota-yhteytta",
+      "https://lapinlviasennus.fi/meille"
+    ]
+  },
+  "vesitaito.fi": {
+    "domain": "vesitaito.fi",
+    "emails": [
+      "vesitaito@vesitaito.fi",
+      "etunimi.sukunimi@vesitaito.fi"
+    ],
+    "phone": "0 0 100 100",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:40.705Z",
+    "pagesChecked": [
+      "https://vesitaito.fi",
+      "https://vesitaito.fi/yhteystiedot",
+      "https://vesitaito.fi/yhteystiedot/",
+      "https://vesitaito.fi/contact",
+      "https://vesitaito.fi/contact-us",
+      "https://vesitaito.fi/about",
+      "https://vesitaito.fi/about-us",
+      "https://vesitaito.fi/ota-yhteytta",
+      "https://vesitaito.fi/meille"
+    ]
+  },
+  "oit.fi": {
+    "domain": "oit.fi",
+    "emails": [
+      "toimisto@oit.fi",
+      "helsinki@oit.fi",
+      "sarita.turpeinen@oit.fi",
+      "sirpa.tikkala@oit.fi",
+      "ida-sofia.huotari@oit.fi",
+      "tuula.juurikka@oit.fi",
+      "sanna.kurikka@oit.fi",
+      "katja.matinaho@oit.fi",
+      "jaana.kumpulainen@oit.fi",
+      "jaana.kyllonen@oit.fi",
+      "aleksanteri.valmari@oit.fi",
+      "henna.mustonen@oit.fi",
+      "salla.moilanen@oit.fi",
+      "siiri.nordlund@oit.fi",
+      "eva.holmi@oit.fi",
+      "tanja.kaijalainen@oit.fi",
+      "jukka.niemela@oit.fi",
+      "henri.mommo@oit.fi",
+      "kalle.metsavainio@oit.fi",
+      "sasu.hautala@oit.fi",
+      "jari.hekkala@oit.fi",
+      "seppo.niemela@oit.fi",
+      "terhi.jokinen@oit.fi",
+      "annemari.mustonen@oit.fi",
+      "klaus.puolitaival@oit.fi",
+      "jonna.hekkala@oit.fi",
+      "iida.jokela@oit.fi",
+      "katja.kuukasjarvi@oit.fi",
+      "tomi.kuoksa@oit.fi",
+      "arto.ylisaari@oit.fi",
+      "juha.hautakangas@oit.fi",
+      "pietari.purola@oit.fi",
+      "sari.marjamaa@oit.fi",
+      "janne.kukkonen@oit.fi",
+      "kristian.wikstrom@oit.fi",
+      "jukka-pekka.aho@oit.fi",
+      "markus.lehtonen@oit.fi",
+      "petri.neuvonen@oit.fi",
+      "ahti.antikainen@oit.fi",
+      "erkki.lappi@oit.fi",
+      "jyrki.kemppinen@oit.fi",
+      "tommi.laitinen@oit.fi"
+    ],
+    "phone": "08 4152 5000",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:41.087Z",
+    "pagesChecked": [
+      "https://oit.fi",
+      "https://oit.fi/yhteystiedot",
+      "https://oit.fi/yhteystiedot/",
+      "https://oit.fi/contact",
+      "https://oit.fi/contact-us",
+      "https://oit.fi/about",
+      "https://oit.fi/about-us",
+      "https://oit.fi/ota-yhteytta",
+      "https://oit.fi/meille"
+    ]
+  },
+  "terwaisannointi.fi": {
+    "domain": "terwaisannointi.fi",
+    "emails": [
+      "toimisto@terwaisannointi.fi",
+      "sami@terwaisannointi.fi",
+      "markus@terwaisannointi.fi",
+      "mikko@terwaisannointi.fi",
+      "helena@terwaisannointi.fi",
+      "maiju@terwaisannointi.fi",
+      "jaana@terwaisannointi.fi",
+      "vilma@terwaisannointi.fi",
+      "marika@terwaisannointi.fi",
+      "mika@terwaisannointi.fi",
+      "tarpeisiin.toimisto@terwaisannointi.fi"
+    ],
+    "phone": "+358447448690",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:41.947Z",
+    "pagesChecked": [
+      "https://terwaisannointi.fi",
+      "https://terwaisannointi.fi/yhteystiedot",
+      "https://terwaisannointi.fi/yhteystiedot/",
+      "https://terwaisannointi.fi/contact",
+      "https://terwaisannointi.fi/contact-us",
+      "https://terwaisannointi.fi/about",
+      "https://terwaisannointi.fi/about-us",
+      "https://terwaisannointi.fi/ota-yhteytta",
+      "https://terwaisannointi.fi/meille"
+    ]
+  },
+  "alti-systems.fi": {
+    "domain": "alti-systems.fi",
+    "emails": [
+      "myynti@alti-systems.fi",
+      "ville.tormanen@alti-systems.fi",
+      "timo@alti-systems.fi",
+      "miska@alti-systems.fi",
+      "patrik.hinkkanen@alti-systems.fi",
+      "jiri.lehtinen@alti-systems.fi"
+    ],
+    "phone": "00000040",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:42.252Z",
+    "pagesChecked": [
+      "https://alti-systems.fi",
+      "https://alti-systems.fi/yhteystiedot",
+      "https://alti-systems.fi/yhteystiedot/",
+      "https://alti-systems.fi/contact",
+      "https://alti-systems.fi/contact-us",
+      "https://alti-systems.fi/about",
+      "https://alti-systems.fi/about-us",
+      "https://alti-systems.fi/ota-yhteytta",
+      "https://alti-systems.fi/meille"
+    ]
+  },
+  "suomenputkitaso.fi": {
+    "domain": "suomenputkitaso.fi",
+    "emails": [
+      "ville.lepikko@suomenputkitaso.fi",
+      "miika.pietilainen@suomenputkitaso.fi"
+    ],
+    "phone": "0100894462",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:43.845Z",
+    "pagesChecked": [
+      "https://suomenputkitaso.fi",
+      "https://suomenputkitaso.fi/yhteystiedot",
+      "https://suomenputkitaso.fi/yhteystiedot/",
+      "https://suomenputkitaso.fi/contact",
+      "https://suomenputkitaso.fi/contact-us",
+      "https://suomenputkitaso.fi/about",
+      "https://suomenputkitaso.fi/about-us",
+      "https://suomenputkitaso.fi/ota-yhteytta",
+      "https://suomenputkitaso.fi/meille"
+    ]
+  },
+  "piirosto.fi": {
+    "domain": "piirosto.fi",
+    "emails": [
+      "yhteydenotto@esimerkki.fi"
+    ],
+    "phone": "00000056-76",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:44.355Z",
+    "pagesChecked": [
+      "https://piirosto.fi",
+      "https://piirosto.fi/yhteystiedot",
+      "https://piirosto.fi/yhteystiedot/",
+      "https://piirosto.fi/contact",
+      "https://piirosto.fi/contact-us",
+      "https://piirosto.fi/about",
+      "https://piirosto.fi/about-us",
+      "https://piirosto.fi/ota-yhteytta",
+      "https://piirosto.fi/meille"
+    ]
+  },
+  "spm-tekniikka.fi": {
+    "domain": "spm-tekniikka.fi",
+    "emails": [
+      "teemu@spm-tekniikka.fi",
+      "yhteydenotto@esimerkki.fi"
+    ],
+    "phone": "00000004-1073",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:44.563Z",
+    "pagesChecked": [
+      "https://spm-tekniikka.fi",
+      "https://spm-tekniikka.fi/yhteystiedot",
+      "https://spm-tekniikka.fi/yhteystiedot/",
+      "https://spm-tekniikka.fi/contact",
+      "https://spm-tekniikka.fi/contact-us",
+      "https://spm-tekniikka.fi/about",
+      "https://spm-tekniikka.fi/about-us",
+      "https://spm-tekniikka.fi/ota-yhteytta",
+      "https://spm-tekniikka.fi/meille"
+    ]
+  },
+  "maanrakennuspajunen.fi": {
+    "domain": "maanrakennuspajunen.fi",
+    "emails": [
+      "posti@maanrakennuspajunen.fi"
+    ],
+    "phone": "0152-0153",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:45.720Z",
+    "pagesChecked": [
+      "https://maanrakennuspajunen.fi",
+      "https://maanrakennuspajunen.fi/yhteystiedot",
+      "https://maanrakennuspajunen.fi/yhteystiedot/",
+      "https://maanrakennuspajunen.fi/contact",
+      "https://maanrakennuspajunen.fi/contact-us",
+      "https://maanrakennuspajunen.fi/about",
+      "https://maanrakennuspajunen.fi/about-us",
+      "https://maanrakennuspajunen.fi/ota-yhteytta",
+      "https://maanrakennuspajunen.fi/meille"
+    ]
+  },
+  "puhtosin.fi": {
+    "domain": "puhtosin.fi",
+    "emails": [
+      "info@puhtosin.fi"
+    ],
+    "phone": "097453604759",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:47.123Z",
+    "pagesChecked": [
+      "https://puhtosin.fi",
+      "https://puhtosin.fi/yhteystiedot",
+      "https://puhtosin.fi/yhteystiedot/",
+      "https://puhtosin.fi/contact",
+      "https://puhtosin.fi/contact-us",
+      "https://puhtosin.fi/about",
+      "https://puhtosin.fi/about-us",
+      "https://puhtosin.fi/ota-yhteytta",
+      "https://puhtosin.fi/meille"
+    ]
+  },
+  "lvisuunnittelucenter.fi": {
+    "domain": "lvisuunnittelucenter.fi",
+    "emails": [
+      "kari.kareinen@lvisuunnittelucenter.fi",
+      "olli.ikonen@lvisuunnittelucenter.fi",
+      "toimisto@lvisuunnittelucenter.fi",
+      "jussi.salonen@lvisuunnittelucenter.fi",
+      "tero.hiltunen@lvisuunnittelucenter.fi"
+    ],
+    "phone": "0 0 1000 100",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:48.462Z",
+    "pagesChecked": [
+      "https://lvisuunnittelucenter.fi",
+      "https://lvisuunnittelucenter.fi/yhteystiedot",
+      "https://lvisuunnittelucenter.fi/yhteystiedot/",
+      "https://lvisuunnittelucenter.fi/contact",
+      "https://lvisuunnittelucenter.fi/contact-us",
+      "https://lvisuunnittelucenter.fi/about",
+      "https://lvisuunnittelucenter.fi/about-us",
+      "https://lvisuunnittelucenter.fi/ota-yhteytta",
+      "https://lvisuunnittelucenter.fi/meille"
+    ]
+  },
+  "tasolaiset.fi": {
+    "domain": "tasolaiset.fi",
+    "emails": [
+      "tasolaiset@tasolaiset.fi"
+    ],
+    "phone": "+358447596485",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:50.714Z",
+    "pagesChecked": [
+      "https://tasolaiset.fi",
+      "https://tasolaiset.fi/yhteystiedot",
+      "https://tasolaiset.fi/yhteystiedot/",
+      "https://tasolaiset.fi/contact",
+      "https://tasolaiset.fi/contact-us",
+      "https://tasolaiset.fi/about",
+      "https://tasolaiset.fi/about-us",
+      "https://tasolaiset.fi/ota-yhteytta",
+      "https://tasolaiset.fi/meille"
+    ]
+  },
+  "cleanii.fi": {
+    "domain": "cleanii.fi",
+    "emails": [
+      "cleanii.kotipalvelu@gmail.com"
+    ],
+    "phone": "0 0 100 100",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:51.404Z",
+    "pagesChecked": [
+      "https://cleanii.fi",
+      "https://cleanii.fi/yhteystiedot",
+      "https://cleanii.fi/yhteystiedot/",
+      "https://cleanii.fi/contact",
+      "https://cleanii.fi/contact-us",
+      "https://cleanii.fi/about",
+      "https://cleanii.fi/about-us",
+      "https://cleanii.fi/ota-yhteytta",
+      "https://cleanii.fi/meille"
+    ]
+  },
+  "veneva.fi": {
+    "domain": "veneva.fi",
+    "emails": [
+      "yhteydenotto@esimerkki.fi",
+      "veneva@luukku.com"
+    ],
+    "phone": "050-5251459",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:52.952Z",
+    "pagesChecked": [
+      "https://veneva.fi",
+      "https://veneva.fi/yhteystiedot",
+      "https://veneva.fi/yhteystiedot/",
+      "https://veneva.fi/contact",
+      "https://veneva.fi/contact-us",
+      "https://veneva.fi/about",
+      "https://veneva.fi/about-us",
+      "https://veneva.fi/ota-yhteytta",
+      "https://veneva.fi/meille"
+    ]
+  },
+  "tehoplus.fi": {
+    "domain": "tehoplus.fi",
+    "emails": [
+      "info@tehoplus.fi"
+    ],
+    "phone": "0407028200",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:55.136Z",
+    "pagesChecked": [
+      "https://tehoplus.fi",
+      "https://tehoplus.fi/yhteystiedot",
+      "https://tehoplus.fi/yhteystiedot/",
+      "https://tehoplus.fi/contact",
+      "https://tehoplus.fi/contact-us",
+      "https://tehoplus.fi/about",
+      "https://tehoplus.fi/about-us",
+      "https://tehoplus.fi/ota-yhteytta",
+      "https://tehoplus.fi/meille"
+    ]
+  },
+  "akkuteho.fi": {
+    "domain": "akkuteho.fi",
+    "emails": [
+      "info@akkuteho.fi",
+      "ninfo@akkuteho.fi"
+    ],
+    "phone": "+35868312970",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:56.365Z",
+    "pagesChecked": [
+      "https://akkuteho.fi",
+      "https://akkuteho.fi/yhteystiedot",
+      "https://akkuteho.fi/yhteystiedot/",
+      "https://akkuteho.fi/contact",
+      "https://akkuteho.fi/contact-us",
+      "https://akkuteho.fi/about",
+      "https://akkuteho.fi/about-us",
+      "https://akkuteho.fi/ota-yhteytta",
+      "https://akkuteho.fi/meille"
+    ]
+  },
+  "jmlaatuisannointi.fi": {
+    "domain": "jmlaatuisannointi.fi",
+    "emails": [
+      "matti@jmlaatuisannointi.fi",
+      "jyrki@jmlaatuisannointi.fi"
+    ],
+    "phone": "041 312 2559",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:56.471Z",
+    "pagesChecked": [
+      "https://jmlaatuisannointi.fi",
+      "https://jmlaatuisannointi.fi/yhteystiedot",
+      "https://jmlaatuisannointi.fi/yhteystiedot/",
+      "https://jmlaatuisannointi.fi/contact",
+      "https://jmlaatuisannointi.fi/contact-us",
+      "https://jmlaatuisannointi.fi/about",
+      "https://jmlaatuisannointi.fi/about-us",
+      "https://jmlaatuisannointi.fi/ota-yhteytta",
+      "https://jmlaatuisannointi.fi/meille"
+    ]
+  },
+  "wb-sails.fi": {
+    "domain": "wb-sails.fi",
+    "emails": [
+      "info@wb-sails.fi",
+      "mail@example.com"
+    ],
+    "phone": "000369644945",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:56.857Z",
+    "pagesChecked": [
+      "https://wb-sails.fi",
+      "https://wb-sails.fi/yhteystiedot",
+      "https://wb-sails.fi/yhteystiedot/",
+      "https://wb-sails.fi/contact",
+      "https://wb-sails.fi/contact-us",
+      "https://wb-sails.fi/about",
+      "https://wb-sails.fi/about-us",
+      "https://wb-sails.fi/ota-yhteytta",
+      "https://wb-sails.fi/meille"
+    ]
+  },
+  "siivouspalvelutloytty.fi": {
+    "domain": "siivouspalvelutloytty.fi",
+    "emails": [],
+    "phone": "0 0 100 100",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:03:59.280Z",
+    "pagesChecked": [
+      "https://siivouspalvelutloytty.fi",
+      "https://siivouspalvelutloytty.fi/yhteystiedot",
+      "https://siivouspalvelutloytty.fi/yhteystiedot/",
+      "https://siivouspalvelutloytty.fi/contact",
+      "https://siivouspalvelutloytty.fi/contact-us",
+      "https://siivouspalvelutloytty.fi/about",
+      "https://siivouspalvelutloytty.fi/about-us",
+      "https://siivouspalvelutloytty.fi/ota-yhteytta",
+      "https://siivouspalvelutloytty.fi/meille"
+    ],
+    "error": "Could not reach https://siivouspalvelutloytty.fi/yhteystiedot"
+  },
+  "talokompassi.fi": {
+    "domain": "talokompassi.fi",
+    "emails": [
+      "asiakaspalvelu@talokompassi.fi"
+    ],
+    "phone": "01475108",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:04:00.432Z",
+    "pagesChecked": [
+      "https://talokompassi.fi",
+      "https://talokompassi.fi/yhteystiedot",
+      "https://talokompassi.fi/yhteystiedot/",
+      "https://talokompassi.fi/contact",
+      "https://talokompassi.fi/contact-us",
+      "https://talokompassi.fi/about",
+      "https://talokompassi.fi/about-us",
+      "https://talokompassi.fi/ota-yhteytta",
+      "https://talokompassi.fi/meille"
+    ]
+  },
+  "lit.fi": {
+    "domain": "lit.fi",
+    "emails": [],
+    "phone": "0149001-3",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:04:00.811Z",
+    "pagesChecked": [
+      "https://lit.fi",
+      "https://lit.fi/yhteystiedot",
+      "https://lit.fi/yhteystiedot/",
+      "https://lit.fi/contact",
+      "https://lit.fi/contact-us",
+      "https://lit.fi/about",
+      "https://lit.fi/about-us",
+      "https://lit.fi/ota-yhteytta",
+      "https://lit.fi/meille"
+    ],
+    "error": "Could not reach https://lit.fi/contact"
+  },
+  "siivousystavat.fi": {
+    "domain": "siivousystavat.fi",
+    "emails": [],
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T08:04:04.863Z",
+    "pagesChecked": [
+      "https://siivousystavat.fi",
+      "https://siivousystavat.fi/yhteystiedot",
+      "https://siivousystavat.fi/yhteystiedot/",
+      "https://siivousystavat.fi/contact",
+      "https://siivousystavat.fi/contact-us",
+      "https://siivousystavat.fi/about",
+      "https://siivousystavat.fi/about-us",
+      "https://siivousystavat.fi/ota-yhteytta",
+      "https://siivousystavat.fi/meille"
+    ],
+    "error": "Could not reach https://siivousystavat.fi"
+  }
+}
