@@ -1,0 +1,23 @@
+# Quick analysis: JM Laatuisännöinti Oy
+
+**Domain:** jmlaatuisannointi.fi
+**Industry:** 
+**Niche confidence:** 0.0
+
+## Findings
+
+- Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
+- No conversion tracking was found.
+- Meta Pixel is installed on the site.
+- The site has the following quality issues: 3.
+- Detected technical flags: no_meta_description,no_h1,slow_response.
+
+## Recommendations
+
+1. Install Google Ads conversion tracking first.
+2. Fix the site's technical quality issues before increasing ad spend.
+3. Responding quickly to leads improves ad ROI.
+
+Happy to walk through this in 15 minutes, if useful.
+
+Felix Wickholm / Wicflow Oy
