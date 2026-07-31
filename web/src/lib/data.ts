@@ -29,7 +29,9 @@ function getAnalysisDomains(): Set<string> {
     files = [];
   }
   analysisDomainsCache = new Set(
-    files.filter((f) => f.endsWith(".md")).map((f) => f.replace(/\.md$/, ""))
+    files
+      .filter((f) => f.endsWith(".md") && !f.endsWith(".en.md"))
+      .map((f) => f.replace(/\.md$/, ""))
   );
   return analysisDomainsCache;
 }
@@ -95,8 +97,12 @@ export function getCompanyByDomain(domain: string): Company | undefined {
   return getCompanies().find((c) => c.domain === domain);
 }
 
-export function getAnalysisMarkdown(domain: string): string | null {
-  const filePath = path.join(ANALYSES_DIR, `${domain}.md`);
+export function getAnalysisMarkdown(
+  domain: string,
+  lang: "fi" | "en" = "fi"
+): string | null {
+  const suffix = lang === "en" ? ".en.md" : ".md";
+  const filePath = path.join(ANALYSES_DIR, `${domain}${suffix}`);
   try {
     return fs.readFileSync(filePath, "utf-8");
   } catch {

@@ -20,6 +20,14 @@ NICHE_FI = {
     "maanrakennus-kuljetus": "maanrakennus ja kuljetus",
 }
 
+NICHE_EN = {
+    "isannointi": "property management",
+    "lvi-sahko": "HVAC & electrical",
+    "siivous": "cleaning services",
+    "venekaupat": "boat sales",
+    "maanrakennus-kuljetus": "earthworks & logistics",
+}
+
 
 def yes(v):
     return str(v).strip().lower() in ("true", "1", "yes", "y")
@@ -30,7 +38,6 @@ def build(lead):
     niche = NICHE_FI.get(lead.get("niche", ""), lead.get("niche", ""))
 
     obs = []
-    recs = []
 
     obs.append("Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).")
 
@@ -38,26 +45,19 @@ def build(lead):
         obs.append("Konversioseuranta löytyy sivustolta.")
     else:
         obs.append("Konversioseurantaa ei löytynyt.")
-        recs.append("Asentakaa Google Ads -konversioseuranta ensimmäisenä.")
 
     if yes(lead.get("meta_pixel")):
         obs.append("Meta-pikseli löytyy sivustolta.")
     else:
         obs.append("Meta-pikseliä ei löytynyt.")
-        recs.append("Ottakaa Meta-pikseli käyttöön uudelleenmarkkinointia varten.")
 
     q = (lead.get("quality_issues") or "").strip()
     if q:
         obs.append(f"Sivustolla havaittiin seuraavia laatuongelmia: {q}.")
-        recs.append("Korjatkaa sivuston tekniset laatuongelmat ennen mainosbudjetin kasvattamista.")
 
     flags = (lead.get("issue_flags") or "").strip()
     if flags:
         obs.append(f"Havaitut tekniset liput: {flags}.")
-
-    if not recs:
-        recs.append("Jatkakaa kampanjoiden optimointia datan perusteella.")
-    recs.append("Nopea vastaaminen liideihin parantaa mainonnan tuottoa.")
 
     lines = [
         f"# Pika-analyysi: {company}",
@@ -70,14 +70,46 @@ def build(lead):
         "",
     ]
     lines.extend(f"- {o}" for o in obs)
-    lines.extend(["", "## Suositukset", ""])
-    lines.extend(f"{i}. {r}" for i, r in enumerate(recs, 1))
-    lines.extend([
+    return "\n".join(lines)
+
+
+def build_en(lead):
+    company = lead.get("company") or lead["domain"]
+    niche = NICHE_EN.get(lead.get("niche", ""), lead.get("niche", ""))
+
+    obs = []
+
+    obs.append("Google Ads activity is live (confirmed via Google's public Ads Transparency Center).")
+
+    if yes(lead.get("conv_tracking")):
+        obs.append("Conversion tracking is installed on the site.")
+    else:
+        obs.append("No conversion tracking was found.")
+
+    if yes(lead.get("meta_pixel")):
+        obs.append("Meta Pixel is installed on the site.")
+    else:
+        obs.append("No Meta Pixel was found.")
+
+    q = (lead.get("quality_issues") or "").strip()
+    if q:
+        obs.append(f"The site has the following quality issues: {q}.")
+
+    flags = (lead.get("issue_flags") or "").strip()
+    if flags:
+        obs.append(f"Detected technical flags: {flags}.")
+
+    lines = [
+        f"# Quick analysis: {company}",
         "",
-        "Käydään läpi 15 minuutissa, jos haluatte.",
+        f"**Domain:** {lead['domain']}",
+        f"**Industry:** {niche}",
+        f"**Niche confidence:** {lead.get('niche_confidence','')}",
         "",
-        "Felix Wickholm / Wicflow Oy",
-    ])
+        "## Findings",
+        "",
+    ]
+    lines.extend(f"- {o}" for o in obs)
     return "\n".join(lines)
 
 
@@ -103,6 +135,8 @@ def main():
 
             outfile = outdir / f"{lead['domain']}.md"
             outfile.write_text(build(lead), encoding="utf-8")
+            outfile_en = outdir / f"{lead['domain']}.en.md"
+            outfile_en.write_text(build_en(lead), encoding="utf-8")
             written += 1
 
     print(f"Generated {written} analyses from {total} hotlist rows -> {outdir}")

@@ -17,6 +17,7 @@ import {
 } from "lucide-react";
 import { getCompanies, getCompanyByDomain, getAnalysisMarkdown } from "@/lib/data";
 import { SegmentBadge, ScoreBadge, StatusPill } from "@/components/StatusBadge";
+import AnalysisView from "@/components/AnalysisView";
 import EmailFinder from "@/components/EmailFinder";
 
 export function generateStaticParams() {
@@ -53,8 +54,10 @@ export default async function CompanyPage({
 
   if (!company) notFound();
 
-  const markdown = getAnalysisMarkdown(domain);
-  const html = markdown ? await marked.parse(markdown) : null;
+  const markdownFi = getAnalysisMarkdown(domain, "fi");
+  const markdownEn = getAnalysisMarkdown(domain, "en");
+  const htmlFi = markdownFi ? await marked.parse(markdownFi) : null;
+  const htmlEn = markdownEn ? await marked.parse(markdownEn) : null;
 
   return (
     <div className="mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8">
@@ -129,16 +132,7 @@ export default async function CompanyPage({
             <h2 className="mb-4 flex items-center gap-2 font-semibold">
               <FileText size={16} className="text-brand" /> AI findings &amp; recommendations
             </h2>
-            {html ? (
-              <div
-                className="markdown-body"
-                dangerouslySetInnerHTML={{ __html: html }}
-              />
-            ) : (
-              <p className="text-sm text-muted">
-                No AI analysis has been generated for this company yet.
-              </p>
-            )}
+            <AnalysisView htmlFi={htmlFi} htmlEn={htmlEn} />
           </section>
         </div>
 

@@ -86,7 +86,7 @@ export interface ScrapeResult {
 /**
  * Scrapes the homepage and a handful of common contact-page paths for a
  * domain, looking for mailto: links and plain-text email/phone patterns.
- * Stops early once at least one email has been found.
+ * Checks all candidate pages in parallel.
  */
 export async function scrapeDomainForContacts(
   domainInput: string
@@ -98,9 +98,20 @@ export async function scrapeDomainForContacts(
   let foundPhone: string | undefined;
   let lastError: string | undefined;
 
-  for (const p of CANDIDATE_PATHS) {
-    const url = base + p;
-    const html = await fetchPage(url);
+  // Fetch every candidate path in parallel instead of one-by-one. Sequential
+  // checks (with an 8s timeout each) could add up to over a minute for a
+  // slow site, which blew past Vercel's serverless function time limit and
+  // surfaced as a false "couldn't reach that website" error even when the
+  // site was actually reachable, just slow.
+  const results = await Promise.all(
+    CANDIDATE_PATHS.map(async (p) => {
+      const url = base + p;
+      const html = await fetchPage(url);
+      return { url, html };
+    })
+  );
+
+  for (const { url, html } of results) {
     pagesChecked.push(url);
     if (!html) {
       lastError = lastError ?? `Could not reach ${url}`;
@@ -120,8 +131,6 @@ export async function scrapeDomainForContacts(
         foundPhone = phoneMatches[0].replace(/\s+/g, " ").trim();
       }
     }
-
-    if (foundEmails.length > 0) break; // good enough, stop crawling further pages
   }
 
   const emails = cleanEmails(foundEmails, domain);

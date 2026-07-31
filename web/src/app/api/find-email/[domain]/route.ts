@@ -3,6 +3,10 @@ import { scrapeDomainForContacts } from "@/lib/emailFinder";
 import { getEmailRecord, saveEmailRecord } from "@/lib/emailStore";
 
 export const dynamic = "force-dynamic";
+// Scraping a site can be slow; without this Vercel kills the function after
+// the platform default (10s on Hobby), which is what was causing "couldn't
+// reach that website" even for sites that just respond a bit slowly.
+export const maxDuration = 60;
 
 export async function GET(
   _req: NextRequest,
