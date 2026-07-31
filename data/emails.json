@@ -12,5 +12,18 @@
     "pagesChecked": [
       "https://venekauppa.com"
     ]
+  },
+  "jsinfra.fi": {
+    "domain": "jsinfra.fi",
+    "emails": [
+      "juho.saarela@jsautomoto.fi",
+      "jaakko@lakeudenkoneasema.fi"
+    ],
+    "phone": "0152-0153",
+    "source": "scrape",
+    "scrapedAt": "2026-07-31T07:47:39.564Z",
+    "pagesChecked": [
+      "https://jsinfra.fi"
+    ]
   }
 }
