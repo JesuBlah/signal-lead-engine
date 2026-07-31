@@ -81,6 +81,25 @@ def company_name(r):
     return r.get("quality", {}).get("title", "")[:60]
 
 
+CITY_KEYS = ("city", "kaupunki", "paikkakunta", "kunta", "postitoimipaikka", "toimipaikka")
+PHONE_KEYS = ("phone", "puhelin", "puhelinnumero", "puh", "tel", "gsm", "matkapuhelin")
+YTUNNUS_KEYS = ("y_tunnus", "ytunnus", "business_id", "yritystunnus")
+
+
+def find_field(src, keys):
+    """Case/format-tolerant column lookup, mirroring company_name()'s pattern.
+    Source CSVs rarely use the exact lowercase English key we'd expect."""
+    for k in src:
+        if not k:
+            continue
+        norm = k.strip().lower().replace(" ", "_").replace("-", "_")
+        if norm in keys:
+            v = src[k]
+            if v and str(v).strip():
+                return str(v).strip()
+    return ""
+
+
 def lead_score(r):
     """Higher = hotter. Ads signal + site weakness + size."""
     a, q = r.get("ads", {}), r.get("quality", {})
@@ -136,7 +155,7 @@ def main():
     with open(hl, "w", newline="") as fh:
         w = csv.writer(fh)
         w.writerow(["score", "run", "niche", "niche_source", "niche_confidence", "company", "domain",
-                    "segment", "revenue_eur", "employees",
+                    "segment", "revenue_eur", "employees", "y_tunnus",
                     "google_ads", "conv_tracking", "meta_pixel", "quality_issues",
                     "issue_flags", "platform", "email", "phone", "city"])
         for r in hot:
@@ -148,10 +167,11 @@ def main():
             w.writerow([r["_score"], r["_niche"], r.get("niche", ""), r.get("niche_source", ""),
                         r.get("niche_confidence", ""), company_name(r), r["domain"], r.get("segment", ""),
                         firm.get("revenue_eur", ""), firm.get("employees", ""),
+                        find_field(src, YTUNNUS_KEYS),
                         r["ads"].get("google_ads"), r["ads"].get("google_conv_tracking"),
                         r["ads"].get("meta_pixel"), r.get("quality_issues", ""), flags,
-                        q.get("platform", ""), src.get("email", ""), src.get("phone", ""),
-                        src.get("city", "")])
+                        q.get("platform", ""), src.get("email", ""),
+                        find_field(src, PHONE_KEYS), find_field(src, CITY_KEYS)])
 
     lines = [f"# ads-radar summary — {root.name}", ""]
     for niche, rows in sorted(runs.items()):

@@ -14,6 +14,7 @@ interface ColumnDef {
 const COLUMNS: ColumnDef[] = [
   { key: "company", label: "Company name", get: (c) => c.company },
   { key: "domain", label: "Domain", get: (c) => c.domain },
+  { key: "yTunnus", label: "Y-tunnus", get: (c) => c.yTunnus },
   { key: "city", label: "City", get: (c) => c.city },
   { key: "niche", label: "Niche", get: (c) => c.niche },
   { key: "segment", label: "Segment", get: (c) => c.segment.split("_")[0] || "" },
@@ -36,10 +37,14 @@ const COLUMNS: ColumnDef[] = [
 const DEFAULT_SELECTED = new Set([
   "company",
   "domain",
+  "yTunnus",
   "city",
   "niche",
   "segment",
   "score",
+  "googleAds",
+  "convTracking",
+  "metaPixel",
   "email",
   "phone",
 ]);

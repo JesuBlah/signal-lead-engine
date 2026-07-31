@@ -70,6 +70,7 @@ export function getCompanies(): Company[] {
         segment: row.segment ?? "",
         revenueEur: row.revenue_eur ?? "",
         employees: row.employees ?? "",
+        yTunnus: row.y_tunnus ?? "",
         googleAds: toBool(row.google_ads),
         convTracking: toBool(row.conv_tracking),
         metaPixel: toBool(row.meta_pixel),

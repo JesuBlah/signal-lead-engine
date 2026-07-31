@@ -9,6 +9,7 @@ export interface Company {
   segment: string;
   revenueEur: string;
   employees: string;
+  yTunnus: string;
   googleAds: boolean;
   convTracking: boolean;
   metaPixel: boolean;
