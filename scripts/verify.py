@@ -1,40 +1,52 @@
 #!/usr/bin/env python3
 """ads-radar verify: confirm domains as ACTIVE Google advertisers via the public
-Ads Transparency Center RPC (free, no key). Tag detection says "has the plumbing";
-this says "actually ran Google Ads within ~12 months" — the only honest basis for
-"you're running ads" outreach copy.
-
-Endpoint (reverse-engineered, may rot — canary: github.com/block-town/google-ads-transparency-mcp):
-  POST https://adstransparency.google.com/anji/_/rpc/SearchService/SearchCreatives?authuser=
-  form: f.req={"2":40,"3":{"12":{"1":"<bare domain>"}}}
-  json()["1"] non-empty => verified advertiser (entries carry advertiser id "1", name "12" or "14").
+Ads Transparency Center RPC (free, no key).
 
 Usage:
   verify.py --domains tupatarkastus.fi,wicflow.com
-  verify.py --hotlist <results-root>/HOTLIST.csv        # verifies every unique domain, rewrites
-                                                        # the hotlist with verified/advertiser cols
+  verify.py --hotlist HOTLIST.csv
 
-Column handling: HOTLIST-verified.csv is built from every column already in
-HOTLIST.csv (whatever those are, including niche/niche_source/niche_confidence
-from scan.py's auto-detection) plus three appended columns: google_verified_live,
-google_advertiser_name, ads_status. No niche logic lives here by design.
-Cache: <dir-of-input>/verified.jsonl (resume-safe). Throttle: 1 req/s.
+Cache: verified.jsonl (resume-safe). Throttle: 1 req/s.
 """
 
 import argparse
 import csv
+import difflib
 import json
+import re
 import ssl
 import time
 import urllib.parse
 import urllib.request
+from collections import Counter
 from http.cookiejar import CookieJar
 from pathlib import Path
+
+LEGAL_SUFFIXES = ("oyj", "oy", "ab", "ky", "ry", "tmi", "osk", "oy ab")
+
+FI_CHAR_MAP = str.maketrans({"a": "a", "a": "a", "o": "o"})
+
+
+def normalize_name(name):
+    if not name:
+        return ""
+    n = name.lower()
+    n = re.sub(r"[^a-z0-9\s]", " ", n)
+    words = n.split()
+    words = [w for w in words if w not in LEGAL_SUFFIXES]
+    return " ".join(sorted(words))
+
+
+def name_similarity(a, b):
+    na, nb = normalize_name(a), normalize_name(b)
+    if not na or not nb:
+        return 0.0
+    return difflib.SequenceMatcher(None, na, nb).ratio()
 
 try:
     import certifi
     CTX = ssl.create_default_context(cafile=certifi.where())
-except ImportError:  # macOS system python without certs; public read-only endpoint
+except ImportError:
     CTX = ssl.create_default_context()
     CTX.check_hostname = False
     CTX.verify_mode = ssl.CERT_NONE
@@ -60,7 +72,7 @@ def opener():
             urllib.request.HTTPCookieProcessor(cj))
         req = urllib.request.Request("https://adstransparency.google.com/?region=FI", headers=HEADERS)
         try:
-            _opener.open(req, timeout=15).read(50_000)
+            _opener.open(req, timeout=15).read(50000)
         except Exception:
             pass
     return _opener
@@ -68,8 +80,6 @@ def opener():
 
 def check_domain(domain, _retries=3):
     global _opener
-    # payload shape from block-town/google-ads-transparency-mcp (the maintained fix):
-    # domain must appear in BOTH "1" and "3.12.1"; "7":{"1":1} is required.
     payload = json.dumps({"1": domain, "2": 1, "3": {"12": {"1": domain}}, "7": {"1": 1}})
     body = urllib.parse.urlencode({"f.req": payload}).encode()
     req = urllib.request.Request(RPC, data=body, headers={
@@ -78,18 +88,18 @@ def check_domain(domain, _retries=3):
         raw = opener().open(req, timeout=20).read().decode("utf-8", errors="replace")
     except urllib.error.HTTPError as e:
         if e.code == 429 and _retries > 0:
-            time.sleep(45)          # Google throttles bursts; cool off, fresh session
+            time.sleep(45)
             _opener = None
             return check_domain(domain, _retries - 1)
-        return {"domain": domain, "verified": None, "error": f"HTTPError: {e}"}
+        return {"domain": domain, "verified": None, "error": "HTTPError: " + str(e)}
     except Exception as e:
-        return {"domain": domain, "verified": None, "error": f"{type(e).__name__}: {e}"}
+        return {"domain": domain, "verified": None, "error": type(e).__name__ + ": " + str(e)}
     if raw.startswith(")]}'"):
         raw = raw.split("\n", 1)[1] if "\n" in raw else raw[4:]
     try:
         data = json.loads(raw)
     except json.JSONDecodeError:
-        return {"domain": domain, "verified": None, "error": f"unparseable ({raw[:80]!r})"}
+        return {"domain": domain, "verified": None, "error": "unparseable"}
     creatives = data.get("1") or []
     advertisers = {}
     for c in creatives:
@@ -130,7 +140,7 @@ def main():
 
     rows = list(csv.DictReader(open(hl_path)))
     domains = [d for d in dict.fromkeys(r["domain"] for r in rows) if d not in cache]
-    print(f"verifying {len(domains)} domains ({len(cache)} cached) ~{int(len(domains)*args.sleep/60)+1} min")
+    print("verifying " + str(len(domains)) + " domains (" + str(len(cache)) + " cached)")
     with open(cache_path, "a") as fh:
         for i, d in enumerate(domains, 1):
             res = check_domain(d)
@@ -139,13 +149,26 @@ def main():
             fh.flush()
             if i % 20 == 0:
                 ok = sum(1 for r in cache.values() if r.get("verified"))
-                print(f"  {i}/{len(domains)} (live so far: {ok})", flush=True)
+                print("  " + str(i) + "/" + str(len(domains)) + " (live so far: " + str(ok) + ")")
             time.sleep(args.sleep)
 
     out_path = hl_path.parent / "HOTLIST-verified.csv"
+
+    advertiser_name_counts = Counter()
+    for r in rows:
+        v = cache.get(r["domain"], {})
+        name = next(iter((v.get("advertisers") or {}).values()), "")
+        if name:
+            advertiser_name_counts[normalize_name(name)] += 1
+    AGENCY_THRESHOLD = 3
+    MATCH_THRESHOLD = 0.72
+
     with open(out_path, "w", newline="") as fh:
         w = csv.writer(fh)
-        fields = list(rows[0].keys()) + ["google_verified_live", "google_advertiser_name", "ads_status"]
+        fields = list(rows[0].keys()) + [
+            "google_verified_live", "google_advertiser_name", "ads_status",
+            "advertiser_reconciliation", "advertiser_match_score",
+        ]
         w.writerow(fields)
         for r in rows:
             v = cache.get(r["domain"], {})
@@ -160,9 +183,31 @@ def main():
                 status = "META_ONLY" if r.get("meta_pixel") == "True" else "NEGATIVE"
             else:
                 status = "VERIFY_ERROR"
-            w.writerow(list(r.values()) + [live, name, status])
+
+            reconciliation, score = "n/a", ""
+            if live and name:
+                score_val = name_similarity(r.get("company", ""), name)
+                score = "{:.2f}".format(score_val)
+                is_agency_pattern = advertiser_name_counts[normalize_name(name)] >= AGENCY_THRESHOLD
+                if score_val >= MATCH_THRESHOLD:
+                    reconciliation = "match"
+                elif is_agency_pattern:
+                    reconciliation = "likely_agency"
+                else:
+                    reconciliation = "mismatch"
+                    status = "ADVERTISER_MISMATCH"
+
+            w.writerow(list(r.values()) + [live, name, status, reconciliation, score])
+
     live_n = sum(1 for r in rows if cache.get(r["domain"], {}).get("verified"))
-    print(f"done: {live_n}/{len(rows)} rows LIVE_CONFIRMED -> {out_path}")
+    mismatch_n = 0
+    with open(out_path) as fh:
+        for row in csv.DictReader(fh):
+            if row.get("advertiser_reconciliation") == "mismatch":
+                mismatch_n += 1
+    print("done: " + str(live_n) + "/" + str(len(rows)) + " rows LIVE (raw), " + str(mismatch_n) + " flagged ADVERTISER_MISMATCH -> " + str(out_path))
+    if mismatch_n:
+        print("  -> " + str(mismatch_n) + " rows found a live advertiser but the name does not match the company or a known agency pattern. Excluded from LIVE_CONFIRMED.")
 
 
 if __name__ == "__main__":

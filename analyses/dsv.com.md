@@ -8,6 +8,6 @@
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
 - Konversioseuranta löytyy sivustolta.
-- Meta-pikseli löytyy sivustolta.
+- Meta-pikseliä ei löytynyt.
 - Sivustolla havaittiin seuraavia laatuongelmia: 2.
 - Havaitut tekniset liput: no_meta_description,slow_response.

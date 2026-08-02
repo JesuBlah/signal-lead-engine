@@ -7,7 +7,7 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseuranta löytyy sivustolta.
+- Konversioseurantaa ei löytynyt.
 - Meta-pikseli löytyy sivustolta.
 - Sivustolla havaittiin seuraavia laatuongelmia: 2.
 - Havaitut tekniset liput: no_h1,slow_response.

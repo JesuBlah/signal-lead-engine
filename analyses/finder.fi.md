@@ -7,6 +7,6 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseuranta löytyy sivustolta.
-- Meta-pikseli löytyy sivustolta.
+- Konversioseurantaa ei löytynyt.
+- Meta-pikseliä ei löytynyt.
 - Sivustolla havaittiin seuraavia laatuongelmia: 0.
