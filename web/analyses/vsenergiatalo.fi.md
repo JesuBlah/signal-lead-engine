@@ -1,4 +1,4 @@
-# Pika-analyysi: V-S Energiatalo Oy
+# Pika-analyysi: V-S Energiatalo Oy - Ilmanvaihdon ammattilainen Turun alueel
 
 **Verkkotunnus:** vsenergiatalo.fi
 **Toimiala:** hvac
@@ -7,7 +7,7 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseliä ei löytynyt.
 - Sivustolla havaittiin seuraavia laatuongelmia: 1.
 - Havaitut tekniset liput: slow_response.

@@ -1,4 +1,4 @@
-# Quick analysis: Maijasto Oy
+# Quick analysis: Maijasto
 
 **Domain:** maijasto.fi
 **Industry:** 

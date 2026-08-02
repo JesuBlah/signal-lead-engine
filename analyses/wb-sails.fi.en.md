@@ -1,4 +1,4 @@
-# Quick analysis: WB-Sails Oy
+# Quick analysis: Laatu alkaa suunnittelusta │ WB-Sails
 
 **Domain:** wb-sails.fi
 **Industry:** 

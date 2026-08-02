@@ -1,4 +1,4 @@
-# Quick analysis: Smart Heating Oy Pirkanmaa
+# Quick analysis: Kerrostalon lämmitys, lämmön talteenotto (PILP) ja maalämpö
 
 **Domain:** smartheating.fi
 **Industry:** hvac
@@ -7,7 +7,7 @@
 ## Findings
 
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
-- No conversion tracking was found.
+- Conversion tracking is installed on the site.
 - No Meta Pixel was found.
 - The site has the following quality issues: 2.
 - Detected technical flags: stale_copyright,slow_response.

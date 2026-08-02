@@ -1,4 +1,4 @@
-# Pika-analyysi: ServiceOne
+# Pika-analyysi: Siivous Oulu: Palvelu yrityksille ja kotitalouksille
 
 **Verkkotunnus:** serviceone.fi
 **Toimiala:** cleaning
@@ -7,6 +7,6 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseli löytyy sivustolta.
 - Sivustolla havaittiin seuraavia laatuongelmia: 0.

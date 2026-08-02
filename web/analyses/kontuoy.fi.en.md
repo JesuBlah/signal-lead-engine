@@ -1,4 +1,4 @@
-# Quick analysis: Kontu Isännöinti Oy
+# Quick analysis: Luotettavat isännöintipalvelut | Siellä hyvä koti, missä suj
 
 **Domain:** kontuoy.fi
 **Industry:** 
@@ -8,6 +8,6 @@
 
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
 - Conversion tracking is installed on the site.
-- No Meta Pixel was found.
+- Meta Pixel is installed on the site.
 - The site has the following quality issues: 2.
 - Detected technical flags: stale_copyright,slow_response.

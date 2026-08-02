@@ -1,4 +1,4 @@
-# Pika-analyysi: Kotiapusi Oy
+# Pika-analyysi: Siivous- ja kotiapupalvelut | Kotiapusi Oy
 
 **Verkkotunnus:** kotiapusi.fi
 **Toimiala:** cleaning

@@ -1,4 +1,4 @@
-# Pika-analyysi: Suomen Alitustekniikka Oy
+# Pika-analyysi: Suomen Alitustekniikka Oy &#8211; Kaivamattoman tekniikan am
 
 **Verkkotunnus:** alitustekniikka.fi
 **Toimiala:** 
@@ -7,7 +7,7 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseliä ei löytynyt.
 - Sivustolla havaittiin seuraavia laatuongelmia: 1.
 - Havaitut tekniset liput: slow_response.

@@ -1,4 +1,4 @@
-# Quick analysis: Tuoretie Oy
+# Quick analysis: Tie tuottajilta ruokapöytiin - Tuoretie
 
 **Domain:** tuoretie.fi
 **Industry:** 

@@ -1,4 +1,4 @@
-# Quick analysis: Piirosto Oy
+# Quick analysis: Etusivu
 
 **Domain:** piirosto.fi
 **Industry:** plumbing
@@ -7,6 +7,6 @@
 ## Findings
 
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
-- No conversion tracking was found.
+- Conversion tracking is installed on the site.
 - No Meta Pixel was found.
 - The site has the following quality issues: 0.

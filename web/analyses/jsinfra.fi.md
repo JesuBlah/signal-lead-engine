@@ -1,4 +1,4 @@
-# Pika-analyysi: JS-Infra
+# Pika-analyysi: Maarakennus Pohjois-Pohjamaa | Luotettavat tekijät
 
 **Verkkotunnus:** jsinfra.fi
 **Toimiala:** 

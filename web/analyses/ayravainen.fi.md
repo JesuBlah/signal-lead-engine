@@ -1,4 +1,4 @@
-# Pika-analyysi: Äyräväinen Oy
+# Pika-analyysi: Talotekninen suunnittelu - Insinööritoimisto Äyräväinen
 
 **Verkkotunnus:** ayravainen.fi
 **Toimiala:** hotel

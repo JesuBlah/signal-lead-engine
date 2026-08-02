@@ -1,4 +1,4 @@
-# Pika-analyysi: Siivouspalvelu teho+
+# Pika-analyysi: Siivouspalvelu Teho+ - Siivouspalvelu Turku
 
 **Verkkotunnus:** tehoplus.fi
 **Toimiala:** cleaning

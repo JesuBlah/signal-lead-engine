@@ -1,4 +1,4 @@
-# Quick analysis: Pirkanmaan Duo siivouspalvelut Oy
+# Quick analysis: Duo Siivouspalvelut – Luotettavat ja paikalliset siivouspalv
 
 **Domain:** duosiivouspalvelut.fi
 **Industry:** cleaning

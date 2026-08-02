@@ -1,4 +1,4 @@
-# Quick analysis: ADA Housing Oy
+# Quick analysis: ADA Isännöinti - Etusivu
 
 **Domain:** adaisannointi.fi
 **Industry:** restaurant

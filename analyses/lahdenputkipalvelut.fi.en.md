@@ -1,4 +1,4 @@
-# Quick analysis: Lahden Putkipalvelut Oy
+# Quick analysis: Putkityöt Lahti | Kokenut LVI-asiantuntijasi Päijät-Hämeessä
 
 **Domain:** lahdenputkipalvelut.fi
 **Industry:** plumbing

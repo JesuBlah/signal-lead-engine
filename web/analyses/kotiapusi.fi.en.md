@@ -1,4 +1,4 @@
-# Quick analysis: Kotiapusi Oy
+# Quick analysis: Siivous- ja kotiapupalvelut | Kotiapusi Oy
 
 **Domain:** kotiapusi.fi
 **Industry:** cleaning

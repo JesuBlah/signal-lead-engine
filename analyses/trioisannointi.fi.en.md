@@ -1,4 +1,4 @@
-# Quick analysis: Trio Isännöinti Oy
+# Quick analysis: Selkeää ja tavoitettavaa isännöintiä - Trio Isännöinti
 
 **Domain:** trioisannointi.fi
 **Industry:** accounting

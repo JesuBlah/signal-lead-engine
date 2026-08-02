@@ -1,4 +1,4 @@
-# Quick analysis: Lännen Isännöintipalvelu Oy
+# Quick analysis: Lännen Isännöintipalvelu - laadukasta ja luotettavaa isännöi
 
 **Domain:** lipalvelu.fi
 **Industry:** 

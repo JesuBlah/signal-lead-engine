@@ -1,4 +1,4 @@
-# Quick analysis: Koneurakointi Hartikka Oy
+# Quick analysis: Maanrakennus Oulu | Myös vaihtolavojen vuokraus
 
 **Domain:** koneurakointihartikka.fi
 **Industry:** 

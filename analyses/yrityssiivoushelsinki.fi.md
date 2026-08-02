@@ -1,4 +1,4 @@
-# Pika-analyysi: Siivouspalvelu Kari Toivonen
+# Pika-analyysi: Yrityssiivous Helsinki, Espoo, Vantaa - toimistosiivous - Si
 
 **Verkkotunnus:** yrityssiivoushelsinki.fi
 **Toimiala:** cleaning

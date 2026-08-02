@@ -1,4 +1,4 @@
-# Quick analysis: DSV Air & Sea Oy
+# Quick analysis: Global Transport and Logistics | DSV
 
 **Domain:** dsv.com
 **Industry:** 
@@ -8,6 +8,6 @@
 
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
 - Conversion tracking is installed on the site.
-- No Meta Pixel was found.
-- The site has the following quality issues: 2.
-- Detected technical flags: no_meta_description,slow_response.
+- Meta Pixel is installed on the site.
+- The site has the following quality issues: 1.
+- Detected technical flags: no_meta_description.

@@ -1,4 +1,4 @@
-# Quick analysis: Freesikoti Oy
+# Quick analysis: Kotisiivous Turku &amp; Tampere - Freesikoti Oy
 
 **Domain:** freesikoti.fi
 **Industry:** cleaning

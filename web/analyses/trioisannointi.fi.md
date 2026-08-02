@@ -1,4 +1,4 @@
-# Pika-analyysi: Trio Isännöinti Oy
+# Pika-analyysi: Selkeää ja tavoitettavaa isännöintiä - Trio Isännöinti
 
 **Verkkotunnus:** trioisannointi.fi
 **Toimiala:** accounting

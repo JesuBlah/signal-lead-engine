@@ -1,4 +1,4 @@
-# Pika-analyysi: Isännöintikeskus Tammen Oy
+# Pika-analyysi: Isännöinti Lahti | Vastuullinen isännöitsijä | Tammentalot
 
 **Verkkotunnus:** tammentalot.fi
 **Toimiala:** accounting

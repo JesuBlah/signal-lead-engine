@@ -1,4 +1,4 @@
-# Pika-analyysi: EK-Asennustekniikka
+# Pika-analyysi: LVIS-työt Kemi | Sähkö-, putki- ja ilmastointityöt
 
 **Verkkotunnus:** ek-asennustekniikka.fi
 **Toimiala:** plumbing

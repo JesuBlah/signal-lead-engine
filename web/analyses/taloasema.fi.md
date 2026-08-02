@@ -1,4 +1,4 @@
-# Pika-analyysi: Isännöinti Kärkkäinen Oy
+# Pika-analyysi: Taloasema - Isännöintiä, jonka tunnet.
 
 **Verkkotunnus:** taloasema.fi
 **Toimiala:** accounting
@@ -8,5 +8,5 @@
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
 - Konversioseuranta löytyy sivustolta.
-- Meta-pikseliä ei löytynyt.
+- Meta-pikseli löytyy sivustolta.
 - Sivustolla havaittiin seuraavia laatuongelmia: 0.

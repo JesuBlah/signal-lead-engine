@@ -1,4 +1,4 @@
-# Pika-analyysi: Lahden Isännöitsijätoimisto Oy
+# Pika-analyysi: Lahden Isännöitsijätoimisto Oy - Asumisen asialla – Lahti
 
 **Verkkotunnus:** lit.fi
 **Toimiala:** 

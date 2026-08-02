@@ -1,4 +1,4 @@
-# Quick analysis: Rakas koti Oy
+# Quick analysis: Siivouspalvelut Helsinki, Espoo &amp; Vantaa - Rakas Koti
 
 **Domain:** rakaskoti.fi
 **Industry:** cleaning

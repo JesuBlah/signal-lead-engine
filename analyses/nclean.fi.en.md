@@ -1,4 +1,4 @@
-# Quick analysis: N-Clean Tampere
+# Quick analysis: Siivouspalvelut yrityksille | N-Clean Oy
 
 **Domain:** nclean.fi
 **Industry:** hotel

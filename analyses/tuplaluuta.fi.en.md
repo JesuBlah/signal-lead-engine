@@ -1,4 +1,4 @@
-# Quick analysis: Siivouspalvelu Tupla-Luuta Oy
+# Quick analysis: Yritys- ja taloyhtiösiivouksiin erikoistunut Tupla-Luuta Oy
 
 **Domain:** tuplaluuta.fi
 **Industry:** cleaning

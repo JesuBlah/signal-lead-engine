@@ -1,4 +1,4 @@
-# Quick analysis: Yrjö Latva-Luopa Oy
+# Quick analysis: Kuljetusliike Kurikka | Maa-aineskuljetukset luotettavasti
 
 **Domain:** latvaluopa.fi
 **Industry:** 

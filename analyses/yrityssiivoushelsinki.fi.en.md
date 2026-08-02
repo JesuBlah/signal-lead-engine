@@ -1,4 +1,4 @@
-# Quick analysis: Siivouspalvelu Kari Toivonen
+# Quick analysis: Yrityssiivous Helsinki, Espoo, Vantaa - toimistosiivous - Si
 
 **Domain:** yrityssiivoushelsinki.fi
 **Industry:** cleaning

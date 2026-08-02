@@ -1,4 +1,4 @@
-# Quick analysis: Helpmax Siivouspalvelut
+# Quick analysis: Kotisiivous ja siivouspalvelut Oulu | Helpmax
 
 **Domain:** helpmax.fi
 **Industry:** cleaning

@@ -1,4 +1,4 @@
-# Quick analysis: TilaaSiivous
+# Quick analysis: Tilaasiivous.com &#8211; Tilaasiivous.com
 
 **Domain:** tilaasiivous.com
 **Industry:** cleaning
@@ -7,7 +7,7 @@
 ## Findings
 
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
-- No conversion tracking was found.
+- Conversion tracking is installed on the site.
 - No Meta Pixel was found.
 - The site has the following quality issues: 1.
 - Detected technical flags: no_h1.

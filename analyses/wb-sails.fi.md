@@ -1,4 +1,4 @@
-# Pika-analyysi: WB-Sails Oy
+# Pika-analyysi: Laatu alkaa suunnittelusta │ WB-Sails
 
 **Verkkotunnus:** wb-sails.fi
 **Toimiala:** 

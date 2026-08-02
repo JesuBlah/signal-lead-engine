@@ -1,4 +1,4 @@
-# Pika-analyysi: Siivoova Oy - Siivouspalvelut Kuopiossa
+# Pika-analyysi: Siivoova Oy - Siivouspalvelut Kuopiossa ja Oulussa
 
 **Verkkotunnus:** siivoova.fi
 **Toimiala:** cleaning

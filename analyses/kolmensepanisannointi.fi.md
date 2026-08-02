@@ -1,4 +1,4 @@
-# Pika-analyysi: Kolmen Sepän Isännöinti Oy
+# Pika-analyysi: Etusivu - Kolmen Sepän Isännöinti
 
 **Verkkotunnus:** kolmensepanisannointi.fi
 **Toimiala:** 

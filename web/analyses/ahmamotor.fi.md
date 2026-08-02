@@ -1,4 +1,4 @@
-# Pika-analyysi: Ahmamotor Oy
+# Pika-analyysi: Venehuolto Mikkeli | Myös palvelut veneen säilytykseen
 
 **Verkkotunnus:** ahmamotor.fi
 **Toimiala:** 

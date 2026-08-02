@@ -1,4 +1,4 @@
-# Quick analysis: SKH-Isännöinti Oy
+# Quick analysis: Etusivu - SKH Isännöinti Oy
 
 **Domain:** skh.fi
 **Industry:** 

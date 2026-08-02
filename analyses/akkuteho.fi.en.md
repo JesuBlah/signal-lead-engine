@@ -1,4 +1,4 @@
-# Quick analysis: Akku-Teho Marine Oy
+# Quick analysis: Akku-Teho Marine Oy - Kaikkea veneilyyn
 
 **Domain:** akkuteho.fi
 **Industry:** 

@@ -1,4 +1,4 @@
-# Quick analysis: Isännöitsijätoimisto Fallenius Oy
+# Quick analysis: Isännöinti Helsinki | Is&auml;nn&ouml;itsij&auml;toimisto Fa
 
 **Domain:** fallenius.fi
 **Industry:** restaurant

@@ -1,4 +1,4 @@
-# Pika-analyysi: Etalo Isännöinti Oy
+# Pika-analyysi: eTalo Isännöinti
 
 **Verkkotunnus:** etalo.fi
 **Toimiala:** 
@@ -7,6 +7,6 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseli löytyy sivustolta.
 - Sivustolla havaittiin seuraavia laatuongelmia: 0.

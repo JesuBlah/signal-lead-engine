@@ -1,4 +1,4 @@
-# Pika-analyysi: Lahden Putkihuolto Oy
+# Pika-analyysi: Henkilökunta valmiina palvelukseen | Lahden Putkihuolto Oy
 
 **Verkkotunnus:** lph.fi
 **Toimiala:** plumbing

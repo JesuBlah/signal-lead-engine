@@ -1,4 +1,4 @@
-# Quick analysis: Telilän Sähkötyö Oy
+# Quick analysis: Telilä - Kumppani teollisuuden ja tulevaisuuden sähköurakoin
 
 **Domain:** telila.fi
 **Industry:** electrical

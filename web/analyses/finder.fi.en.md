@@ -1,4 +1,4 @@
-# Quick analysis: Oulun Porrassiivous
+# Quick analysis: Yrityshaku ja päättäjähaku: Kaikki yritystiedot | Finder
 
 **Domain:** finder.fi
 **Industry:** 
@@ -7,6 +7,6 @@
 ## Findings
 
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
-- No conversion tracking was found.
-- No Meta Pixel was found.
+- Conversion tracking is installed on the site.
+- Meta Pixel is installed on the site.
 - The site has the following quality issues: 0.

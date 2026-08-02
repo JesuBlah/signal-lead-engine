@@ -1,4 +1,4 @@
-# Quick analysis: Vääksyn Konepiste Oy
+# Quick analysis: Vääksyn Konepiste – Lahti Vääksy | Veneet, perämoottorit, ve
 
 **Domain:** venekauppa.com
 **Industry:** insurance

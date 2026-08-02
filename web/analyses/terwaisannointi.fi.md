@@ -1,4 +1,4 @@
-# Pika-analyysi: Isännöintipalvelu Terwa Oy
+# Pika-analyysi: Isännöintipalvelu Terwa - Paikallista isännöintiä Oulussa
 
 **Verkkotunnus:** terwaisannointi.fi
 **Toimiala:** 

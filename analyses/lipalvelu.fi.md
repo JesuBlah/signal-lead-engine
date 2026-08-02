@@ -1,4 +1,4 @@
-# Pika-analyysi: Lännen Isännöintipalvelu Oy
+# Pika-analyysi: Lännen Isännöintipalvelu - laadukasta ja luotettavaa isännöi
 
 **Verkkotunnus:** lipalvelu.fi
 **Toimiala:** 

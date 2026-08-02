@@ -1,4 +1,4 @@
-# Quick analysis: Jokilaakson Taloustaitaja Oy
+# Quick analysis: Mutkatonta tilitoimistopalvelua ja isännöintiä - Taloustaita
 
 **Domain:** taloustaitaja.fi
 **Industry:** accounting
@@ -7,7 +7,7 @@
 ## Findings
 
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
-- No conversion tracking was found.
-- No Meta Pixel was found.
+- Conversion tracking is installed on the site.
+- Meta Pixel is installed on the site.
 - The site has the following quality issues: 1.
 - Detected technical flags: slow_response.

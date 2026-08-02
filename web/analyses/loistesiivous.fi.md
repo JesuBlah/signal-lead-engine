@@ -1,4 +1,4 @@
-# Pika-analyysi: Loiste Siivous Oy
+# Pika-analyysi: Loiste Siivous – puhtaasti parempi siivous
 
 **Verkkotunnus:** loistesiivous.fi
 **Toimiala:** cleaning
@@ -7,6 +7,6 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
-- Meta-pikseliä ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
+- Meta-pikseli löytyy sivustolta.
 - Sivustolla havaittiin seuraavia laatuongelmia: 0.

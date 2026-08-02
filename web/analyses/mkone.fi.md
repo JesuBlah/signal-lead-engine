@@ -1,4 +1,4 @@
-# Pika-analyysi: M-Kone
+# Pika-analyysi: M-Kone - Perämoottorin varaosat
 
 **Verkkotunnus:** mkone.fi
 **Toimiala:** 

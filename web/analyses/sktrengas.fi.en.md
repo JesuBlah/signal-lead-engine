@@ -1,4 +1,4 @@
-# Quick analysis: SKT-Rengas Oulu
+# Quick analysis: Kokkolasta traktorin renkaat koko Suomeen | SKT-rengas
 
 **Domain:** sktrengas.fi
 **Industry:** 

@@ -1,4 +1,4 @@
-# Pika-analyysi: Isännöinti Asuville Oy
+# Pika-analyysi: Isännöinti Laukaa | Täyden palvelun isännöintitoimisto
 
 **Verkkotunnus:** asuville.fi
 **Toimiala:** 

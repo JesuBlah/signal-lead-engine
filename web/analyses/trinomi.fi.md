@@ -1,4 +1,4 @@
-# Pika-analyysi: Trinomi Siivouspalvelut
+# Pika-analyysi: Etusivu - Trinomi Siivouspalvelut
 
 **Verkkotunnus:** trinomi.fi
 **Toimiala:** cleaning

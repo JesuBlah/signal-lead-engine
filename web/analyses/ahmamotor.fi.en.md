@@ -1,4 +1,4 @@
-# Quick analysis: Ahmamotor Oy
+# Quick analysis: Venehuolto Mikkeli | Myös palvelut veneen säilytykseen
 
 **Domain:** ahmamotor.fi
 **Industry:** 

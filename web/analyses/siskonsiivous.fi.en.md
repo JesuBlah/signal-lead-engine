@@ -1,4 +1,4 @@
-# Quick analysis: Siskon Siivous Oy
+# Quick analysis: Siivouspalvelut yrityksille – Siskon Siivous
 
 **Domain:** siskonsiivous.fi
 **Industry:** cleaning

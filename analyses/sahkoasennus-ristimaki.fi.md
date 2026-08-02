@@ -1,4 +1,4 @@
-# Pika-analyysi: Sähköasennus Ristimäki Oy
+# Pika-analyysi: Sähköurakointi Turku | Sähköasennus Ristimäki Oy
 
 **Verkkotunnus:** sahkoasennus-ristimaki.fi
 **Toimiala:** electrical

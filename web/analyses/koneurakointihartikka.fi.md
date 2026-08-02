@@ -1,4 +1,4 @@
-# Pika-analyysi: Koneurakointi Hartikka Oy
+# Pika-analyysi: Maanrakennus Oulu | Myös vaihtolavojen vuokraus
 
 **Verkkotunnus:** koneurakointihartikka.fi
 **Toimiala:** 

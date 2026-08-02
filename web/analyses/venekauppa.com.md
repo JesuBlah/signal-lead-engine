@@ -1,4 +1,4 @@
-# Pika-analyysi: Vääksyn Konepiste Oy
+# Pika-analyysi: Vääksyn Konepiste – Lahti Vääksy | Veneet, perämoottorit, ve
 
 **Verkkotunnus:** venekauppa.com
 **Toimiala:** insurance

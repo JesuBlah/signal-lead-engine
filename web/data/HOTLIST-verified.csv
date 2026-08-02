@@ -1,101 +1,164 @@
 score,run,niche,niche_source,niche_confidence,company,domain,segment,revenue_eur,employees,y_tunnus,google_ads,conv_tracking,meta_pixel,quality_issues,issue_flags,platform,email,phone,city,google_verified_live,google_advertiser_name,ads_status,advertiser_reconciliation,advertiser_match_score
-61,resultsd,cleaning,keywords,0.5,Omenasiivous,omenasiivous.fi,A_ads_weak_site,,,,True,False,True,2,"no_h1,slow_response",wordpress,,,,True,Omenasiivous Oy,LIVE_CONFIRMED,match,1.00
-61,resultsd,electrical,keywords,0.5,Meredin,meredin.fi,A_ads_weak_site,,,,True,False,True,2,"no_h1,slow_response",,,,,True,Marina Pargas Ab,ADVERTISER_MISMATCH,mismatch,0.40
-55,resultsd,,none,0.0,Oy Maritim Ab,maritim.fi,B_ads_no_conv_tracking,,,,True,False,True,1,slow_response,wordpress,,,,True,Oy Maritim Ab,LIVE_CONFIRMED,match,1.00
-49,resultsd,restaurant,keywords,0.5,Let's Go Taksi,letsgo.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,wordpress,,,,True,DRide Oy,ADVERTISER_MISMATCH,mismatch,0.11
-49,resultsd,electrical,keywords,0.5,AM-Sähkö Oy,amsahko.net,A_ads_weak_site,,,,True,False,False,2,"no_meta_description,no_h1",wordpress,,,,True,"ADVERT.IO, S.A",ADVERTISER_MISMATCH,mismatch,0.40
-49,resultsd,hvac,keywords,0.65,Smart Heating Oy Pirkanmaa,smartheating.fi,A_ads_weak_site,,,,True,False,False,2,"stale_copyright,slow_response",wordpress,,,,True,Smart Heating Oy,LIVE_CONFIRMED,match,0.72
-49,resultsd,,none,0.0,Etalo Isännöinti Oy,etalo.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,wordpress,,,,True,eTalo Isännöinti Oy,LIVE_CONFIRMED,match,1.00
-49,resultsd,cleaning,keywords,0.5,ServiceOne,serviceone.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,wordpress,,,,True,A&A Palvelut Oy,ADVERTISER_MISMATCH,mismatch,0.09
-49,resultsd,plumbing,keywords,0.5,Suunnos Oy,suunnos.fi,A_ads_weak_site,,,,True,False,False,2,"stale_copyright,slow_response",webflow,,,,True,Medialuotsi OY,LIVE_CONFIRMED,likely_agency,0.11
-49,resultsd,cleaning,keywords,0.5,Pikkuapu,pikkuapu.fi,A_ads_weak_site,,,,True,False,False,2,"stale_copyright,slow_response",,,,,True,Madleena Anne Marina Konttinen,ADVERTISER_MISMATCH,mismatch,0.11
-48,resultsd,plumbing,keywords,0.5,Lahden Putkihuolto Oy,lph.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,Keskisuomalainen Oyj,ADVERTISER_MISMATCH,mismatch,0.24
-48,resultsd,,none,0.0,Kemiönsaaren Venekeskus Oy,venekeskus.com,C_ads_ok_site,,,,True,True,True,1,slow_response,,,,,True,Kemiönsaaren Venekeskus Oy,LIVE_CONFIRMED,match,1.00
-48,resultsd,cleaning,keywords,0.5,Kalmasiivous Vantaa Optimasiivous Oy,optimasiivous.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,Optimasiivous Oy,ADVERTISER_MISMATCH,mismatch,0.57
-48,resultsd,cleaning,keywords,0.5,Freesikoti Oy,freesikoti.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,,,,,True,Freesikoti Oy,LIVE_CONFIRMED,match,1.00
-48,resultsd,cleaning,keywords,0.5,Helpmax Siivouspalvelut,helpmax.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,CURU Oy,ADVERTISER_MISMATCH,mismatch,0.15
-43,resultsd,plumbing,keywords,0.5,Lämpövelho Oy,lampovelho.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,,,,,True,Lämpövelho Oy,LIVE_CONFIRMED,match,1.00
-43,resultsd,accounting,keywords,0.5,REIM Lappeenranta Oy Ltd,reim.fi,B_ads_no_conv_tracking,,,,True,False,False,1,no_meta_description,wordpress,,,,True,REIM Pääkaupunkiseutu Oy,ADVERTISER_MISMATCH,mismatch,0.39
-43,resultsd,accounting,keywords,0.65,Jokilaakson Taloustaitaja Oy,taloustaitaja.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,Tirri Tomi,ADVERTISER_MISMATCH,mismatch,0.29
-43,resultsd,cleaning,keywords,0.5,WASH UP!,washup.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,WashUP Oy,ADVERTISER_MISMATCH,mismatch,0.62
-43,resultsd,electrical,keywords,0.5,LämpöWire Oy,elfin.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,Elfin,ADVERTISER_MISMATCH,mismatch,0.29
-43,resultsd,cleaning,keywords,0.5,Siivouspalvelu Aton-yhtiöt,aton.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,Aton Oy,ADVERTISER_MISMATCH,mismatch,0.27
-43,resultsd,,none,0.0,PKH Siekkinen Oy,pienkonehuoltosiekkinen.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,,,,,True,Pienkonehuolto Siekkinen Oy,ADVERTISER_MISMATCH,mismatch,0.70
-43,resultsd,real_estate,schema_org,0.95,Asuntopehtoori Isännöinti Oy,asuntopehtoori.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,Asuntopehtoori,ADVERTISER_MISMATCH,mismatch,0.72
-43,resultsd,cleaning,keywords,0.5,TilaaSiivous,tilaasiivous.com,B_ads_no_conv_tracking,,,,True,False,False,1,no_h1,wordpress,,,,True,Ardit Azemi,ADVERTISER_MISMATCH,mismatch,0.17
-43,resultsd,plumbing,keywords,0.5,Insinööritoimisto Putkimaailma Oy,putkimaailma.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,Medialuotsi OY,LIVE_CONFIRMED,likely_agency,0.15
-43,resultsd,,none,0.0,Suomen Alitustekniikka Oy,alitustekniikka.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,Fonecta Oy,ADVERTISER_MISMATCH,mismatch,0.07
-43,resultsd,plumbing,keywords,0.5,Vaaratek,vaaratek.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,,,,,True,Vaaratek,LIVE_CONFIRMED,match,1.00
-43,resultsd,hvac,schema_org,0.95,V-S Energiatalo Oy,vsenergiatalo.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,VS-Energiatalo Oy,LIVE_CONFIRMED,match,0.90
-43,resultsd,cleaning,keywords,0.5,Safai Siivouspalvelut,safai.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,nextjs,,,,True,Deepesh Kalura,ADVERTISER_MISMATCH,mismatch,0.29
-43,resultsd,cleaning,keywords,0.5,vapaa-aika.com,vapaa-aika.com,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,,,,,True,Vapaa-ajan tarviketalo AK&Co Oy,ADVERTISER_MISMATCH,mismatch,0.52
-43,resultsd,cleaning,keywords,0.5,TEN-Yhtiö Oy,tenyhtio.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,TEN-yhtiö Oy,LIVE_CONFIRMED,match,1.00
-43,resultsd,cleaning,keywords,0.5,GreenVibe Palvelut Oy,greenvibe.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,GreenVibe Palvelut Oy,LIVE_CONFIRMED,match,1.00
-42,resultsd,,none,0.0,DSV Air & Sea Oy,dsv.com,A_ads_weak_site,,,,True,True,False,2,"no_meta_description,slow_response",,,,,True,DSV ROAD S.R.L,ADVERTISER_MISMATCH,mismatch,0.40
-42,resultsd,cleaning,keywords,0.5,Pirkanmaan Laatuisännöinti Oy,pirkanmaanlaatuisannointi.fi,A_ads_weak_site,,,,True,True,False,2,"stale_copyright,slow_response",wordpress,,,,True,Joni Ilari Brander,ADVERTISER_MISMATCH,mismatch,0.18
-42,resultsd,,none,0.0,Kontu Isännöinti Oy,kontuoy.fi,A_ads_weak_site,,,,True,True,False,2,"stale_copyright,slow_response",wordpress,,,,True,MTR-Isännöinti Oy,LIVE_CONFIRMED,match,0.80
-42,resultsd,plumbing,keywords,0.5,K&T Pipe Oy,ktpipe.fi,A_ads_weak_site,,,,True,True,False,2,"stale_copyright,slow_response",wordpress,,,,True,K&T Pipe Oy,LIVE_CONFIRMED,match,1.00
-42,resultsd,hvac,keywords,0.5,Rakenne Center,rakennecenter.fi,C_ads_ok_site,,,,True,True,True,0,,,,,,True,Riku Latvala,ADVERTISER_MISMATCH,mismatch,0.31
-42,resultsd,,none,0.0,M-Kone,mkone.fi,A_ads_weak_site,,,,True,True,False,2,"no_h1,slow_response",,,,,True,M-Kone,LIVE_CONFIRMED,match,1.00
-42,resultsd,cleaning,keywords,0.5,Siivouspalvelu - Arvojes Oy,arvojes.fi,A_ads_weak_site,,,,True,True,False,2,"stale_copyright,slow_response",wordpress,,,,True,Arvojes Oy,ADVERTISER_MISMATCH,mismatch,0.48
-37,resultsd,hvac,keywords,0.65,Lapin Lvi-Asennus Oy,lapinlviasennus.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,wordpress,,,,True,Lapin LVI-asennu Oy,LIVE_CONFIRMED,match,0.97
-37,resultsd,cleaning,keywords,0.5,Loiste Siivous Oy,loistesiivous.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,wordpress,,,,True,Loiste Siivous Oy,LIVE_CONFIRMED,match,1.00
-37,resultsd,,none,0.0,Oulun Porrassiivous,finder.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,nextjs,,,,True,Dagmar Scale Oy,ADVERTISER_MISMATCH,mismatch,0.06
-37,resultsd,hvac,keywords,0.65,LVI-suunnittelu Center Oy,lvisuunnittelucenter.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,wordpress,,,,True,Sähkömatti Oy,ADVERTISER_MISMATCH,mismatch,0.25
-37,resultsd,plumbing,keywords,0.5,Piirosto Oy,piirosto.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,wordpress,,,,True,Piirosto Oy,LIVE_CONFIRMED,match,1.00
-37,resultsd,,none,0.0,Suomen Pumppaamo-Muovitekniikka Oy,spm-tekniikka.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,,,,,True,Teemu Aleksi Suhonen,ADVERTISER_MISMATCH,mismatch,0.35
-37,resultsd,laundry,keywords,0.5,Maanrakennus Pajunen,maanrakennuspajunen.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,,,,,True,Maanrakennus Pajunen avoin yhtiö,LIVE_CONFIRMED,match,0.78
-37,resultsd,cleaning,keywords,0.5,CLEANii koti- ja siivouspalvelu,cleanii.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,wordpress,,,,True,Medialuotsi OY,LIVE_CONFIRMED,likely_agency,0.24
-37,resultsd,cleaning,keywords,0.5,Puhtosin Oy,puhtosin.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,wordpress,,,,True,Puhtosin Oy,LIVE_CONFIRMED,match,1.00
-37,resultsd,cleaning,keywords,0.5,Tasolaiset Tampere Oy,tasolaiset.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,wordpress,,,,True,Tasolaiset Oy,ADVERTISER_MISMATCH,mismatch,0.71
-37,resultsd,,none,0.0,Veneveistämö VeneVa,veneva.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,,,,,True,Fonecta Oy,ADVERTISER_MISMATCH,mismatch,0.24
-36,resultsd,,none,0.0,Läänin Kuljetus Oy,laaninkuljetus.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Läänin Kuljetus Oy,LIVE_CONFIRMED,match,1.00
-36,resultsd,,none,0.0,Kaukokiito Eura,kaukokiito.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Suomen Kaukokiito Oy,ADVERTISER_MISMATCH,mismatch,0.62
-36,resultsd,accounting,keywords,0.5,Helsingin Seudun Isännöitsijät Oy,hsi.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,,,,,True,ESKO JUHANI PIETIKÄINEN,ADVERTISER_MISMATCH,mismatch,0.42
-36,resultsd,,none,0.0,Fluxio Isännöinti Oy,fluxioisannointi.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Fluxio Isännöinti Oy,LIVE_CONFIRMED,match,1.00
-36,resultsd,,none,0.0,Aamu & Isännöintipiste Oy,isannointipiste.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Ainoa & Co Oy,ADVERTISER_MISMATCH,mismatch,0.29
-36,resultsd,,none,0.0,Raymarine Finland Oy,raymarine.com,C_ads_ok_site,,,,True,True,False,1,slow_response,,,,,True,"Flir Systems, Inc.",ADVERTISER_MISMATCH,mismatch,0.36
-36,resultsd,hvac,keywords,0.65,AE Engineering Oy,heatco.fi,C_ads_ok_site,,,,True,True,False,1,no_h1,wordpress,,,,True,Heatco Finland Oy,ADVERTISER_MISMATCH,mismatch,0.21
-36,resultsd,,none,0.0,Lännen Isännöintipalvelu Oy,lipalvelu.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Lännen Isännöintipalvelu Oy,LIVE_CONFIRMED,match,1.00
-36,resultsd,cleaning,keywords,0.5,Lempi Kodinhoito Oy Tampere,lempi.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,,,,,True,Lempi Kodinhoito Oy,LIVE_CONFIRMED,match,0.80
-36,resultsd,,none,0.0,Pesurivuokraus,pesurivuokraus.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,,,,,True,Wise Rental Services Oy,ADVERTISER_MISMATCH,mismatch,0.24
-36,resultsd,restaurant,keywords,0.5,Isännöitsijätoimisto Fallenius Oy,fallenius.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Fluxio Isännöinti Oy,ADVERTISER_MISMATCH,mismatch,0.43
-36,resultsd,cleaning,keywords,0.5,Koti Puhtaaksi Oy,kotipuhtaaksi.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Sahera Koti Puhtaaksi Oy,LIVE_CONFIRMED,match,0.80
-36,resultsd,cleaning,keywords,0.5,Pohjanmaan Siivous Oy,pohjanmaansiivous.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Pohjanmaan Siivous Oy,LIVE_CONFIRMED,match,1.00
-36,resultsd,cleaning,keywords,0.5,Huoltosiivous Turku Oy,huoltosiivous.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,,,,,True,Huoltosiivous Turku Oy,LIVE_CONFIRMED,match,1.00
-36,resultsd,cleaning,keywords,0.5,Kodinhoitajapäiväksi - Kodin siivouspalvelu,kodinhoitajapaivaksi.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Inkan Kotitalouspalvelut Oy,ADVERTISER_MISMATCH,mismatch,0.58
-36,resultsd,,none,0.0,Boatslice Oy,boatslice.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,,,,,True,Boatslice Oy,LIVE_CONFIRMED,match,1.00
-36,resultsd,plumbing,keywords,0.5,LVI-Sasto Oy,lvi-sasto.com,C_ads_ok_site,,,,True,True,False,1,no_h1,wordpress,,,,True,Lvi-Sasto Oy,LIVE_CONFIRMED,match,1.00
-36,resultsd,cleaning,keywords,0.5,Siivouspalvelu Tupla-Luuta Oy,tuplaluuta.fi,C_ads_ok_site,,,,True,True,False,1,no_h1,wordpress,,,,True,Design Inspis Oy,ADVERTISER_MISMATCH,mismatch,0.26
-36,resultsd,hvac,keywords,0.65,Teljän Energiatekniikka,teljanet.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Teljän energiatekniikka,LIVE_CONFIRMED,match,1.00
-36,resultsd,restaurant,keywords,0.5,Paloturvasuunnittelu Block Oy,paloturvasuunnittelu.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Medialuotsi OY,LIVE_CONFIRMED,likely_agency,0.32
-36,resultsd,cleaning,keywords,0.5,IsoJoo! -palvelut,isojoo.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,,,,,True,Vertigo Nordic Oy,ADVERTISER_MISMATCH,mismatch,0.34
-36,resultsd,cleaning,keywords,0.5,Näsin Siivous Tmi,nasinsiivous.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,advert.io lda,ADVERTISER_MISMATCH,mismatch,0.31
-36,resultsd,cleaning,keywords,0.5,Clean Spot Oy,cleanspot.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Cleanspot Oy,LIVE_CONFIRMED,match,0.95
-36,resultsd,cleaning,keywords,0.5,Siivouspalvelu Kari Toivonen,yrityssiivoushelsinki.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,,,,,True,Kari Toivonen,ADVERTISER_MISMATCH,mismatch,0.63
-36,resultsd,cleaning,keywords,0.5,Siivous Eliitti- Kotisiivous Ullanlinna,siivouseliitti.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Huolto Eliitti Oy,ADVERTISER_MISMATCH,mismatch,0.42
-36,resultsd,cleaning,keywords,0.5,Trinomi Siivouspalvelut,trinomi.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,,,,,True,Siivouspalvelu Trinomi Oy,LIVE_CONFIRMED,match,0.98
-36,resultsd,cleaning,keywords,0.5,Pirkanmaan Duo siivouspalvelut Oy,duosiivouspalvelut.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Iasy Oy,ADVERTISER_MISMATCH,mismatch,0.18
-36,resultsd,hvac,keywords,0.5,Safety At Sea Finland Marnela Oy Ltd,marnela.com,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Safety at Sea Finland Marnela Oy Ltd,LIVE_CONFIRMED,match,1.00
-30,resultsd,plumbing,keywords,0.5,Retta Isännöinti Oy,retta.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Retta Services Oy,ADVERTISER_MISMATCH,mismatch,0.33
-30,resultsd,,none,0.0,Maansiirto Harry Mäkelä Oy,maansiirtomakela.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Maansiirto Harry Mäkelä Oy,LIVE_CONFIRMED,match,1.00
-30,resultsd,real_estate,keywords,0.5,Kiinteistö-Tahkola Rovaniemi Oy,kiinteistotahkola.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Kiinteistö-Tahkola Helsinki Oy,ADVERTISER_MISMATCH,mismatch,0.64
-30,resultsd,accounting,keywords,0.5,OIT Isännöinti Oy,oit.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,OIT Isännöinti Oy,LIVE_CONFIRMED,match,1.00
-30,resultsd,electrical,keywords,0.5,Alti-Systems Oy,alti-systems.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Alti-Systems Oy,LIVE_CONFIRMED,match,1.00
-30,resultsd,,none,0.0,Reilu Isännöinti Oy,reiluisannointi.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Reilu Isännöinti Oy,LIVE_CONFIRMED,match,1.00
-30,resultsd,cleaning,keywords,0.5,Sivina Helsinki,sivina.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Campmedia Oy,ADVERTISER_MISMATCH,mismatch,0.25
-30,resultsd,cleaning,keywords,0.5,Kotirinki Helsinki,kotirinki.fi,C_ads_ok_site,,,,True,True,False,0,,,,,,True,Kotirinki Oy,ADVERTISER_MISMATCH,mismatch,0.67
-30,resultsd,accounting,keywords,0.5,Isännöinti Kärkkäinen Oy,taloasema.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Taloasema Oy,ADVERTISER_MISMATCH,mismatch,0.07
-30,resultsd,cleaning,keywords,0.5,Kotisiivooja,kotisiivooja.com,C_ads_ok_site,,,,True,True,False,0,,,,,,True,Puhdas Unelma Oy,ADVERTISER_MISMATCH,mismatch,0.16
-30,resultsd,cleaning,keywords,0.5,iloClean Oy,iloclean.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,IloClean Oy,LIVE_CONFIRMED,match,1.00
-30,resultsd,cleaning,keywords,0.5,Kotileena Jyväskylä,kotileena.fi,C_ads_ok_site,,,,True,True,False,0,,,,,,True,Kotileena Oy,ADVERTISER_MISMATCH,mismatch,0.67
-30,resultsd,,none,0.0,Insinööritoimisto Vesitaito Oy,vesitaito.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Insinööritoimisto Vesitaito Oy,LIVE_CONFIRMED,match,1.00
-30,resultsd,,none,0.0,Isännöintipalvelu Terwa Oy,terwaisannointi.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Isännöintipalvelu Terwa,LIVE_CONFIRMED,match,1.00
-30,resultsd,,none,0.0,Suomen Putkitaso Oy,suomenputkitaso.fi,C_ads_ok_site,,,,True,True,False,0,,,,,,True,Suomen Putkitaso Oy,LIVE_CONFIRMED,match,1.00
-30,resultsd,cleaning,keywords,0.5,Siivouspalvelu teho+,tehoplus.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Siivouspalvelu Teho+,LIVE_CONFIRMED,match,1.00
-24,resultsd,,none,0.0,Akku-Teho Marine Oy,akkuteho.fi,A_ads_weak_site,,,,False,False,True,2,"no_h1,slow_response",,,,,True,Akku-Teho Marine Oy,LIVE_CONFIRMED,match,1.00
-18,resultsd,hvac,keywords,0.65,Lvi-Asiantuntija Oy,lviasiantuntija.fi,C_ads_ok_site,,,,False,False,True,1,stale_copyright,wordpress,,,,True,LVI-Asiantuntija Oy,LIVE_CONFIRMED,match,1.00
-18,resultsd,,none,0.0,"Alina Kuopio, keskusta",alinahoivatiimi.fi,C_ads_ok_site,,,,False,False,True,1,no_h1,,,,,True,Alina Hoivatiimi Oy,ADVERTISER_MISMATCH,mismatch,0.43
-18,resultsd,cleaning,keywords,0.5,TJ Siivous ja kotiapu,tjsiivous.fi,C_ads_ok_site,,,,False,False,True,1,slow_response,wordpress,,,,True,TJ Remontit Oy,ADVERTISER_MISMATCH,mismatch,0.38
-12,resultsd,cleaning,keywords,0.5,Rakas koti Oy,rakaskoti.fi,C_ads_ok_site,,,,False,False,True,0,,wordpress,,,,True,Rakas koti oy,LIVE_CONFIRMED,match,1.00
-12,resultsd,cleaning,keywords,0.5,Hämeen Laatusiivous Oy,hameenlaatusiivous.fi,C_ads_ok_site,,,,False,False,True,0,,wordpress,,,,True,Hämeen Laatusiivous Oy,LIVE_CONFIRMED,match,1.00
+61,resultsd,restaurant,keywords,0.5,MMK-Kuljetus - MMK-Kuljetus Oy,mmkkuljetus.fi,A_ads_weak_site,,,,True,False,True,2,"no_meta_description,slow_response",wordpress,,,,True,0100100 Solutions Oy,ADVERTISER_MISMATCH,mismatch,0.21
+61,resultsd,cleaning,keywords,0.5,Siivouspalvelu Kota - Kotisiivous &amp; Yrityssiivous - Turk,siivouspalvelukota.fi,A_ads_weak_site,,,,True,False,True,2,"no_h1,slow_response",wordpress,,,,True,Siivouspalvelu Kota Oy,LIVE_CONFIRMED,match,1.00
+61,resultsd,insurance,keywords,0.5,"Vääksyn Konepiste – Lahti Vääksy | Veneet, perämoottorit, ve",venekauppa.com,A_ads_weak_site,,,,True,False,True,2,"stale_copyright,slow_response",,,,,True,Vääksyn Konepiste Oy,LIVE_CONFIRMED,match,1.00
+55,resultsd,,none,0.0,Yksityinen kotihoito ja kotipalvelut | Alina | Kotona paras,alinahoivatiimi.fi,B_ads_no_conv_tracking,,,,True,False,True,1,no_h1,,,,,True,Alina Hoivatiimi Oy,LIVE_CONFIRMED,match,0.90
+55,resultsd,cleaning,keywords,0.5,Siivous Tampere ja Pirkanmaa | Hämeen Laatusiivous Oy,hameenlaatusiivous.fi,B_ads_no_conv_tracking,,,,True,False,True,1,slow_response,wordpress,,,,True,Hämeen Laatusiivous Oy,LIVE_CONFIRMED,match,1.00
+55,resultsd,,none,0.0,Maarakennus Pohjois-Pohjamaa | Luotettavat tekijät,jsinfra.fi,B_ads_no_conv_tracking,,,,True,False,True,1,slow_response,,,,,True,JS-Automoto Oy,ADVERTISER_MISMATCH,mismatch,0.33
+55,resultsd,,none,0.0,Maanrakennus Oulu | Myös vaihtolavojen vuokraus,koneurakointihartikka.fi,B_ads_no_conv_tracking,,,,True,False,True,1,slow_response,,,,,True,Koneurakointi Hartikka avoin yhtiö,ADVERTISER_MISMATCH,mismatch,0.32
+55,resultsd,hvac,keywords,0.65,LVI-Asiantuntija Oy | LVI-Asiantuntijasi Etelä-Pohjanmaalla,lviasiantuntija.fi,B_ads_no_conv_tracking,,,,True,False,True,1,stale_copyright,wordpress,,,,True,LVI-Asiantuntija Oy,LIVE_CONFIRMED,match,1.00
+55,resultsd,cleaning,keywords,0.5,Siivouspalvelut Espoo | Koti- ja yrityssiivousta,mmsiivouspalvelut.fi,B_ads_no_conv_tracking,,,,True,False,True,1,slow_response,,,,,True,Fonecta Oy,LIVE_CONFIRMED,likely_agency,0.20
+55,resultsd,hotel,keywords,0.65,Siivouspalvelut yrityksille | N-Clean Oy,nclean.fi,B_ads_no_conv_tracking,,,,True,False,True,1,stale_copyright,wordpress,,,,True,N-Clean Oy,LIVE_CONFIRMED,match,1.00
+55,resultsd,,none,0.0,Maijasto,maijasto.fi,B_ads_no_conv_tracking,,,,True,False,True,1,slow_response,squarespace,,,,True,Maijasto Oy,LIVE_CONFIRMED,match,1.00
+55,resultsd,,none,0.0,Lattialämmitys tuo lämpöä ja viihtyisyyttä kotiin | Nero Lat,neroll.fi,B_ads_no_conv_tracking,,,,True,False,True,1,slow_response,wordpress,,,,True,Nero Lattialämmitys Oy,LIVE_CONFIRMED,match,0.90
+55,resultsd,accounting,keywords,0.5,Isännöintitoimisto ja isännöitsijä Tampereella taloyhtiöille,rehti-isannointi.fi,B_ads_no_conv_tracking,,,,True,False,True,1,slow_response,,,,,True,Fonecta Oy,LIVE_CONFIRMED,likely_agency,0.09
+55,resultsd,restaurant,keywords,0.5,Laatu ei ole makuasia. | Puustelli,puustelli.fi,B_ads_no_conv_tracking,,,,True,False,True,1,slow_response,,,,,True,Puustelli Group Oy,LIVE_CONFIRMED,match,0.90
+55,resultsd,cleaning,keywords,0.5,Siivoova Oy - Siivouspalvelut Kuopiossa ja Oulussa,siivoova.fi,B_ads_no_conv_tracking,,,,True,False,True,1,slow_response,wordpress,,,,True,Siivoova Oy,LIVE_CONFIRMED,match,1.00
+55,resultsd,electrical,keywords,0.5,Sähköliike Joensuussa - S&auml;hk&ouml;-Saarelainen Oy,sahkosaarelainen.fi,B_ads_no_conv_tracking,,,,True,False,True,1,slow_response,wordpress,,,,True,Sähkö-Saarelainen Oy,LIVE_CONFIRMED,match,1.00
+55,resultsd,cleaning,keywords,0.5,Luotettavaa siivouspalvelua yrityksille ja koteihin | TJ Sii,tjsiivous.fi,B_ads_no_conv_tracking,,,,True,False,True,1,slow_response,wordpress,,,,True,TJ Remontit Oy,ADVERTISER_MISMATCH,mismatch,0.47
+55,resultsd,cleaning,keywords,0.5,Iloinen ja reipas siivouspalvelu Tampereella - Urhopesu,urhopesu.fi,B_ads_no_conv_tracking,,,,True,False,True,1,slow_response,wordpress,,,,True,Urhopesu Oy,LIVE_CONFIRMED,match,1.00
+55,resultsd,cleaning,keywords,0.5,Teemme puhtaamman huomisen – Winclean,winclean.fi,B_ads_no_conv_tracking,,,,True,False,True,1,slow_response,wordpress,,,,True,Winclean Oy,LIVE_CONFIRMED,match,1.00
+54,resultsd,hvac,keywords,0.65,Heatco Finland Oy on insinööritoimisto ja LVI-järjestelmien ,heatco.fi,A_ads_weak_site,,,,True,True,True,2,"no_h1,slow_response",wordpress,,,,True,Heatco Finland Oy,LIVE_CONFIRMED,match,0.90
+54,resultsd,,none,0.0,"Luotettavat isännöintipalvelut | Siellä hyvä koti, missä suj",kontuoy.fi,A_ads_weak_site,,,,True,True,True,2,"stale_copyright,slow_response",wordpress,,,,True,MTR-Isännöinti Oy,ADVERTISER_MISMATCH,mismatch,0.55
+54,resultsd,electrical,keywords,0.5,Meredin,meredin.fi,A_ads_weak_site,,,,True,True,True,2,"no_h1,slow_response",,,,,True,Marina Pargas Ab,ADVERTISER_MISMATCH,mismatch,0.40
+54,resultsd,cleaning,keywords,0.5,Siivouspalvelu kotiin | Jopa 3 tuntia ilmaiseksi | Omenasiiv,omenasiivous.fi,A_ads_weak_site,,,,True,True,True,2,"no_h1,slow_response",wordpress,,,,False,,TAG_STALE_OR_HIDDEN,n/a,
+49,resultsd,,none,0.0,Venehuolto Mikkeli | Myös palvelut veneen säilytykseen,ahmamotor.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,Fonecta Oy,LIVE_CONFIRMED,likely_agency,0.24
+49,resultsd,,none,0.0,Isännöinti Laukaa | Täyden palvelun isännöintitoimisto,asuville.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,Fonecta Oy,LIVE_CONFIRMED,likely_agency,0.25
+49,resultsd,plumbing,keywords,0.5,"LVIS-työt Kemi | Sähkö-, putki- ja ilmastointityöt",ek-asennustekniikka.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,Mediaplaani Oy,ADVERTISER_MISMATCH,mismatch,0.32
+49,resultsd,,none,0.0,Kaivuut Naantali | Kattavat kaivuutyöt Naantalin seudulle,kaivuujakuljetusptmakela.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,Mediaplaani Oy,ADVERTISER_MISMATCH,mismatch,0.37
+49,resultsd,,none,0.0,Etusivu - Kolmen Sepän Isännöinti,kolmensepanisannointi.fi,A_ads_weak_site,,,,True,False,False,2,"no_meta_description,slow_response",wordpress,,,,True,Kolmen Sepän Isännöinti Oy,LIVE_CONFIRMED,match,1.00
+49,resultsd,plumbing,keywords,0.65,Putkityöt Lahti | Kokenut LVI-asiantuntijasi Päijät-Hämeessä,lahdenputkipalvelut.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,Lahden Putkipalvelut Oy,ADVERTISER_MISMATCH,mismatch,0.57
+49,resultsd,,none,0.0,Kuljetusliike Kurikka | Maa-aineskuljetukset luotettavasti,latvaluopa.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,Yrjö Latva-Luopa Oy,ADVERTISER_MISMATCH,mismatch,0.33
+49,resultsd,,none,0.0,Maanrakennus Pirkanmaa | Luotettavasti ja varmasti,mrvinfra.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,Fonecta Oy,LIVE_CONFIRMED,likely_agency,0.25
+49,resultsd,,none,0.0,"Maanrakennus Lahti, Hollola | Salaojat, jätevedet, radonkaiv",mrlt.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,Fonecta Oy,LIVE_CONFIRMED,likely_agency,0.17
+49,resultsd,,none,0.0,"Pienkone Siilinjärvi | Myynti, huolto ja korjaus",pienkone-ekspertit.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,Siilin Pienkone-Ekspertit Oy,ADVERTISER_MISMATCH,mismatch,0.67
+49,resultsd,plumbing,keywords,0.5,LVI-työt Lappeenranta | Osaava LVI-asentaja palveluksessasi!,putkiahti.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,Riku Ahvonen,ADVERTISER_MISMATCH,mismatch,0.30
+49,resultsd,cleaning,keywords,0.5,"Siivouspalvelut Helsinki, Espoo &amp; Vantaa - Rakas Koti",rakaskoti.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,wordpress,,,,True,Rakas koti oy,LIVE_CONFIRMED,match,1.00
+49,resultsd,,none,0.0,Maanrakennus Etelä-Suomi | Palvelemme pääkaupunkiseudulla,rakennustyohostikka.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,Rakennustyö Hostikka Oy,ADVERTISER_MISMATCH,mismatch,0.48
+49,resultsd,electrical,keywords,0.5,Sähköurakointi Turku | Sähköasennus Ristimäki Oy,sahkoasennus-ristimaki.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,Fonecta Oy,LIVE_CONFIRMED,likely_agency,0.15
+49,resultsd,cleaning,keywords,0.5,Siivouspalvelut yrityksille – Siskon Siivous,siskonsiivous.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,wordpress,,,,True,Siskon Siivous Oy,LIVE_CONFIRMED,match,1.00
+49,resultsd,,none,0.0,Kokkolasta traktorin renkaat koko Suomeen | SKT-rengas,sktrengas.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,Sapparin Konetyö Oy,ADVERTISER_MISMATCH,mismatch,0.32
+49,resultsd,,none,0.0,Koneliike Ivalo | Myynti ja huollot saman katon alta,tarvikecenter.com,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,Fonecta Oy,LIVE_CONFIRMED,likely_agency,0.27
+49,resultsd,hvac,keywords,0.5,Ilmanvaihtotyöt yrityksille - TJ-Airtec Oy,tjairtec.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,TJ-Airtec Oy,LIVE_CONFIRMED,match,1.00
+49,resultsd,hvac,keywords,0.5,"Maalämpöpumput, lämpöpumput | Raahe, Oulu, | Uusiolämpö Oy R",uusiolampo.fi,B_ads_no_conv_tracking,,,,True,False,True,0,,,,,,True,Uusiolämpö Oy,LIVE_CONFIRMED,match,0.90
+49,resultsd,accounting,keywords,0.5,Tunturi-Lapin Isännöintipalvelu Oy,tunturilapinisannointipalvelu.fi,A_ads_weak_site,,,,True,False,False,2,"no_h1,slow_response",,,,,True,Tunturi-Lapin Isännöintipalvelu Oy,LIVE_CONFIRMED,match,1.00
+48,resultsd,cleaning,keywords,0.5,"Siivouspalvelu Helsinki, Vantaa, Espoo | Aton Oy",aton.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,Aton Oy,LIVE_CONFIRMED,match,1.00
+48,resultsd,electrical,keywords,0.5,Etusivu - AM-Sähkö Oy,amsahko.net,A_ads_weak_site,,,,True,True,False,3,"no_meta_description,no_h1,slow_response",wordpress,,,,True,"ADVERT.IO, S.A",ADVERTISER_MISMATCH,mismatch,0.50
+48,resultsd,,none,0.0,Veneen yhteisomistus ammattimaisesti - Boatslice,boatslice.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,,,,,True,Boatslice Oy,LIVE_CONFIRMED,match,1.00
+48,resultsd,electrical,keywords,0.5,Tilaa kaikki sähkötyöt helposti Elfinin kautta | Elfin,elfin.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,Elfin,LIVE_CONFIRMED,match,1.00
+48,resultsd,,none,0.0,Global Transport and Logistics | DSV,dsv.com,C_ads_ok_site,,,,True,True,True,1,no_meta_description,,,,,True,Dsv A/S,LIVE_CONFIRMED,match,0.90
+48,resultsd,,none,0.0,Isännöintitoimisto Fluxio - Fiksumpaa isännöintiä,fluxioisannointi.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,Fluxio Isännöinti Oy,LIVE_CONFIRMED,match,0.90
+48,resultsd,cleaning,keywords,0.5,Kotisiivous Turku &amp; Tampere - Freesikoti Oy,freesikoti.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,,,,,True,Freesikoti Oy,LIVE_CONFIRMED,match,1.00
+48,resultsd,cleaning,keywords,0.5,IloClean Oy – Siivouspalvelu Pori - Porilainen siivousfirma,iloclean.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,IloClean Oy,LIVE_CONFIRMED,match,1.00
+48,resultsd,cleaning,keywords,0.5,Kotisiivous ja siivouspalvelut Oulu | Helpmax,helpmax.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,CURU Oy,ADVERTISER_MISMATCH,mismatch,0.10
+48,resultsd,,none,0.0,Isännöintipiste – Laadukas isännöintitoimisto Vantaalla,isannointipiste.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,Ainoa & Co Oy,ADVERTISER_MISMATCH,mismatch,0.26
+48,resultsd,,none,0.0,Etusivu - Kaukokiito,kaukokiito.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,Suomen Kaukokiito Oy,LIVE_CONFIRMED,match,0.90
+48,resultsd,cleaning,keywords,0.5,Siivouspalvelut kotiin – Onni kotisiivous,kotisiivooja.com,C_ads_ok_site,,,,True,True,True,1,slow_response,,,,,True,Puhdas Unelma Oy,ADVERTISER_MISMATCH,mismatch,0.28
+48,resultsd,,none,0.0,Alueellinen ykkönen - kaikki kiviainekset ja kuljetukset,laaninkuljetus.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,Läänin Kuljetus Oy,ADVERTISER_MISMATCH,mismatch,0.33
+48,resultsd,cleaning,keywords,0.5,"Onnellisempi arki, koti kerrallaan | Koti Puhtaaksi 🧡",kotipuhtaaksi.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,Sahera Koti Puhtaaksi Oy,LIVE_CONFIRMED,match,0.90
+48,resultsd,plumbing,keywords,0.5,Henkilökunta valmiina palvelukseen | Lahden Putkihuolto Oy,lph.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,Keskisuomalainen Oyj,ADVERTISER_MISMATCH,mismatch,0.24
+48,resultsd,cleaning,keywords,0.5,Alan paras mitattu asiakastyytyväisyys,lempi.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,,,,,True,Lempi Kodinhoito Oy,ADVERTISER_MISMATCH,mismatch,0.19
+48,resultsd,,none,0.0,Maritim venetarvikkeet veneilyyn ja purjehdukseen,maritim.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,Oy Maritim Ab,LIVE_CONFIRMED,match,0.90
+48,resultsd,cleaning,keywords,0.5,"Pohjanmaan Siivous | Siivouspalvelu Vaasa, Oulu, Seinäjoki",pohjanmaansiivous.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,Pohjanmaan Siivous Oy,LIVE_CONFIRMED,match,1.00
+48,resultsd,hvac,keywords,0.5,Ilmanvaihtoremontit ja kattoremontit asiantuntevasti | Raken,rakennecenter.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,,,,,True,Riku Latvala,ADVERTISER_MISMATCH,mismatch,0.25
+48,resultsd,,none,0.0,Raymarine | UK | Reliable Marine and Boat Electronics,raymarine.com,C_ads_ok_site,,,,True,True,True,1,slow_response,,,,,True,"Flir Systems, Inc.",ADVERTISER_MISMATCH,mismatch,0.32
+48,resultsd,plumbing,keywords,0.5,Retta Isännöinti: Yhdessä askeleen edellä,retta.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,Retta Services Oy,ADVERTISER_MISMATCH,mismatch,0.31
+48,resultsd,accounting,keywords,0.65,Mutkatonta tilitoimistopalvelua ja isännöintiä - Taloustaita,taloustaitaja.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,Tirri Tomi,ADVERTISER_MISMATCH,mismatch,0.29
+48,resultsd,cleaning,keywords,0.5,Ensiluokkainen siivouspalvelu kotiin ja yrityksille | WashUP,washup.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,WashUP Oy,LIVE_CONFIRMED,match,1.00
+48,resultsd,,none,0.0,Isännöinti Vuorma Oy | Isännöintitoimisto Oulu,vuorma.fi,C_ads_ok_site,,,,True,True,True,1,slow_response,wordpress,,,,True,Isännöinti Vuorma Oy,LIVE_CONFIRMED,match,1.00
+43,resultsd,cleaning,keywords,0.5,"Diakon | Asuminen, Siivous, Kotihoito, Terveys, Juhla ja Hau",diakon.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,Vida Design Oy,ADVERTISER_MISMATCH,mismatch,0.35
+43,resultsd,cleaning,keywords,0.5,Thermostar kuivahöyrypesurit ekologiseen siivoukseen!,hygisafe.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,False,,TAG_STALE_OR_HIDDEN,n/a,
+43,resultsd,cleaning,keywords,0.5,"Kuopio, Siilinjärvi, Tahko - Kotisiivous hinta, Kemikaaliton",kuopiontehosiivous.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,False,,TAG_STALE_OR_HIDDEN,n/a,
+43,resultsd,cleaning,keywords,0.5,Siivoukset Oulun seudulla - Smobbi,smobbi.fi,B_ads_no_conv_tracking,,,,True,False,False,1,stale_copyright,wordpress,,,,True,Smobbi Oy,LIVE_CONFIRMED,match,1.00
+43,resultsd,,none,0.0,Etusivu - SKH Isännöinti Oy,skh.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,SKH-Isännöinti Oy,LIVE_CONFIRMED,match,1.00
+43,resultsd,,none,0.0,Parempaa isännöintiä - Tasotalo isännöinti,tasotalo.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,Tasotalo Oy,LIVE_CONFIRMED,match,0.90
+43,resultsd,,none,0.0,TiKo Isännöinti,tikoisannointi.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,squarespace,,,,True,TiKo Isännöinti Oy,LIVE_CONFIRMED,match,1.00
+43,resultsd,,none,0.0,Tie tuottajilta ruokapöytiin - Tuoretie,tuoretie.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,Tuoretie Oy,LIVE_CONFIRMED,match,1.00
+43,resultsd,accounting,keywords,0.5,Selkeää ja tavoitettavaa isännöintiä - Trio Isännöinti,trioisannointi.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,Trio Isännöinti,LIVE_CONFIRMED,match,1.00
+43,resultsd,electrical,keywords,0.5,Telilä - Kumppani teollisuuden ja tulevaisuuden sähköurakoin,telila.fi,B_ads_no_conv_tracking,,,,True,False,False,1,slow_response,wordpress,,,,True,Telilän Sähkötyö Oy,LIVE_CONFIRMED,match,0.90
+42,resultsd,,none,0.0,eTalo Isännöinti,etalo.fi,C_ads_ok_site,,,,True,True,True,0,,wordpress,,,,True,eTalo Isännöinti Oy,LIVE_CONFIRMED,match,1.00
+42,resultsd,,none,0.0,Yrityshaku ja päättäjähaku: Kaikki yritystiedot | Finder,finder.fi,C_ads_ok_site,,,,True,True,True,0,,nextjs,,,,True,Fonecta Oy,LIVE_CONFIRMED,likely_agency,0.46
+42,resultsd,accounting,keywords,0.5,Laadukasta isännöintipalvelua - Helsingin Seudun Isännöitsij,hsi.fi,C_ads_ok_site,,,,True,True,True,0,,,,,,True,ESKO JUHANI PIETIKÄINEN,ADVERTISER_MISMATCH,mismatch,0.43
+42,resultsd,cleaning,keywords,0.5,"Siivouspalvelut yrityksille ja taloyhtiöille - Turku, Raisio",huoltosiivous.fi,C_ads_ok_site,,,,True,True,True,0,,,,,,True,Huoltosiivous Turku Oy,ADVERTISER_MISMATCH,mismatch,0.58
+42,resultsd,real_estate,keywords,0.5,Kiinteistötahkola / Kiinteistötahkola - isännöintiä ja välit,kiinteistotahkola.fi,C_ads_ok_site,,,,True,True,True,0,,wordpress,,,,True,Kiinteistö-Tahkola Helsinki Oy,LIVE_CONFIRMED,match,0.90
+42,resultsd,cleaning,keywords,0.5,Kodin siivouspalvelut - Kodinhoitajapäiväksi,kodinhoitajapaivaksi.fi,C_ads_ok_site,,,,True,True,True,0,,wordpress,,,,True,Inkan Kotitalouspalvelut Oy,ADVERTISER_MISMATCH,mismatch,0.62
+42,resultsd,cleaning,keywords,0.5,Kotisiivous - siivouspalvelu kotiin kokemuksella | Kotileena,kotileena.fi,C_ads_ok_site,,,,True,True,True,0,,,,,,True,Kotileena Oy,LIVE_CONFIRMED,match,1.00
+42,resultsd,cleaning,keywords,0.5,"Kotirinki: kotisiivous, siivouspalvelu, kotiapu – Tilaa neti",kotirinki.fi,C_ads_ok_site,,,,True,True,True,0,,,,,,True,Kotirinki Oy,LIVE_CONFIRMED,match,0.90
+42,resultsd,plumbing,keywords,0.5,LVI-työt Kuopio,lampovelho.fi,C_ads_ok_site,,,,True,True,True,0,,,,,,True,Lämpövelho Oy,ADVERTISER_MISMATCH,mismatch,0.08
+42,resultsd,cleaning,keywords,0.5,Loiste Siivous – puhtaasti parempi siivous,loistesiivous.fi,C_ads_ok_site,,,,True,True,True,0,,wordpress,,,,True,Loiste Siivous Oy,LIVE_CONFIRMED,match,1.00
+42,resultsd,restaurant,keywords,0.5,Etusivu - Let&#039;s GO TAKSI,letsgo.fi,C_ads_ok_site,,,,True,True,True,0,,wordpress,,,,True,DRide Oy,ADVERTISER_MISMATCH,mismatch,0.17
+42,resultsd,plumbing,keywords,0.5,LVI asennukset Lohjalla hoitaa K&amp;T Pipe Oy,ktpipe.fi,A_ads_weak_site,,,,True,True,False,2,"stale_copyright,slow_response",wordpress,,,,True,K&T Pipe Oy,LIVE_CONFIRMED,match,0.90
+42,resultsd,,none,0.0,Etusivu - Maansiirto Harry Mäkelä,maansiirtomakela.fi,C_ads_ok_site,,,,True,True,True,0,,wordpress,,,,True,Maansiirto Harry Mäkelä Oy,LIVE_CONFIRMED,match,1.00
+42,resultsd,,none,0.0,"Pesurivuokraus.fi - Tekstiilipesurin vuokraus, Höyrypesurin ",pesurivuokraus.fi,C_ads_ok_site,,,,True,True,True,0,,,,,,True,Wise Rental Services Oy,ADVERTISER_MISMATCH,mismatch,0.28
+42,resultsd,cleaning,keywords,0.5,"Siivous-, saneeraus- ja vahinkopalvelut - Optimasiivous",optimasiivous.fi,C_ads_ok_site,,,,True,True,True,0,,wordpress,,,,True,Optimasiivous Oy,LIVE_CONFIRMED,match,1.00
+42,resultsd,cleaning,keywords,0.5,Siivouspalvelut Oulu | Kotisiivous ja pihatyöt Oulun seudull,arvojes.fi,A_ads_weak_site,,,,True,True,False,2,"stale_copyright,slow_response",wordpress,,,,True,Arvojes Oy,ADVERTISER_MISMATCH,mismatch,0.22
+42,resultsd,,none,0.0,M-Kone - Perämoottorin varaosat,mkone.fi,A_ads_weak_site,,,,True,True,False,2,"no_h1,slow_response",,,,,True,M-Kone,LIVE_CONFIRMED,match,1.00
+42,resultsd,cleaning,keywords,0.5,Etusivu - Pirkanmaan Laatuis&auml;nn&ouml;inti Oy,pirkanmaanlaatuisannointi.fi,A_ads_weak_site,,,,True,True,False,2,"stale_copyright,slow_response",wordpress,,,,True,Joni Ilari Brander,ADVERTISER_MISMATCH,mismatch,0.23
+42,resultsd,,none,0.0,Reilu Isännöinti &#8211; Turhautuminen vanhakantaisiin työta,reiluisannointi.fi,C_ads_ok_site,,,,True,True,True,0,,wordpress,,,,True,Reilu Isännöinti Oy,LIVE_CONFIRMED,match,0.90
+42,resultsd,cleaning,keywords,0.5,Siivous Oulu: Palvelu yrityksille ja kotitalouksille,serviceone.fi,C_ads_ok_site,,,,True,True,True,0,,wordpress,,,,True,A&A Palvelut Oy,ADVERTISER_MISMATCH,mismatch,0.38
+42,resultsd,cleaning,keywords,0.5,Sivina Oy – Kotisiivous &amp; palvelut lapsiperheille ja kot,sivina.fi,C_ads_ok_site,,,,True,True,True,0,,wordpress,,,,True,Campmedia Oy,ADVERTISER_MISMATCH,mismatch,0.27
+42,resultsd,hvac,keywords,0.65,"Kerrostalon lämmitys, lämmön talteenotto (PILP) ja maalämpö",smartheating.fi,A_ads_weak_site,,,,True,True,False,2,"stale_copyright,slow_response",wordpress,,,,True,Smart Heating Oy,ADVERTISER_MISMATCH,mismatch,0.18
+42,resultsd,plumbing,keywords,0.5,Suunnos Oy | Käytännönläheistä LVI-suunnittelua.,suunnos.fi,A_ads_weak_site,,,,True,True,False,2,"stale_copyright,slow_response",webflow,,,,True,Medialuotsi OY,LIVE_CONFIRMED,likely_agency,0.23
+42,resultsd,accounting,keywords,0.5,"Taloasema - Isännöintiä, jonka tunnet.",taloasema.fi,C_ads_ok_site,,,,True,True,True,0,,wordpress,,,,True,Taloasema Oy,LIVE_CONFIRMED,match,1.00
+42,resultsd,,none,0.0,Täyden palvelun veneliike | Venekeskus.com,venekeskus.com,C_ads_ok_site,,,,True,True,True,0,,,,,,True,Kemiönsaaren Venekeskus Oy,ADVERTISER_MISMATCH,mismatch,0.65
+37,resultsd,restaurant,keywords,0.5,ADA Isännöinti - Etusivu,adaisannointi.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,wordpress,,,,True,Netice Oy,ADVERTISER_MISMATCH,mismatch,0.46
+37,resultsd,hotel,keywords,0.65,Talotekninen suunnittelu - Insinööritoimisto Äyräväinen,ayravainen.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,wordpress,,,,True,Äyräväinen Oy,LIVE_CONFIRMED,match,0.90
+37,resultsd,hvac,keywords,0.5,Suunnittelupalvelut lämpöpumppuratkaisuihin | Atlas Energia,atlasenergia.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,elementor,,,,True,Atlas Energia Oy,LIVE_CONFIRMED,match,1.00
+37,resultsd,cleaning,keywords,0.5,Siivous - Onnellisempaa arkea puhtaassa kodissa - Kotova,kotova.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,wordpress,,,,True,Kotova Oy,LIVE_CONFIRMED,match,1.00
+37,resultsd,cleaning,keywords,0.5,Siivous- ja kotiapupalvelut | Kotiapusi Oy,kotiapusi.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,webflow,,,,True,AITEK Solutions Oy,ADVERTISER_MISMATCH,mismatch,0.42
+37,resultsd,plumbing,keywords,0.5,"LVI-insinööritoimisto Karlsson, Karves &amp; Co Oy",lvitsto-karlsson.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,wordpress,,,,True,"LVIS-insinööritoimisto Karlsson, Karves & Co Oy",LIVE_CONFIRMED,match,0.99
+37,resultsd,cleaning,keywords,0.5,Välittävää siivouspalvelua Jyväskylässä | Puhdina,puhdina.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,webflow,,,,True,Puhdina Oy,LIVE_CONFIRMED,match,1.00
+37,resultsd,cleaning,keywords,0.5,"Siivousfirma, siivouspalvelu, kotisiivous &amp; siivousapu J",siivoussolina.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,wordpress,,,,True,Kiinteistöpalvelu Solina Oy,ADVERTISER_MISMATCH,mismatch,0.32
+37,resultsd,,none,0.0,Kotimaiset veneilytarvikkeet soutamiseen | Soutu Finland Oy,soutu.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,,,,,True,Soutu Finland Oy,LIVE_CONFIRMED,match,1.00
+37,resultsd,,none,0.0,Isännöintitoimisto | Lopen Talo &amp; Tili isännöinti,talotili.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,,,,,True,Lopen Talo & Tili Oy,LIVE_CONFIRMED,match,0.90
+37,resultsd,accounting,keywords,0.5,Isännöinti Lahti | Vastuullinen isännöitsijä | Tammentalot,tammentalot.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,wordpress,,,,True,Isännöintikeskus Tammen Oy,ADVERTISER_MISMATCH,mismatch,0.51
+37,resultsd,,none,0.0,Maanrakennus- ja kaivinkonepalvelut luotettavasti ja ammatti,torttilaoy.fi,B_ads_no_conv_tracking,,,,True,False,False,0,,,,,,True,Torttila Oy,ADVERTISER_MISMATCH,mismatch,0.12
+36,resultsd,cleaning,keywords,0.5,Kotisiivous pääkaupunkiseudulla – Clean Spot Oy,cleanspot.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Cleanspot Oy,LIVE_CONFIRMED,match,0.95
+36,resultsd,,none,0.0,Suomen Alitustekniikka Oy &#8211; Kaivamattoman tekniikan am,alitustekniikka.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Fonecta Oy,LIVE_CONFIRMED,likely_agency,0.04
+36,resultsd,real_estate,schema_org,0.95,"Vuokravälitys, hallinnointi &amp; isännöinti | Asuntopehtoor",asuntopehtoori.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Asuntopehtoori,LIVE_CONFIRMED,match,0.96
+36,resultsd,cleaning,keywords,0.5,"Siivouspalvelu pääkaupunkiseudulla | Isojoo | alkaen 32,37 €",isojoo.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,,,,,True,Vertigo Nordic Oy,ADVERTISER_MISMATCH,mismatch,0.21
+36,resultsd,cleaning,keywords,0.5,Duo Siivouspalvelut – Luotettavat ja paikalliset siivouspalv,duosiivouspalvelut.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Iasy Oy,ADVERTISER_MISMATCH,mismatch,0.10
+36,resultsd,cleaning,keywords,0.5,GreenVibe – Ekologista ja luotettavaa siivouspalvelua,greenvibe.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,GreenVibe Palvelut Oy,LIVE_CONFIRMED,match,0.90
+36,resultsd,plumbing,keywords,0.5,LVI-Sasto hallitsee talotekniikan ratkaisut -LVI-suunnittelu,lvi-sasto.com,C_ads_ok_site,,,,True,True,False,1,no_h1,wordpress,,,,True,Lvi-Sasto Oy,LIVE_CONFIRMED,match,0.90
+36,resultsd,,none,0.0,Lännen Isännöintipalvelu - laadukasta ja luotettavaa isännöi,lipalvelu.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Lännen Isännöintipalvelu Oy,LIVE_CONFIRMED,match,1.00
+36,resultsd,restaurant,keywords,0.5,Isännöinti Helsinki | Is&auml;nn&ouml;itsij&auml;toimisto Fa,fallenius.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Fluxio Isännöinti Oy,LIVE_CONFIRMED,match,0.72
+36,resultsd,hvac,keywords,0.5,Marnela - jo vuodesta 1968,marnela.com,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Safety at Sea Finland Marnela Oy Ltd,LIVE_CONFIRMED,match,0.90
+36,resultsd,accounting,keywords,0.5,Isännöinti Oulu &amp; Helsinki | Taloyhtiöiden luottokumppan,oit.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,OIT Isännöinti Oy,ADVERTISER_MISMATCH,mismatch,0.63
+36,resultsd,cleaning,keywords,0.5,Pikkuapu – Joskus sitä tarvitsee,pikkuapu.fi,C_ads_ok_site,,,,True,True,False,1,stale_copyright,,,,,True,Madleena Anne Marina Konttinen,ADVERTISER_MISMATCH,mismatch,0.24
+36,resultsd,restaurant,keywords,0.5,Paloturvallisuuden asiantuntija | Paloturvasuunnittelu Block,paloturvasuunnittelu.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Medialuotsi OY,LIVE_CONFIRMED,likely_agency,0.32
+36,resultsd,,none,0.0,Pienkonehuolto | Pienkone | Heinola,pienkonehuoltosiekkinen.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,,,,,True,Pienkonehuolto Siekkinen Oy,LIVE_CONFIRMED,match,0.90
+36,resultsd,plumbing,keywords,0.5,Insinööritoimisto Putkimaailma Oy | LVI-suunnittelu ja -sane,putkimaailma.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Yksityishenkilö Jussi,ADVERTISER_MISMATCH,mismatch,0.37
+36,resultsd,accounting,keywords,0.5,Etusivu - REIM Isännöinti,reim.fi,C_ads_ok_site,,,,True,True,False,1,no_meta_description,wordpress,,,,True,REIM Pääkaupunkiseutu Oy,ADVERTISER_MISMATCH,mismatch,0.51
+36,resultsd,cleaning,keywords,0.5,Siivouspalvelu Tampere - Safai,safai.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,nextjs,,,,True,Deepesh Kalura,ADVERTISER_MISMATCH,mismatch,0.32
+36,resultsd,cleaning,keywords,0.5,Kotisiivous Espoo - Siivous Eliitti,siivouseliitti.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,Huolto Eliitti Oy,ADVERTISER_MISMATCH,mismatch,0.62
+36,resultsd,cleaning,keywords,0.5,Tilaasiivous.com &#8211; Tilaasiivous.com,tilaasiivous.com,C_ads_ok_site,,,,True,True,False,1,no_h1,wordpress,,,,True,Ardit Azemi,ADVERTISER_MISMATCH,mismatch,0.09
+36,resultsd,cleaning,keywords,0.5,Yritys- ja taloyhtiösiivouksiin erikoistunut Tupla-Luuta Oy,tuplaluuta.fi,C_ads_ok_site,,,,True,True,False,1,no_h1,wordpress,,,,True,Design Inspis Oy,ADVERTISER_MISMATCH,mismatch,0.12
+36,resultsd,cleaning,keywords,0.5,Etusivu - Trinomi Siivouspalvelut,trinomi.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,,,,,True,Siivouspalvelu Trinomi Oy,LIVE_CONFIRMED,match,0.98
+36,resultsd,cleaning,keywords,0.5,TEN-yhtiö Oy - Siivouspalvelut kotiin Lahdessa ja lähikunnis,tenyhtio.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,TEN-yhtiö Oy,LIVE_CONFIRMED,match,1.00
+36,resultsd,hvac,schema_org,0.95,V-S Energiatalo Oy - Ilmanvaihdon ammattilainen Turun alueel,vsenergiatalo.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,wordpress,,,,True,VS-Energiatalo Oy,LIVE_CONFIRMED,match,0.90
+36,resultsd,cleaning,keywords,0.5,"Yrityssiivous Helsinki, Espoo, Vantaa - toimistosiivous - Si",yrityssiivoushelsinki.fi,C_ads_ok_site,,,,True,True,False,1,slow_response,,,,,True,Kari Toivonen,ADVERTISER_MISMATCH,mismatch,0.36
+30,resultsd,cleaning,keywords,0.5,"CLEANii koti- ja siivouspalvelu - Vantaa, Helsinki, Espoo",cleanii.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Medialuotsi OY,LIVE_CONFIRMED,likely_agency,0.25
+30,resultsd,electrical,keywords,0.5,"Alti-Systems - Vaativa kylmä­tekniikka, jäähdytys ja lämmity",alti-systems.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Alti-Systems Oy,LIVE_CONFIRMED,match,1.00
+30,resultsd,,none,0.0,JM Laatuisännöinti Oy &#8211; Laatua kiinteistönne parhaaksi,jmlaatuisannointi.fi,A_ads_weak_site,,,,False,False,True,3,"no_meta_description,no_h1,slow_response",wordpress,,,,True,JM Laatuisannointi Oy,ADVERTISER_MISMATCH,mismatch,0.42
+30,resultsd,hvac,keywords,0.65,Lapin LVI-asennus,lapinlviasennus.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Lapin LVI-asennu Oy,LIVE_CONFIRMED,match,0.97
+30,resultsd,laundry,keywords,0.5,Maanrakennustyöt Mikkeli | Vuosikymmenten kokemuksella,maanrakennuspajunen.fi,C_ads_ok_site,,,,True,True,False,0,,,,,,True,Maanrakennus Pajunen avoin yhtiö,ADVERTISER_MISMATCH,mismatch,0.51
+30,resultsd,hvac,keywords,0.65,LVI-suunnittelu I LVI-suunnitelmat yli 60 vuoden kokemuksell,lvisuunnittelucenter.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Sähkömatti Oy,ADVERTISER_MISMATCH,mismatch,0.14
+30,resultsd,cleaning,keywords,0.5,Laadukkaita siivouspalveluita Pirkanmaalla - Näsin Siivous,nasinsiivous.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,advert.io lda,ADVERTISER_MISMATCH,mismatch,0.31
+30,resultsd,cleaning,keywords,0.5,Etusivu - Puhtosin - Siivouspalveluja kotitalouksille ja yri,puhtosin.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Puhtosin Oy,LIVE_CONFIRMED,match,1.00
+30,resultsd,plumbing,keywords,0.5,Etusivu,piirosto.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Piirosto Oy,ADVERTISER_MISMATCH,mismatch,0.13
+30,resultsd,,none,0.0,www.Suomen Pumppaamo-Muovitekniikka Oy.fi,spm-tekniikka.fi,C_ads_ok_site,,,,True,True,False,0,,,,,,True,Teemu Aleksi Suhonen,ADVERTISER_MISMATCH,mismatch,0.34
+30,resultsd,,none,0.0,Viemäriremontti Keski-Suomi | Suunnittelu- ja konsultointi,suomenputkitaso.fi,C_ads_ok_site,,,,True,True,False,0,,,,,,True,Suomen Putkitaso Oy,ADVERTISER_MISMATCH,mismatch,0.42
+30,resultsd,cleaning,keywords,0.5,Siivouspalvelut yrityksille ja kiinteistöille | Tasolaiset O,tasolaiset.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Tasolaiset Oy,LIVE_CONFIRMED,match,0.91
+30,resultsd,,none,0.0,Isännöintipalvelu Terwa - Paikallista isännöintiä Oulussa,terwaisannointi.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Isännöintipalvelu Terwa,LIVE_CONFIRMED,match,1.00
+30,resultsd,hvac,keywords,0.65,Ilmalämpöpumppu Pori ja Satakunta - Teljän Energia- ja Kiint,teljanet.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Teljän energiatekniikka,LIVE_CONFIRMED,match,0.74
+30,resultsd,cleaning,keywords,0.5,Siivouspalvelu Teho+ - Siivouspalvelu Turku,tehoplus.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Siivouspalvelu Teho+,LIVE_CONFIRMED,match,1.00
+30,resultsd,,none,0.0,Etusivu | vapaa-aika.com,vapaa-aika.com,C_ads_ok_site,,,,True,True,False,0,,,,,,True,Vapaa-ajan tarviketalo AK&Co Oy,ADVERTISER_MISMATCH,mismatch,0.56
+30,resultsd,plumbing,keywords,0.5,Vaaratek LVI-suunnittelupalvelut,vaaratek.fi,C_ads_ok_site,,,,True,True,False,0,,,,,,True,Vaaratek,LIVE_CONFIRMED,match,0.90
+30,resultsd,,none,0.0,Veneveistamo-veneva,veneva.fi,C_ads_ok_site,,,,True,True,False,0,,,,,,True,Fonecta Oy,LIVE_CONFIRMED,likely_agency,0.31
+30,resultsd,,none,0.0,Energiasuunnittelun ja elinkaariajattelun edelläkävijä | Ves,vesitaito.fi,C_ads_ok_site,,,,True,True,False,0,,wordpress,,,,True,Insinööritoimisto Vesitaito Oy,ADVERTISER_MISMATCH,mismatch,0.28
+24,resultsd,,none,0.0,Akku-Teho Marine Oy - Kaikkea veneilyyn,akkuteho.fi,A_ads_weak_site,,,,False,False,True,2,"no_h1,slow_response",,,,,True,Akku-Teho Marine Oy,LIVE_CONFIRMED,match,1.00
+24,resultsd,cleaning,keywords,0.5,Siivouspalveluita Vantaan lähialueilla - Sii­vous­pal­ve­lut,siivouspalvelutloytty.fi,A_ads_weak_site,,,,False,False,True,2,"stale_copyright,slow_response",wordpress,,,,True,Siivouspalvelut Löytty,LIVE_CONFIRMED,match,0.90
+24,resultsd,,none,0.0,Laatu alkaa suunnittelusta │ WB-Sails,wb-sails.fi,A_ads_weak_site,,,,False,False,True,2,"no_h1,stale_copyright",wordpress,,,,True,WB-Sails Ltd Oy,LIVE_CONFIRMED,match,0.90
+18,resultsd,,none,0.0,Lahden Isännöitsijätoimisto Oy - Asumisen asialla – Lahti,lit.fi,C_ads_ok_site,,,,False,False,True,1,slow_response,wordpress,,,,True,Lahden Isännöitsijätoimisto Oy,LIVE_CONFIRMED,match,1.00
+18,resultsd,accounting,keywords,0.5,"TaloKompassi Oy - Isännöintiä Helsingissä, Espoossa ja Vanta",talokompassi.fi,C_ads_ok_site,,,,False,False,True,1,slow_response,squarespace,,,,True,Talokompassi Oy,LIVE_CONFIRMED,match,1.00
+18,resultsd,cleaning,keywords,0.5,"Siivous, muuttosiivous, ylläpitosiivous | Tampere | Siivousy",siivousystavat.fi,C_ads_ok_site,,,,False,False,True,1,slow_response,,,,,True,Johanna Oksanen,ADVERTISER_MISMATCH,mismatch,0.18

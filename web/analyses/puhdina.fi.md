@@ -1,4 +1,4 @@
-# Pika-analyysi: Puhdina
+# Pika-analyysi: Välittävää siivouspalvelua Jyväskylässä | Puhdina
 
 **Verkkotunnus:** puhdina.fi
 **Toimiala:** cleaning

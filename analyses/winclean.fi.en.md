@@ -1,4 +1,4 @@
-# Quick analysis: Winclean Oy
+# Quick analysis: Teemme puhtaamman huomisen – Winclean
 
 **Domain:** winclean.fi
 **Industry:** cleaning

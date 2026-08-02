@@ -12,6 +12,7 @@ Cache: verified.jsonl (resume-safe). Throttle: 1 req/s.
 import argparse
 import csv
 import difflib
+import html
 import json
 import re
 import ssl
@@ -22,7 +23,7 @@ from collections import Counter
 from http.cookiejar import CookieJar
 from pathlib import Path
 
-LEGAL_SUFFIXES = ("oyj", "oy", "ab", "ky", "ry", "tmi", "osk", "oy ab")
+LEGAL_SUFFIXES = ("oyj", "oy", "ab", "ky", "ry", "tmi", "osk")
 
 FI_CHAR_MAP = str.maketrans({"a": "a", "a": "a", "o": "o"})
 
@@ -30,18 +31,38 @@ FI_CHAR_MAP = str.maketrans({"a": "a", "a": "a", "o": "o"})
 def normalize_name(name):
     if not name:
         return ""
-    n = name.lower()
+    n = html.unescape(name)
+    n = n.replace(chr(173), "")
+    n = n.lower()
     n = re.sub(r"[^a-z0-9\s]", " ", n)
     words = n.split()
     words = [w for w in words if w not in LEGAL_SUFFIXES]
     return " ".join(sorted(words))
 
 
-def name_similarity(a, b):
-    na, nb = normalize_name(a), normalize_name(b)
-    if not na or not nb:
+def name_similarity(company_raw, advertiser):
+    if not company_raw or not advertiser:
         return 0.0
-    return difflib.SequenceMatcher(None, na, nb).ratio()
+    segments = re.split(r"\s[-|/\u2013\u2502\u00b7]\s", company_raw) + [company_raw]
+    nb = normalize_name(advertiser)
+    nb_tokens = set(nb.split())
+    if not nb:
+        return 0.0
+    best = 0.0
+    for seg in segments:
+        na = normalize_name(seg)
+        if not na:
+            continue
+        best = max(best, difflib.SequenceMatcher(None, na, nb).ratio())
+        na_tokens = set(na.split())
+        if na_tokens and nb_tokens:
+            if len(na_tokens) <= len(nb_tokens):
+                smaller, larger = na_tokens, nb_tokens
+            else:
+                smaller, larger = nb_tokens, na_tokens
+            if smaller and smaller.issubset(larger):
+                best = max(best, 0.9)
+    return best
 
 try:
     import certifi

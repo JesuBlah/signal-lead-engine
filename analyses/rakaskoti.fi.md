@@ -1,4 +1,4 @@
-# Pika-analyysi: Rakas koti Oy
+# Pika-analyysi: Siivouspalvelut Helsinki, Espoo &amp; Vantaa - Rakas Koti
 
 **Verkkotunnus:** rakaskoti.fi
 **Toimiala:** cleaning

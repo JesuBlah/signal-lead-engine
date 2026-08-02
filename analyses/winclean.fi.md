@@ -1,4 +1,4 @@
-# Pika-analyysi: Winclean Oy
+# Pika-analyysi: Teemme puhtaamman huomisen – Winclean
 
 **Verkkotunnus:** winclean.fi
 **Toimiala:** cleaning

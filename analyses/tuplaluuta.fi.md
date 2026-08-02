@@ -1,4 +1,4 @@
-# Pika-analyysi: Siivouspalvelu Tupla-Luuta Oy
+# Pika-analyysi: Yritys- ja taloyhtiösiivouksiin erikoistunut Tupla-Luuta Oy
 
 **Verkkotunnus:** tuplaluuta.fi
 **Toimiala:** cleaning

@@ -1,4 +1,4 @@
-# Quick analysis: Lvi-Asiantuntija Oy
+# Quick analysis: LVI-Asiantuntija Oy | LVI-Asiantuntijasi Etelä-Pohjanmaalla
 
 **Domain:** lviasiantuntija.fi
 **Industry:** hvac

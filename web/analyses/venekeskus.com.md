@@ -1,4 +1,4 @@
-# Pika-analyysi: Kemiönsaaren Venekeskus Oy
+# Pika-analyysi: Täyden palvelun veneliike | Venekeskus.com
 
 **Verkkotunnus:** venekeskus.com
 **Toimiala:** 
@@ -9,5 +9,4 @@
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
 - Konversioseuranta löytyy sivustolta.
 - Meta-pikseli löytyy sivustolta.
-- Sivustolla havaittiin seuraavia laatuongelmia: 1.
-- Havaitut tekniset liput: slow_response.
+- Sivustolla havaittiin seuraavia laatuongelmia: 0.

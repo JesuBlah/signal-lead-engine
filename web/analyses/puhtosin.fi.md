@@ -1,4 +1,4 @@
-# Pika-analyysi: Puhtosin Oy
+# Pika-analyysi: Etusivu - Puhtosin - Siivouspalveluja kotitalouksille ja yri
 
 **Verkkotunnus:** puhtosin.fi
 **Toimiala:** cleaning
@@ -7,6 +7,6 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseliä ei löytynyt.
 - Sivustolla havaittiin seuraavia laatuongelmia: 0.

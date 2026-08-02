@@ -1,4 +1,4 @@
-# Quick analysis: T. Hostikka Oy
+# Quick analysis: Maanrakennus Etelä-Suomi | Palvelemme pääkaupunkiseudulla
 
 **Domain:** rakennustyohostikka.fi
 **Industry:** 
@@ -9,5 +9,4 @@
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
 - No conversion tracking was found.
 - Meta Pixel is installed on the site.
-- The site has the following quality issues: 1.
-- Detected technical flags: slow_response.
+- The site has the following quality issues: 0.

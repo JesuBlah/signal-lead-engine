@@ -1,4 +1,4 @@
-# Quick analysis: Palokan Kotipalvelu
+# Quick analysis: Siivousfirma, siivouspalvelu, kotisiivous &amp; siivousapu J
 
 **Domain:** siivoussolina.fi
 **Industry:** cleaning
@@ -9,5 +9,4 @@
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
 - No conversion tracking was found.
 - No Meta Pixel was found.
-- The site has the following quality issues: 1.
-- Detected technical flags: slow_response.
+- The site has the following quality issues: 0.

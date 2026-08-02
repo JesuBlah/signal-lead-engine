@@ -1,4 +1,4 @@
-# Pika-analyysi: Lopen Talo & Tili Oy
+# Pika-analyysi: Isännöintitoimisto | Lopen Talo &amp; Tili isännöinti
 
 **Verkkotunnus:** talotili.fi
 **Toimiala:** 

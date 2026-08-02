@@ -1,4 +1,4 @@
-# Pika-analyysi: SKH-Isännöinti Oy
+# Pika-analyysi: Etusivu - SKH Isännöinti Oy
 
 **Verkkotunnus:** skh.fi
 **Toimiala:** 

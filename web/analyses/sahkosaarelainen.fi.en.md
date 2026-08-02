@@ -1,4 +1,4 @@
-# Quick analysis: Sähkö-Saarelainen Oy
+# Quick analysis: Sähköliike Joensuussa - S&auml;hk&ouml;-Saarelainen Oy
 
 **Domain:** sahkosaarelainen.fi
 **Industry:** electrical

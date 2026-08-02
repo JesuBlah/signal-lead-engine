@@ -1,4 +1,4 @@
-# Quick analysis: Paloturvasuunnittelu Block Oy
+# Quick analysis: Paloturvallisuuden asiantuntija | Paloturvasuunnittelu Block
 
 **Domain:** paloturvasuunnittelu.fi
 **Industry:** restaurant

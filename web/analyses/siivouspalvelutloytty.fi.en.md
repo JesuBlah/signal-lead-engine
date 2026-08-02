@@ -1,4 +1,4 @@
-# Quick analysis: Siivouspalvelut Löytty
+# Quick analysis: Siivouspalveluita Vantaan lähialueilla - Sii­vous­pal­ve­lut
 
 **Domain:** siivouspalvelutloytty.fi
 **Industry:** cleaning

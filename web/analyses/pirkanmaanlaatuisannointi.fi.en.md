@@ -1,4 +1,4 @@
-# Quick analysis: Pirkanmaan Laatuisännöinti Oy
+# Quick analysis: Etusivu - Pirkanmaan Laatuis&auml;nn&ouml;inti Oy
 
 **Domain:** pirkanmaanlaatuisannointi.fi
 **Industry:** cleaning

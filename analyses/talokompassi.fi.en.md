@@ -1,4 +1,4 @@
-# Quick analysis: Talokompassi Oy
+# Quick analysis: TaloKompassi Oy - Isännöintiä Helsingissä, Espoossa ja Vanta
 
 **Domain:** talokompassi.fi
 **Industry:** accounting

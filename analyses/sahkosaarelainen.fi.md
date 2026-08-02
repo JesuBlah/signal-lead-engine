@@ -1,4 +1,4 @@
-# Pika-analyysi: Sähkö-Saarelainen Oy
+# Pika-analyysi: Sähköliike Joensuussa - S&auml;hk&ouml;-Saarelainen Oy
 
 **Verkkotunnus:** sahkosaarelainen.fi
 **Toimiala:** electrical

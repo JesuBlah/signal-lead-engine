@@ -1,4 +1,4 @@
-# Pika-analyysi: Pirkanmaan Duo siivouspalvelut Oy
+# Pika-analyysi: Duo Siivouspalvelut – Luotettavat ja paikalliset siivouspalv
 
 **Verkkotunnus:** duosiivouspalvelut.fi
 **Toimiala:** cleaning

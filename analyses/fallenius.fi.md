@@ -1,4 +1,4 @@
-# Pika-analyysi: Isännöitsijätoimisto Fallenius Oy
+# Pika-analyysi: Isännöinti Helsinki | Is&auml;nn&ouml;itsij&auml;toimisto Fa
 
 **Verkkotunnus:** fallenius.fi
 **Toimiala:** restaurant

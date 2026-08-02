@@ -1,4 +1,4 @@
-# Quick analysis: Insinööritoimisto Karlsson Karves & Co Oy LVIS
+# Quick analysis: LVI-insinööritoimisto Karlsson, Karves &amp; Co Oy
 
 **Domain:** lvitsto-karlsson.fi
 **Industry:** plumbing

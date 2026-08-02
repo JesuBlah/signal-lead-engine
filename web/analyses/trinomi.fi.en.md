@@ -1,4 +1,4 @@
-# Quick analysis: Trinomi Siivouspalvelut
+# Quick analysis: Etusivu - Trinomi Siivouspalvelut
 
 **Domain:** trinomi.fi
 **Industry:** cleaning

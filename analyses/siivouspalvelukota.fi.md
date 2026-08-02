@@ -1,4 +1,4 @@
-# Pika-analyysi: Siivouspalvelu Kota
+# Pika-analyysi: Siivouspalvelu Kota - Kotisiivous &amp; Yrityssiivous - Turk
 
 **Verkkotunnus:** siivouspalvelukota.fi
 **Toimiala:** cleaning

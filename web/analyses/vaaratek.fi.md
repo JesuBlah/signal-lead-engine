@@ -1,4 +1,4 @@
-# Pika-analyysi: Vaaratek
+# Pika-analyysi: Vaaratek LVI-suunnittelupalvelut
 
 **Verkkotunnus:** vaaratek.fi
 **Toimiala:** plumbing
@@ -7,7 +7,6 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseliä ei löytynyt.
-- Sivustolla havaittiin seuraavia laatuongelmia: 1.
-- Havaitut tekniset liput: slow_response.
+- Sivustolla havaittiin seuraavia laatuongelmia: 0.

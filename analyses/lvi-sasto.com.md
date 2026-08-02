@@ -1,4 +1,4 @@
-# Pika-analyysi: LVI-Sasto Oy
+# Pika-analyysi: LVI-Sasto hallitsee talotekniikan ratkaisut -LVI-suunnittelu
 
 **Verkkotunnus:** lvi-sasto.com
 **Toimiala:** plumbing

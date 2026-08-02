@@ -1,4 +1,4 @@
-# Pika-analyysi: Urhopesu Oy
+# Pika-analyysi: Iloinen ja reipas siivouspalvelu Tampereella - Urhopesu
 
 **Verkkotunnus:** urhopesu.fi
 **Toimiala:** cleaning
@@ -9,4 +9,5 @@
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
 - Konversioseurantaa ei löytynyt.
 - Meta-pikseli löytyy sivustolta.
-- Sivustolla havaittiin seuraavia laatuongelmia: 0.
+- Sivustolla havaittiin seuraavia laatuongelmia: 1.
+- Havaitut tekniset liput: slow_response.

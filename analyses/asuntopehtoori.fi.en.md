@@ -1,4 +1,4 @@
-# Quick analysis: Asuntopehtoori Isännöinti Oy
+# Quick analysis: Vuokravälitys, hallinnointi &amp; isännöinti | Asuntopehtoor
 
 **Domain:** asuntopehtoori.fi
 **Industry:** real_estate
@@ -7,7 +7,7 @@
 ## Findings
 
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
-- No conversion tracking was found.
+- Conversion tracking is installed on the site.
 - No Meta Pixel was found.
 - The site has the following quality issues: 1.
 - Detected technical flags: slow_response.

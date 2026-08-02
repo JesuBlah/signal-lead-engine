@@ -1,4 +1,4 @@
-# Quick analysis: Siivouspalvelu Kota
+# Quick analysis: Siivouspalvelu Kota - Kotisiivous &amp; Yrityssiivous - Turk
 
 **Domain:** siivouspalvelukota.fi
 **Industry:** cleaning

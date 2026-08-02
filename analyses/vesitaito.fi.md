@@ -1,4 +1,4 @@
-# Pika-analyysi: Insinööritoimisto Vesitaito Oy
+# Pika-analyysi: Energiasuunnittelun ja elinkaariajattelun edelläkävijä | Ves
 
 **Verkkotunnus:** vesitaito.fi
 **Toimiala:** 

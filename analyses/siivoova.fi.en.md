@@ -1,4 +1,4 @@
-# Quick analysis: Siivoova Oy - Siivouspalvelut Kuopiossa
+# Quick analysis: Siivoova Oy - Siivouspalvelut Kuopiossa ja Oulussa
 
 **Domain:** siivoova.fi
 **Industry:** cleaning

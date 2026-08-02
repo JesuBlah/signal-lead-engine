@@ -1,4 +1,4 @@
-# Pika-analyysi: AE Engineering Oy
+# Pika-analyysi: Heatco Finland Oy on insinööritoimisto ja LVI-järjestelmien 
 
 **Verkkotunnus:** heatco.fi
 **Toimiala:** hvac
@@ -8,6 +8,6 @@
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
 - Konversioseuranta löytyy sivustolta.
-- Meta-pikseliä ei löytynyt.
-- Sivustolla havaittiin seuraavia laatuongelmia: 1.
-- Havaitut tekniset liput: no_h1.
+- Meta-pikseli löytyy sivustolta.
+- Sivustolla havaittiin seuraavia laatuongelmia: 2.
+- Havaitut tekniset liput: no_h1,slow_response.

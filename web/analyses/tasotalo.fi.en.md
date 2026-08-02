@@ -1,4 +1,4 @@
-# Quick analysis: Tasotalo Oy
+# Quick analysis: Parempaa isännöintiä - Tasotalo isännöinti
 
 **Domain:** tasotalo.fi
 **Industry:** 

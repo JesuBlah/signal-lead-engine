@@ -1,4 +1,4 @@
-# Quick analysis: LVI-Sasto Oy
+# Quick analysis: LVI-Sasto hallitsee talotekniikan ratkaisut -LVI-suunnittelu
 
 **Domain:** lvi-sasto.com
 **Industry:** plumbing

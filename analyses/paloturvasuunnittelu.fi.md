@@ -1,4 +1,4 @@
-# Pika-analyysi: Paloturvasuunnittelu Block Oy
+# Pika-analyysi: Paloturvallisuuden asiantuntija | Paloturvasuunnittelu Block
 
 **Verkkotunnus:** paloturvasuunnittelu.fi
 **Toimiala:** restaurant

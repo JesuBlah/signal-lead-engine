@@ -1,4 +1,4 @@
-# Quick analysis: JM Laatuisännöinti Oy
+# Quick analysis: JM Laatuisännöinti Oy &#8211; Laatua kiinteistönne parhaaksi
 
 **Domain:** jmlaatuisannointi.fi
 **Industry:** 

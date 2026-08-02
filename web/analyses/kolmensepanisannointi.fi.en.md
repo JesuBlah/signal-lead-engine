@@ -1,4 +1,4 @@
-# Quick analysis: Kolmen Sepän Isännöinti Oy
+# Quick analysis: Etusivu - Kolmen Sepän Isännöinti
 
 **Domain:** kolmensepanisannointi.fi
 **Industry:** 

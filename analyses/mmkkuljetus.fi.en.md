@@ -1,4 +1,4 @@
-# Quick analysis: MMK-Kuljetus Oy
+# Quick analysis: MMK-Kuljetus - MMK-Kuljetus Oy
 
 **Domain:** mmkkuljetus.fi
 **Industry:** restaurant

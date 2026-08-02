@@ -1,4 +1,4 @@
-# Quick analysis: Clean Spot Oy
+# Quick analysis: Kotisiivous pääkaupunkiseudulla – Clean Spot Oy
 
 **Domain:** cleanspot.fi
 **Industry:** cleaning

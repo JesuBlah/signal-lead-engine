@@ -1,4 +1,4 @@
-# Quick analysis: Lopen Talo & Tili Oy
+# Quick analysis: Isännöintitoimisto | Lopen Talo &amp; Tili isännöinti
 
 **Domain:** talotili.fi
 **Industry:** 

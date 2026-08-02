@@ -1,4 +1,4 @@
-# Pika-analyysi: TilaaSiivous
+# Pika-analyysi: Tilaasiivous.com &#8211; Tilaasiivous.com
 
 **Verkkotunnus:** tilaasiivous.com
 **Toimiala:** cleaning
@@ -7,7 +7,7 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseliä ei löytynyt.
 - Sivustolla havaittiin seuraavia laatuongelmia: 1.
 - Havaitut tekniset liput: no_h1.

@@ -1,4 +1,4 @@
-# Quick analysis: Rehti-Isännöinti Oy
+# Quick analysis: Isännöintitoimisto ja isännöitsijä Tampereella taloyhtiöille
 
 **Domain:** rehti-isannointi.fi
 **Industry:** accounting

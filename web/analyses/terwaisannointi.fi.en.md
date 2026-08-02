@@ -1,4 +1,4 @@
-# Quick analysis: Isännöintipalvelu Terwa Oy
+# Quick analysis: Isännöintipalvelu Terwa - Paikallista isännöintiä Oulussa
 
 **Domain:** terwaisannointi.fi
 **Industry:** 

@@ -1,4 +1,4 @@
-# Pika-analyysi: TT Better Trading Oy
+# Pika-analyysi: Laatu ei ole makuasia. | Puustelli
 
 **Verkkotunnus:** puustelli.fi
 **Toimiala:** restaurant

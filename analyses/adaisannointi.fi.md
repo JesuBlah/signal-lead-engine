@@ -1,4 +1,4 @@
-# Pika-analyysi: ADA Housing Oy
+# Pika-analyysi: ADA Isännöinti - Etusivu
 
 **Verkkotunnus:** adaisannointi.fi
 **Toimiala:** restaurant

@@ -1,4 +1,4 @@
-# Pika-analyysi: Tasotalo Oy
+# Pika-analyysi: Parempaa isännöintiä - Tasotalo isännöinti
 
 **Verkkotunnus:** tasotalo.fi
 **Toimiala:** 

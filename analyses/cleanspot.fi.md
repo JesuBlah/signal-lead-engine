@@ -1,4 +1,4 @@
-# Pika-analyysi: Clean Spot Oy
+# Pika-analyysi: Kotisiivous pääkaupunkiseudulla – Clean Spot Oy
 
 **Verkkotunnus:** cleanspot.fi
 **Toimiala:** cleaning

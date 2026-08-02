@@ -1,4 +1,4 @@
-# Pika-analyysi: TJ Siivous ja kotiapu
+# Pika-analyysi: Luotettavaa siivouspalvelua yrityksille ja koteihin | TJ Sii
 
 **Verkkotunnus:** tjsiivous.fi
 **Toimiala:** cleaning

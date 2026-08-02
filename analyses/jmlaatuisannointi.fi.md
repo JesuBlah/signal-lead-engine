@@ -1,4 +1,4 @@
-# Pika-analyysi: JM Laatuisännöinti Oy
+# Pika-analyysi: JM Laatuisännöinti Oy &#8211; Laatua kiinteistönne parhaaksi
 
 **Verkkotunnus:** jmlaatuisannointi.fi
 **Toimiala:** 

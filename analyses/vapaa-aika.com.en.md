@@ -1,13 +1,12 @@
-# Quick analysis: vapaa-aika.com
+# Quick analysis: Etusivu | vapaa-aika.com
 
 **Domain:** vapaa-aika.com
-**Industry:** cleaning
-**Niche confidence:** 0.5
+**Industry:** 
+**Niche confidence:** 0.0
 
 ## Findings
 
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
-- No conversion tracking was found.
+- Conversion tracking is installed on the site.
 - No Meta Pixel was found.
-- The site has the following quality issues: 1.
-- Detected technical flags: slow_response.
+- The site has the following quality issues: 0.

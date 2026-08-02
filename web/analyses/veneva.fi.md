@@ -1,4 +1,4 @@
-# Pika-analyysi: Veneveistämö VeneVa
+# Pika-analyysi: Veneveistamo-veneva
 
 **Verkkotunnus:** veneva.fi
 **Toimiala:** 
@@ -7,6 +7,6 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseliä ei löytynyt.
 - Sivustolla havaittiin seuraavia laatuongelmia: 0.

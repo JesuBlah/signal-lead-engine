@@ -1,4 +1,4 @@
-# Quick analysis: Kaivuu ja kuljetus P & T Mäkelä
+# Quick analysis: Kaivuut Naantali | Kattavat kaivuutyöt Naantalin seudulle
 
 **Domain:** kaivuujakuljetusptmakela.fi
 **Industry:** 

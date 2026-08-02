@@ -1,4 +1,4 @@
-# Pika-analyysi: Oy Maritim Ab
+# Pika-analyysi: Maritim venetarvikkeet veneilyyn ja purjehdukseen
 
 **Verkkotunnus:** maritim.fi
 **Toimiala:** 
@@ -7,7 +7,7 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseli löytyy sivustolta.
 - Sivustolla havaittiin seuraavia laatuongelmia: 1.
 - Havaitut tekniset liput: slow_response.

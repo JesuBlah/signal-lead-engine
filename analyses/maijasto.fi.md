@@ -1,4 +1,4 @@
-# Pika-analyysi: Maijasto Oy
+# Pika-analyysi: Maijasto
 
 **Verkkotunnus:** maijasto.fi
 **Toimiala:** 

@@ -1,4 +1,4 @@
-# Pika-analyysi: Telilän Sähkötyö Oy
+# Pika-analyysi: Telilä - Kumppani teollisuuden ja tulevaisuuden sähköurakoin
 
 **Verkkotunnus:** telila.fi
 **Toimiala:** electrical

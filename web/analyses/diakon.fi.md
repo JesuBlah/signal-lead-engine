@@ -1,4 +1,4 @@
-# Pika-analyysi: DiakonSiivous
+# Pika-analyysi: Diakon | Asuminen, Siivous, Kotihoito, Terveys, Juhla ja Hau
 
 **Verkkotunnus:** diakon.fi
 **Toimiala:** cleaning

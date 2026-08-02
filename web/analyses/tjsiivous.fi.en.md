@@ -1,4 +1,4 @@
-# Quick analysis: TJ Siivous ja kotiapu
+# Quick analysis: Luotettavaa siivouspalvelua yrityksille ja koteihin | TJ Sii
 
 **Domain:** tjsiivous.fi
 **Industry:** cleaning

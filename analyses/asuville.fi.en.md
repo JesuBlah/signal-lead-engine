@@ -1,4 +1,4 @@
-# Quick analysis: Isännöinti Asuville Oy
+# Quick analysis: Isännöinti Laukaa | Täyden palvelun isännöintitoimisto
 
 **Domain:** asuville.fi
 **Industry:** 

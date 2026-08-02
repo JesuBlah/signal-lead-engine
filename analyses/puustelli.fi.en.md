@@ -1,4 +1,4 @@
-# Quick analysis: TT Better Trading Oy
+# Quick analysis: Laatu ei ole makuasia. | Puustelli
 
 **Domain:** puustelli.fi
 **Industry:** restaurant

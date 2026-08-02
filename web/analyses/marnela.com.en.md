@@ -1,4 +1,4 @@
-# Quick analysis: Safety At Sea Finland Marnela Oy Ltd
+# Quick analysis: Marnela - jo vuodesta 1968
 
 **Domain:** marnela.com
 **Industry:** hvac

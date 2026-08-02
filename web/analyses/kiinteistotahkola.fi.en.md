@@ -1,4 +1,4 @@
-# Quick analysis: Kiinteistö-Tahkola Rovaniemi Oy
+# Quick analysis: Kiinteistötahkola / Kiinteistötahkola - isännöintiä ja välit
 
 **Domain:** kiinteistotahkola.fi
 **Industry:** real_estate
@@ -8,5 +8,5 @@
 
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
 - Conversion tracking is installed on the site.
-- No Meta Pixel was found.
+- Meta Pixel is installed on the site.
 - The site has the following quality issues: 0.

@@ -1,4 +1,4 @@
-# Pika-analyysi: Yrjö Latva-Luopa Oy
+# Pika-analyysi: Kuljetusliike Kurikka | Maa-aineskuljetukset luotettavasti
 
 **Verkkotunnus:** latvaluopa.fi
 **Toimiala:** 

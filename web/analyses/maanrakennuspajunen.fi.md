@@ -1,4 +1,4 @@
-# Pika-analyysi: Maanrakennus Pajunen
+# Pika-analyysi: Maanrakennustyöt Mikkeli | Vuosikymmenten kokemuksella
 
 **Verkkotunnus:** maanrakennuspajunen.fi
 **Toimiala:** laundry
@@ -7,6 +7,6 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseliä ei löytynyt.
 - Sivustolla havaittiin seuraavia laatuongelmia: 0.

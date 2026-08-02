@@ -1,4 +1,4 @@
-# Pika-analyysi: Safai Siivouspalvelut
+# Pika-analyysi: Siivouspalvelu Tampere - Safai
 
 **Verkkotunnus:** safai.fi
 **Toimiala:** cleaning
@@ -7,7 +7,7 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseliä ei löytynyt.
 - Sivustolla havaittiin seuraavia laatuongelmia: 1.
 - Havaitut tekniset liput: slow_response.

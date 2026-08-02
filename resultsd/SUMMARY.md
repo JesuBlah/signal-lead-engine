@@ -1,38 +1,37 @@
 # ads-radar summary — resultsd
 
-## resultsd — 164 domains, 162 reachable, 100 advertisers (62%)
+## resultsd — 164 domains, 163 reachable, 163 advertisers (100%)
 
 | segment | n |
 |---|---|
-| A_ads_weak_site | 13 |
-| B_ads_no_conv_tracking | 32 |
-| C_ads_ok_site | 55 |
-| D_no_ads_detected | 62 |
+| A_ads_weak_site | 20 |
+| B_ads_no_conv_tracking | 56 |
+| C_ads_ok_site | 87 |
 
 | score | company | domain | seg | rev € | issues |
 |---|---|---|---|---|---|
-| 61 | Omenasiivous | omenasiivous.fi | A |  | 2 |
-| 61 | Meredin | meredin.fi | A |  | 2 |
-| 55 | Oy Maritim Ab | maritim.fi | B |  | 1 |
-| 49 | Let's Go Taksi | letsgo.fi | B |  | 0 |
-| 49 | AM-Sähkö Oy | amsahko.net | A |  | 2 |
-| 49 | Smart Heating Oy Pirkanmaa | smartheating.fi | A |  | 2 |
-| 49 | Etalo Isännöinti Oy | etalo.fi | B |  | 0 |
-| 49 | ServiceOne | serviceone.fi | B |  | 0 |
-| 49 | Suunnos Oy | suunnos.fi | A |  | 2 |
-| 49 | Pikkuapu | pikkuapu.fi | A |  | 2 |
-| 48 | Lahden Putkihuolto Oy | lph.fi | C |  | 1 |
-| 48 | Kemiönsaaren Venekeskus Oy | venekeskus.com | C |  | 1 |
-| 48 | Kalmasiivous Vantaa Optimasiivous Oy | optimasiivous.fi | C |  | 1 |
-| 48 | Freesikoti Oy | freesikoti.fi | C |  | 1 |
-| 48 | Helpmax Siivouspalvelut | helpmax.fi | C |  | 1 |
-| 43 | Lämpövelho Oy | lampovelho.fi | B |  | 1 |
-| 43 | REIM Lappeenranta Oy Ltd | reim.fi | B |  | 1 |
-| 43 | Jokilaakson Taloustaitaja Oy | taloustaitaja.fi | B |  | 1 |
-| 43 | WASH UP! | washup.fi | B |  | 1 |
-| 43 | LämpöWire Oy | elfin.fi | B |  | 1 |
-| 43 | Siivouspalvelu Aton-yhtiöt | aton.fi | B |  | 1 |
-| 43 | PKH Siekkinen Oy | pienkonehuoltosiekkinen.fi | B |  | 1 |
-| 43 | Asuntopehtoori Isännöinti Oy | asuntopehtoori.fi | B |  | 1 |
-| 43 | TilaaSiivous | tilaasiivous.com | B |  | 1 |
-| 43 | Insinööritoimisto Putkimaailma Oy | putkimaailma.fi | B |  | 1 |
+| 61 | MMK-Kuljetus - MMK-Kuljetus Oy | mmkkuljetus.fi | A |  | 2 |
+| 61 | Siivouspalvelu Kota - Kotisiivous &amp; Yrityssiivous - Turk | siivouspalvelukota.fi | A |  | 2 |
+| 61 | Vääksyn Konepiste – Lahti Vääksy | Veneet, perämoottorit, ve | venekauppa.com | A |  | 2 |
+| 55 | Yksityinen kotihoito ja kotipalvelut | Alina | Kotona paras | alinahoivatiimi.fi | B |  | 1 |
+| 55 | Siivous Tampere ja Pirkanmaa | Hämeen Laatusiivous Oy | hameenlaatusiivous.fi | B |  | 1 |
+| 55 | Maarakennus Pohjois-Pohjamaa | Luotettavat tekijät | jsinfra.fi | B |  | 1 |
+| 55 | Maanrakennus Oulu | Myös vaihtolavojen vuokraus | koneurakointihartikka.fi | B |  | 1 |
+| 55 | LVI-Asiantuntija Oy | LVI-Asiantuntijasi Etelä-Pohjanmaalla | lviasiantuntija.fi | B |  | 1 |
+| 55 | Siivouspalvelut Espoo | Koti- ja yrityssiivousta | mmsiivouspalvelut.fi | B |  | 1 |
+| 55 | Siivouspalvelut yrityksille | N-Clean Oy | nclean.fi | B |  | 1 |
+| 55 | Maijasto | maijasto.fi | B |  | 1 |
+| 55 | Lattialämmitys tuo lämpöä ja viihtyisyyttä kotiin | Nero Lat | neroll.fi | B |  | 1 |
+| 55 | Isännöintitoimisto ja isännöitsijä Tampereella taloyhtiöille | rehti-isannointi.fi | B |  | 1 |
+| 55 | Laatu ei ole makuasia. | Puustelli | puustelli.fi | B |  | 1 |
+| 55 | Siivoova Oy - Siivouspalvelut Kuopiossa ja Oulussa | siivoova.fi | B |  | 1 |
+| 55 | Sähköliike Joensuussa - S&auml;hk&ouml;-Saarelainen Oy | sahkosaarelainen.fi | B |  | 1 |
+| 55 | Luotettavaa siivouspalvelua yrityksille ja koteihin | TJ Sii | tjsiivous.fi | B |  | 1 |
+| 55 | Iloinen ja reipas siivouspalvelu Tampereella - Urhopesu | urhopesu.fi | B |  | 1 |
+| 55 | Teemme puhtaamman huomisen – Winclean | winclean.fi | B |  | 1 |
+| 54 | Heatco Finland Oy on insinööritoimisto ja LVI-järjestelmien  | heatco.fi | A |  | 2 |
+| 54 | Luotettavat isännöintipalvelut | Siellä hyvä koti, missä suj | kontuoy.fi | A |  | 2 |
+| 54 | Meredin | meredin.fi | A |  | 2 |
+| 54 | Siivouspalvelu kotiin | Jopa 3 tuntia ilmaiseksi | Omenasiiv | omenasiivous.fi | A |  | 2 |
+| 49 | Venehuolto Mikkeli | Myös palvelut veneen säilytykseen | ahmamotor.fi | B |  | 0 |
+| 49 | Isännöinti Laukaa | Täyden palvelun isännöintitoimisto | asuville.fi | B |  | 0 |

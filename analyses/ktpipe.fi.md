@@ -1,4 +1,4 @@
-# Pika-analyysi: K&T Pipe Oy
+# Pika-analyysi: LVI asennukset Lohjalla hoitaa K&amp;T Pipe Oy
 
 **Verkkotunnus:** ktpipe.fi
 **Toimiala:** plumbing

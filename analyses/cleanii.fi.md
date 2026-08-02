@@ -1,4 +1,4 @@
-# Pika-analyysi: CLEANii koti- ja siivouspalvelu
+# Pika-analyysi: CLEANii koti- ja siivouspalvelu - Vantaa, Helsinki, Espoo
 
 **Verkkotunnus:** cleanii.fi
 **Toimiala:** cleaning
@@ -7,6 +7,6 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseliä ei löytynyt.
 - Sivustolla havaittiin seuraavia laatuongelmia: 0.

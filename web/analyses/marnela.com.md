@@ -1,4 +1,4 @@
-# Pika-analyysi: Safety At Sea Finland Marnela Oy Ltd
+# Pika-analyysi: Marnela - jo vuodesta 1968
 
 **Verkkotunnus:** marnela.com
 **Toimiala:** hvac

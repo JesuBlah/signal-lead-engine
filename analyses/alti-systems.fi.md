@@ -1,4 +1,4 @@
-# Pika-analyysi: Alti-Systems Oy
+# Pika-analyysi: Alti-Systems - Vaativa kylmä­tekniikka, jäähdytys ja lämmity
 
 **Verkkotunnus:** alti-systems.fi
 **Toimiala:** electrical

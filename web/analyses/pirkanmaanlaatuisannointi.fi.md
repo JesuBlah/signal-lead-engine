@@ -1,4 +1,4 @@
-# Pika-analyysi: Pirkanmaan Laatuisännöinti Oy
+# Pika-analyysi: Etusivu - Pirkanmaan Laatuis&auml;nn&ouml;inti Oy
 
 **Verkkotunnus:** pirkanmaanlaatuisannointi.fi
 **Toimiala:** cleaning

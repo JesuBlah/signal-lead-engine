@@ -1,4 +1,4 @@
-# Quick analysis: Smobbi Oy
+# Quick analysis: Siivoukset Oulun seudulla - Smobbi
 
 **Domain:** smobbi.fi
 **Industry:** cleaning
@@ -9,5 +9,5 @@
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
 - No conversion tracking was found.
 - No Meta Pixel was found.
-- The site has the following quality issues: 2.
-- Detected technical flags: stale_copyright,slow_response.
+- The site has the following quality issues: 1.
+- Detected technical flags: stale_copyright.

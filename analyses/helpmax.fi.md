@@ -1,4 +1,4 @@
-# Pika-analyysi: Helpmax Siivouspalvelut
+# Pika-analyysi: Kotisiivous ja siivouspalvelut Oulu | Helpmax
 
 **Verkkotunnus:** helpmax.fi
 **Toimiala:** cleaning

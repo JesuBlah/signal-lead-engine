@@ -1,4 +1,4 @@
-# Pika-analyysi: Suomen Pumppaamo-Muovitekniikka Oy
+# Pika-analyysi: www.Suomen Pumppaamo-Muovitekniikka Oy.fi
 
 **Verkkotunnus:** spm-tekniikka.fi
 **Toimiala:** 
@@ -7,6 +7,6 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseliä ei löytynyt.
 - Sivustolla havaittiin seuraavia laatuongelmia: 0.

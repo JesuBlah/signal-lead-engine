@@ -1,4 +1,4 @@
-# Pika-analyysi: Smart Heating Oy Pirkanmaa
+# Pika-analyysi: Kerrostalon lämmitys, lämmön talteenotto (PILP) ja maalämpö
 
 **Verkkotunnus:** smartheating.fi
 **Toimiala:** hvac
@@ -7,7 +7,7 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseliä ei löytynyt.
 - Sivustolla havaittiin seuraavia laatuongelmia: 2.
 - Havaitut tekniset liput: stale_copyright,slow_response.

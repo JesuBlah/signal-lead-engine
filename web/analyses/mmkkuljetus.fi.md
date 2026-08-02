@@ -1,4 +1,4 @@
-# Pika-analyysi: MMK-Kuljetus Oy
+# Pika-analyysi: MMK-Kuljetus - MMK-Kuljetus Oy
 
 **Verkkotunnus:** mmkkuljetus.fi
 **Toimiala:** restaurant

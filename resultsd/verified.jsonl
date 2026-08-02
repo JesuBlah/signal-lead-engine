@@ -1,162 +1,163 @@
-{"domain": "venekauppa.com", "verified": true, "n_creatives": 1, "advertisers": {"AR04842305902293811201": "Vääksyn Konepiste Oy"}, "error": null}
 {"domain": "mmkkuljetus.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR01576006449329340417": "0100100 Solutions Oy"}, "error": null}
 {"domain": "siivouspalvelukota.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR01372900005702008833": "Siivouspalvelu Kota Oy"}, "error": null}
-{"domain": "neroll.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR03159599425811120129": "Nero Lattialämmitys Oy"}, "error": null}
-{"domain": "jsinfra.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR03660443018260905985": "JS-Automoto Oy"}, "error": null}
-{"domain": "sahkosaarelainen.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR01118140378407501825": "Sähkö-Saarelainen Oy"}, "error": null}
-{"domain": "rakennustyohostikka.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR02416114920148959233": "Rakennustyö Hostikka Oy"}, "error": null}
-{"domain": "mrvinfra.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
-{"domain": "nclean.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR06214178457329336321": "N-Clean Oy"}, "error": null}
-{"domain": "lviasiantuntija.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR00214365803473010689": "LVI-Asiantuntija Oy"}, "error": null}
+{"domain": "venekauppa.com", "verified": true, "n_creatives": 1, "advertisers": {"AR04842305902293811201": "Vääksyn Konepiste Oy"}, "error": null}
 {"domain": "alinahoivatiimi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR10277020148418215937": "Alina Hoivatiimi Oy"}, "error": null}
-{"domain": "tarvikecenter.com", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
-{"domain": "winclean.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR06961169760839008257": "Winclean Oy"}, "error": null}
-{"domain": "rehti-isannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
-{"domain": "uusiolampo.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15156521154690154497": "Uusiolämpö Oy"}, "error": null}
-{"domain": "tjairtec.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR04088641748614512641": "TJ-Airtec Oy"}, "error": null}
-{"domain": "maijasto.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14715414235135868929": "Maijasto Oy"}, "error": null}
-{"domain": "mrlt.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
+{"domain": "hameenlaatusiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR00961830541227720705": "Hämeen Laatusiivous Oy"}, "error": null}
+{"domain": "jsinfra.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR03660443018260905985": "JS-Automoto Oy"}, "error": null}
 {"domain": "koneurakointihartikka.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR11895779337867100161": "Koneurakointi Hartikka avoin yhtiö"}, "error": null}
-{"domain": "siivoova.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15068705256923725825": "Siivoova Oy"}, "error": null}
-{"domain": "tjsiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR10699173875511459841": "TJ Remontit Oy"}, "error": null}
-{"domain": "pienkone-ekspertit.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09752386010561380353": "Siilin Pienkone-Ekspertit Oy"}, "error": null}
+{"domain": "lviasiantuntija.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR00214365803473010689": "LVI-Asiantuntija Oy"}, "error": null}
+{"domain": "mmsiivouspalvelut.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
+{"domain": "nclean.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR06214178457329336321": "N-Clean Oy"}, "error": null}
+{"domain": "maijasto.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14715414235135868929": "Maijasto Oy"}, "error": null}
+{"domain": "neroll.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR03159599425811120129": "Nero Lattialämmitys Oy"}, "error": null}
+{"domain": "rehti-isannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
 {"domain": "puustelli.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR04158511220023885825": "Puustelli Group Oy"}, "error": null}
-{"domain": "dsv.com", "verified": true, "n_creatives": 1, "advertisers": {"AR17677679430027182081": "DSV ROAD S.R.L"}, "error": null}
+{"domain": "siivoova.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15068705256923725825": "Siivoova Oy"}, "error": null}
+{"domain": "sahkosaarelainen.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR01118140378407501825": "Sähkö-Saarelainen Oy"}, "error": null}
+{"domain": "tjsiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR10699173875511459841": "TJ Remontit Oy"}, "error": null}
+{"domain": "urhopesu.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09548424473305153537": "Urhopesu Oy"}, "error": null}
+{"domain": "winclean.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR06961169760839008257": "Winclean Oy"}, "error": null}
+{"domain": "heatco.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR13607111496499724289": "Heatco Finland Oy"}, "error": null}
 {"domain": "kontuoy.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15492738616324521985": "MTR-Isännöinti Oy"}, "error": null}
-{"domain": "omenasiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR10092282455282155521": "Omenasiivous Oy"}, "error": null}
 {"domain": "meredin.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR03984698961616175105": "Marina Pargas Ab"}, "error": null}
-{"domain": "sktrengas.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR07007414412449415169": "Sapparin Konetyö Oy"}, "error": null}
-{"domain": "lahdenputkipalvelut.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR03468901152035176449": "Lahden Putkipalvelut Oy"}, "error": null}
-{"domain": "latvaluopa.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR05510983691251220481": "Yrjö Latva-Luopa Oy"}, "error": null}
+{"domain": "omenasiivous.fi", "verified": false, "n_creatives": 0, "advertisers": {}, "error": null}
+{"domain": "ahmamotor.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
 {"domain": "asuville.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
-{"domain": "putkiahti.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR17361402608194945025": "Riku Ahvonen"}, "error": null}
-{"domain": "sahkoasennus-ristimaki.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
 {"domain": "ek-asennustekniikka.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR17620793344105906177": "Mediaplaani Oy"}, "error": null}
 {"domain": "kaivuujakuljetusptmakela.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR17620793344105906177": "Mediaplaani Oy"}, "error": null}
-{"domain": "siskonsiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR16146563858616549377": "Siskon Siivous Oy"}, "error": null}
-{"domain": "rakaskoti.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR17741306381220184065": "Rakas koti oy"}, "error": null}
-{"domain": "mmsiivouspalvelut.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
-{"domain": "ahmamotor.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
-{"domain": "urhopesu.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09548424473305153537": "Urhopesu Oy"}, "error": null}
-{"domain": "hameenlaatusiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR00961830541227720705": "Hämeen Laatusiivous Oy"}, "error": null}
 {"domain": "kolmensepanisannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR10587592059680456705": "Kolmen Sepän Isännöinti Oy"}, "error": null}
+{"domain": "lahdenputkipalvelut.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR03468901152035176449": "Lahden Putkipalvelut Oy"}, "error": null}
+{"domain": "latvaluopa.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR05510983691251220481": "Yrjö Latva-Luopa Oy"}, "error": null}
+{"domain": "mrvinfra.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
+{"domain": "mrlt.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
+{"domain": "pienkone-ekspertit.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09752386010561380353": "Siilin Pienkone-Ekspertit Oy"}, "error": null}
+{"domain": "putkiahti.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR17361402608194945025": "Riku Ahvonen"}, "error": null}
+{"domain": "rakaskoti.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR17741306381220184065": "Rakas koti oy"}, "error": null}
+{"domain": "rakennustyohostikka.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12846216361650683905": "Rakennustyö Hostikka Oy"}, "error": null}
+{"domain": "sahkoasennus-ristimaki.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
+{"domain": "siskonsiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR16146563858616549377": "Siskon Siivous Oy"}, "error": null}
+{"domain": "sktrengas.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR07007414412449415169": "Sapparin Konetyö Oy"}, "error": null}
+{"domain": "tarvikecenter.com", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
+{"domain": "tjairtec.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR04088641748614512641": "TJ-Airtec Oy"}, "error": null}
+{"domain": "uusiolampo.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15156521154690154497": "Uusiolämpö Oy"}, "error": null}
 {"domain": "tunturilapinisannointipalvelu.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR06829555813812535297": "Tunturi-Lapin Isännöintipalvelu Oy"}, "error": null}
-{"domain": "smobbi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15250941458027380737": "Smobbi Oy"}, "error": null}
-{"domain": "laaninkuljetus.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR17217043895473405953": "Läänin Kuljetus Oy"}, "error": null}
-{"domain": "maritim.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR02563802627661889537": "Oy Maritim Ab"}, "error": null}
-{"domain": "kaukokiito.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR07596163753381462017": "Suomen Kaukokiito Oy"}, "error": null}
-{"domain": "hsi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR06943001877378236417": "ESKO JUHANI PIETIKÄINEN"}, "error": null}
+{"domain": "aton.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR13139600698557595649": "Aton Oy"}, "error": null}
+{"domain": "amsahko.net", "verified": true, "n_creatives": 1, "advertisers": {"AR17832279423546556417": "ADVERT.IO, S.A"}, "error": null}
+{"domain": "boatslice.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR11678948291885662209": "Boatslice Oy"}, "error": null}
+{"domain": "elfin.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14450429218422521857": "Elfin"}, "error": null}
+{"domain": "dsv.com", "verified": true, "n_creatives": 1, "advertisers": {"AR16911864805277564929": "Dsv A/S"}, "error": null}
 {"domain": "fluxioisannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR06042813033200222209": "Fluxio Isännöinti Oy"}, "error": null}
-{"domain": "lampovelho.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR04867765171344375809": "Lämpövelho Oy"}, "error": null}
+{"domain": "freesikoti.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR04002286663714734081": "Freesikoti Oy"}, "error": null}
+{"domain": "iloclean.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR04257118171581906945": "IloClean Oy"}, "error": null}
+{"domain": "helpmax.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR02034955711003230209": "CURU Oy"}, "error": null}
 {"domain": "isannointipiste.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR02229118263193763841": "Ainoa & Co Oy"}, "error": null}
+{"domain": "kaukokiito.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR07596163753381462017": "Suomen Kaukokiito Oy"}, "error": null}
+{"domain": "kotisiivooja.com", "verified": true, "n_creatives": 1, "advertisers": {"AR00617975218991792129": "Puhdas Unelma Oy"}, "error": null}
+{"domain": "laaninkuljetus.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR17217043895473405953": "Läänin Kuljetus Oy"}, "error": null}
+{"domain": "kotipuhtaaksi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15745525625269518337": "Sahera Koti Puhtaaksi Oy"}, "error": null}
 {"domain": "lph.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR01176067530041589761": "Keskisuomalainen Oyj"}, "error": null}
-{"domain": "venekeskus.com", "verified": true, "n_creatives": 1, "advertisers": {"AR09485828142464499713": "Kemiönsaaren Venekeskus Oy"}, "error": null}
+{"domain": "lempi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09107647853915799553": "Lempi Kodinhoito Oy"}, "error": null}
+{"domain": "maritim.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR02563802627661889537": "Oy Maritim Ab"}, "error": null}
+{"domain": "pohjanmaansiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR04807895139714334721": "Pohjanmaan Siivous Oy"}, "error": null}
+{"domain": "rakennecenter.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR13632762724818616321": "Riku Latvala"}, "error": null}
 {"domain": "raymarine.com", "verified": true, "n_creatives": 1, "advertisers": {"AR11467228153907249153": "Flir Systems, Inc."}, "error": null}
-{"domain": "heatco.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR13607111496499724289": "Heatco Finland Oy"}, "error": null}
+{"domain": "retta.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR18366547791523610625": "Retta Services Oy"}, "error": null}
 {"domain": "taloustaitaja.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR04386957524021018625": "Tirri Tomi"}, "error": null}
 {"domain": "washup.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR11215491977430695937": "WashUP Oy"}, "error": null}
-{"domain": "elfin.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14450429218422521857": "Elfin"}, "error": null}
-{"domain": "lempi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09107647853915799553": "Lempi Kodinhoito Oy"}, "error": null}
+{"domain": "vuorma.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR05149853194506993665": "Isännöinti Vuorma Oy"}, "error": null}
+{"domain": "diakon.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09451383741701160961": "Vida Design Oy"}, "error": null}
+{"domain": "hygisafe.fi", "verified": false, "n_creatives": 0, "advertisers": {}, "error": null}
+{"domain": "kuopiontehosiivous.fi", "verified": false, "n_creatives": 0, "advertisers": {}, "error": null}
+{"domain": "smobbi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15250941458027380737": "Smobbi Oy"}, "error": null}
+{"domain": "skh.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR10141985174041133057": "SKH-Isännöinti Oy"}, "error": null}
+{"domain": "tasotalo.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR00907684524182208513": "Tasotalo Oy"}, "error": null}
+{"domain": "tikoisannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR11310801991833223169": "TiKo Isännöinti Oy"}, "error": null}
+{"domain": "tuoretie.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14236346573553401857": "Tuoretie Oy"}, "error": null}
+{"domain": "trioisannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR11925992714807541761": "Trio Isännöinti"}, "error": null}
+{"domain": "telila.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR16198894332856500225": "Telilän Sähkötyö Oy"}, "error": null}
+{"domain": "etalo.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR10854195102243356673": "eTalo Isännöinti Oy"}, "error": null}
+{"domain": "finder.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
+{"domain": "hsi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR06943001877378236417": "ESKO JUHANI PIETIKÄINEN"}, "error": null}
+{"domain": "huoltosiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR05341169050963673089": "Huoltosiivous Turku Oy"}, "error": null}
+{"domain": "kiinteistotahkola.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR16160993746140266497": "Kiinteistö-Tahkola Helsinki Oy"}, "error": null}
+{"domain": "kodinhoitajapaivaksi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR05901490192342056961": "Inkan Kotitalouspalvelut Oy"}, "error": null}
+{"domain": "kotileena.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15586284103543029761": "Kotileena Oy"}, "error": null}
+{"domain": "kotirinki.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15929071147153358849": "Kotirinki Oy"}, "error": null}
+{"domain": "lampovelho.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR04867765171344375809": "Lämpövelho Oy"}, "error": null}
+{"domain": "loistesiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR00917207531829329921": "Loiste Siivous Oy"}, "error": null}
+{"domain": "letsgo.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR05409241636905418753": "DRide Oy"}, "error": null}
+{"domain": "ktpipe.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09918366567903526913": "K&T Pipe Oy"}, "error": null}
+{"domain": "maansiirtomakela.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15179026783321194497": "Maansiirto Harry Mäkelä Oy"}, "error": null}
 {"domain": "pesurivuokraus.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12803183778642001921": "Wise Rental Services Oy"}, "error": null}
 {"domain": "optimasiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR17573761321910927361": "Optimasiivous Oy"}, "error": null}
-{"domain": "kotipuhtaaksi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15745525625269518337": "Sahera Koti Puhtaaksi Oy"}, "error": null}
-{"domain": "freesikoti.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR04002286663714734081": "Freesikoti Oy"}, "error": null}
-{"domain": "pohjanmaansiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR04807895139714334721": "Pohjanmaan Siivous Oy"}, "error": null}
-{"domain": "helpmax.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR02034955711003230209": "CURU Oy"}, "error": null}
-{"domain": "huoltosiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR05341169050963673089": "Huoltosiivous Turku Oy"}, "error": null}
-{"domain": "aton.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR13139600698557595649": "Aton Oy"}, "error": null}
-{"domain": "kodinhoitajapaivaksi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR05901490192342056961": "Inkan Kotitalouspalvelut Oy"}, "error": null}
-{"domain": "boatslice.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR11678948291885662209": "Boatslice Oy"}, "error": null}
-{"domain": "tuoretie.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14236346573553401857": "Tuoretie Oy"}, "error": null}
-{"domain": "skh.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR10141985174041133057": "SKH-Isännöinti Oy"}, "error": null}
-{"domain": "telila.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR16198894332856500225": "Telilän Sähkötyö Oy"}, "error": null}
-{"domain": "kuopiontehosiivous.fi", "verified": false, "n_creatives": 0, "advertisers": {}, "error": null}
-{"domain": "kotova.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR18279717056175669249": "Kotova Oy"}, "error": null}
-{"domain": "tasotalo.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR00907684524182208513": "Tasotalo Oy"}, "error": null}
-{"domain": "torttilaoy.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR13556081804644974593": "Torttila Oy"}, "error": null}
-{"domain": "hygisafe.fi", "verified": false, "n_creatives": 0, "advertisers": {}, "error": null}
-{"domain": "soutu.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR02791854533402165249": "Soutu Finland Oy"}, "error": null}
-{"domain": "trioisannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR11925992714807541761": "Trio Isännöinti"}, "error": null}
-{"domain": "diakon.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09451383741701160961": "Vida Design Oy"}, "error": null}
-{"domain": "siivoussolina.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR04406949737790439425": "Kiinteistöpalvelu Solina Oy"}, "error": null}
-{"domain": "letsgo.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR05409241636905418753": "DRide Oy"}, "error": null}
-{"domain": "retta.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR18366547791523610625": "Retta Services Oy"}, "error": null}
-{"domain": "maansiirtomakela.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15179026783321194497": "Maansiirto Harry Mäkelä Oy"}, "error": null}
-{"domain": "amsahko.net", "verified": true, "n_creatives": 1, "advertisers": {"AR17832279423546556417": "ADVERT.IO, S.A"}, "error": null}
-{"domain": "kiinteistotahkola.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR16160993746140266497": "Kiinteistö-Tahkola Helsinki Oy"}, "error": null}
-{"domain": "smartheating.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15084193733626822657": "Smart Heating Oy"}, "error": null}
-{"domain": "pirkanmaanlaatuisannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR01877848178137497601": "Joni Ilari Brander"}, "error": null}
-{"domain": "ktpipe.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09918366567903526913": "K&T Pipe Oy"}, "error": null}
-{"domain": "etalo.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR10854195102243356673": "eTalo Isännöinti Oy"}, "error": null}
-{"domain": "reiluisannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR17158995539862224897": "Reilu Isännöinti Oy"}, "error": null}
-{"domain": "sivina.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14760310490353631233": "Campmedia Oy"}, "error": null}
-{"domain": "kotirinki.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15929071147153358849": "Kotirinki Oy"}, "error": null}
-{"domain": "taloasema.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR06289230493976100865": "Taloasema Oy"}, "error": null}
-{"domain": "rakennecenter.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR13632762724818616321": "Riku Latvala"}, "error": null}
-{"domain": "loistesiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR00917207531829329921": "Loiste Siivous Oy"}, "error": null}
-{"domain": "kotisiivooja.com", "verified": true, "n_creatives": 1, "advertisers": {"AR00617975218991792129": "Puhdas Unelma Oy"}, "error": null}
-{"domain": "iloclean.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR04257118171581906945": "IloClean Oy"}, "error": null}
-{"domain": "kotileena.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15586284103543029761": "Kotileena Oy"}, "error": null}
-{"domain": "finder.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR06735455829136244737": "Dagmar Scale Oy"}, "error": null}
-{"domain": "serviceone.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09573102255876341761": "A&A Palvelut Oy"}, "error": null}
-{"domain": "mkone.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR16165263089661378561": "M-Kone"}, "error": null}
-{"domain": "suunnos.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14636251287721607169": "Medialuotsi OY"}, "error": null}
-{"domain": "pikkuapu.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR11428884214896918529": "Madleena Anne Marina Konttinen"}, "error": null}
 {"domain": "arvojes.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15422992470606086145": "Arvojes Oy"}, "error": null}
-{"domain": "ayravainen.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR11196297364857946113": "Äyräväinen Oy"}, "error": null}
-{"domain": "talotili.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR08790213830455066625": "Lopen Talo & Tili Oy"}, "error": null}
-{"domain": "lvitsto-karlsson.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR10481560681625681921": "LVIS-insinööritoimisto Karlsson, Karves & Co Oy"}, "error": null}
+{"domain": "mkone.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR16165263089661378561": "M-Kone"}, "error": null}
+{"domain": "pirkanmaanlaatuisannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR01877848178137497601": "Joni Ilari Brander"}, "error": null}
+{"domain": "reiluisannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR17158995539862224897": "Reilu Isännöinti Oy"}, "error": null}
+{"domain": "serviceone.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09573102255876341761": "A&A Palvelut Oy"}, "error": null}
+{"domain": "sivina.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14760310490353631233": "Campmedia Oy"}, "error": null}
+{"domain": "smartheating.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15084193733626822657": "Smart Heating Oy"}, "error": null}
+{"domain": "suunnos.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14636251287721607169": "Medialuotsi OY"}, "error": null}
+{"domain": "taloasema.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR06289230493976100865": "Taloasema Oy"}, "error": null}
+{"domain": "venekeskus.com", "verified": true, "n_creatives": 1, "advertisers": {"AR09485828142464499713": "Kemiönsaaren Venekeskus Oy"}, "error": null}
 {"domain": "adaisannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR07140818415945515009": "Netice Oy"}, "error": null}
-{"domain": "tikoisannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR11310801991833223169": "TiKo Isännöinti Oy"}, "error": null}
-{"domain": "tammentalot.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12944710905324634113": "Isännöintikeskus Tammen Oy"}, "error": null}
-{"domain": "puhdina.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12615933151680659457": "Puhdina Oy"}, "error": null}
+{"domain": "ayravainen.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR11196297364857946113": "Äyräväinen Oy"}, "error": null}
 {"domain": "atlasenergia.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15053233247125241857": "Atlas Energia Oy"}, "error": null}
+{"domain": "kotova.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR18279717056175669249": "Kotova Oy"}, "error": null}
 {"domain": "kotiapusi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR13632044056530911233": "AITEK Solutions Oy"}, "error": null}
-{"domain": "lipalvelu.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14382299887372861441": "Lännen Isännöintipalvelu Oy"}, "error": null}
-{"domain": "reim.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR03496129183107514369": "REIM Pääkaupunkiseutu Oy"}, "error": null}
-{"domain": "fallenius.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR07240545804211978241": "Fluxio Isännöinti Oy"}, "error": null}
-{"domain": "pienkonehuoltosiekkinen.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR02507275755625381889": "Pienkonehuolto Siekkinen Oy"}, "error": null}
-{"domain": "asuntopehtoori.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR03401824689268457473": "Asuntopehtoori"}, "error": null}
-{"domain": "tilaasiivous.com", "verified": true, "n_creatives": 1, "advertisers": {"AR18436142273356890113": "Ardit Azemi"}, "error": null}
-{"domain": "lvi-sasto.com", "verified": true, "n_creatives": 1, "advertisers": {"AR12048214427351121921": "Lvi-Sasto Oy"}, "error": null}
-{"domain": "tuplaluuta.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR00237533612981878785": "Design Inspis Oy"}, "error": null}
-{"domain": "teljanet.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR05056224771470000129": "Teljän energiatekniikka"}, "error": null}
-{"domain": "paloturvasuunnittelu.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14636251287721607169": "Medialuotsi OY"}, "error": null}
-{"domain": "putkimaailma.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14636251287721607169": "Medialuotsi OY"}, "error": null}
-{"domain": "alitustekniikka.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
-{"domain": "isojoo.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09097918241161871361": "Vertigo Nordic Oy"}, "error": null}
-{"domain": "vaaratek.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR10469578427244478465": "Vaaratek"}, "error": null}
-{"domain": "vsenergiatalo.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR18396931395197861889": "VS-Energiatalo Oy"}, "error": null}
-{"domain": "nasinsiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14614908512896024577": "advert.io lda"}, "error": null}
-{"domain": "safai.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR18299091052352503809": "Deepesh Kalura"}, "error": null}
+{"domain": "lvitsto-karlsson.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR10481560681625681921": "LVIS-insinööritoimisto Karlsson, Karves & Co Oy"}, "error": null}
+{"domain": "puhdina.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12615933151680659457": "Puhdina Oy"}, "error": null}
+{"domain": "siivoussolina.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR04406949737790439425": "Kiinteistöpalvelu Solina Oy"}, "error": null}
+{"domain": "soutu.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR02791854533402165249": "Soutu Finland Oy"}, "error": null}
+{"domain": "talotili.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR08790213830455066625": "Lopen Talo & Tili Oy"}, "error": null}
+{"domain": "tammentalot.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12944710905324634113": "Isännöintikeskus Tammen Oy"}, "error": null}
+{"domain": "torttilaoy.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR13556081804644974593": "Torttila Oy"}, "error": null}
 {"domain": "cleanspot.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR06963229438175608833": "Cleanspot Oy"}, "error": null}
-{"domain": "yrityssiivoushelsinki.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR13184463075073327105": "Kari Toivonen"}, "error": null}
-{"domain": "siivouseliitti.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09669518877192617985": "Huolto Eliitti Oy"}, "error": null}
-{"domain": "vapaa-aika.com", "verified": true, "n_creatives": 1, "advertisers": {"AR02450287294863638529": "Vapaa-ajan tarviketalo AK&Co Oy"}, "error": null}
-{"domain": "trinomi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR16232269965367967745": "Siivouspalvelu Trinomi Oy"}, "error": null}
-{"domain": "tenyhtio.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15827291194016137217": "TEN-yhtiö Oy"}, "error": null}
+{"domain": "alitustekniikka.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
+{"domain": "asuntopehtoori.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR03401824689268457473": "Asuntopehtoori"}, "error": null}
+{"domain": "isojoo.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09097918241161871361": "Vertigo Nordic Oy"}, "error": null}
 {"domain": "duosiivouspalvelut.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14867404400367763457": "Iasy Oy"}, "error": null}
 {"domain": "greenvibe.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15671488369135714305": "GreenVibe Palvelut Oy"}, "error": null}
+{"domain": "lvi-sasto.com", "verified": true, "n_creatives": 1, "advertisers": {"AR12048214427351121921": "Lvi-Sasto Oy"}, "error": null}
+{"domain": "lipalvelu.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14382299887372861441": "Lännen Isännöintipalvelu Oy"}, "error": null}
+{"domain": "fallenius.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR07240545804211978241": "Fluxio Isännöinti Oy"}, "error": null}
 {"domain": "marnela.com", "verified": true, "n_creatives": 1, "advertisers": {"AR04067141717856354305": "Safety at Sea Finland Marnela Oy Ltd"}, "error": null}
 {"domain": "oit.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR07241797477941116929": "OIT Isännöinti Oy"}, "error": null}
-{"domain": "lapinlviasennus.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR00343202968243273729": "Lapin LVI-asennu Oy"}, "error": null}
+{"domain": "pikkuapu.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR11428884214896918529": "Madleena Anne Marina Konttinen"}, "error": null}
+{"domain": "paloturvasuunnittelu.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14636251287721607169": "Medialuotsi OY"}, "error": null}
+{"domain": "pienkonehuoltosiekkinen.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR02507275755625381889": "Pienkonehuolto Siekkinen Oy"}, "error": null}
+{"domain": "putkimaailma.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR17149942985752838145": "Yksityishenkilö Jussi"}, "error": null}
+{"domain": "reim.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR03496129183107514369": "REIM Pääkaupunkiseutu Oy"}, "error": null}
+{"domain": "safai.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR18299091052352503809": "Deepesh Kalura"}, "error": null}
+{"domain": "siivouseliitti.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09669518877192617985": "Huolto Eliitti Oy"}, "error": null}
+{"domain": "tilaasiivous.com", "verified": true, "n_creatives": 1, "advertisers": {"AR18436142273356890113": "Ardit Azemi"}, "error": null}
+{"domain": "tuplaluuta.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR00237533612981878785": "Design Inspis Oy"}, "error": null}
+{"domain": "trinomi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR16232269965367967745": "Siivouspalvelu Trinomi Oy"}, "error": null}
+{"domain": "tenyhtio.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15827291194016137217": "TEN-yhtiö Oy"}, "error": null}
+{"domain": "vsenergiatalo.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR18396931395197861889": "VS-Energiatalo Oy"}, "error": null}
+{"domain": "yrityssiivoushelsinki.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR13184463075073327105": "Kari Toivonen"}, "error": null}
+{"domain": "cleanii.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14636251287721607169": "Medialuotsi OY"}, "error": null}
 {"domain": "alti-systems.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR04206249386381934593": "Alti-Systems Oy"}, "error": null}
-{"domain": "vesitaito.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14158581036698566657": "Insinööritoimisto Vesitaito Oy"}, "error": null}
-{"domain": "terwaisannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15448449540633395201": "Isännöintipalvelu Terwa"}, "error": null}
+{"domain": "jmlaatuisannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR01660545750905389057": "JM Laatuisannointi Oy"}, "error": null}
+{"domain": "lapinlviasennus.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR00343202968243273729": "Lapin LVI-asennu Oy"}, "error": null}
+{"domain": "maanrakennuspajunen.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR05163664529430675457": "Maanrakennus Pajunen avoin yhtiö"}, "error": null}
 {"domain": "lvisuunnittelucenter.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR02486231996422946817": "Sähkömatti Oy"}, "error": null}
-{"domain": "suomenputkitaso.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12372658077957095425": "Suomen Putkitaso Oy"}, "error": null}
+{"domain": "nasinsiivous.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14614908512896024577": "advert.io lda"}, "error": null}
+{"domain": "puhtosin.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09994096084101627905": "Puhtosin Oy"}, "error": null}
 {"domain": "piirosto.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR01579591321092358145": "Piirosto Oy"}, "error": null}
 {"domain": "spm-tekniikka.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14220292853384347649": "Teemu Aleksi Suhonen"}, "error": null}
-{"domain": "maanrakennuspajunen.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR05163664529430675457": "Maanrakennus Pajunen avoin yhtiö"}, "error": null}
-{"domain": "cleanii.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14636251287721607169": "Medialuotsi OY"}, "error": null}
-{"domain": "puhtosin.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR09994096084101627905": "Puhtosin Oy"}, "error": null}
+{"domain": "suomenputkitaso.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12372658077957095425": "Suomen Putkitaso Oy"}, "error": null}
 {"domain": "tasolaiset.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR18111068327710294017": "Tasolaiset Oy"}, "error": null}
+{"domain": "terwaisannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR15448449540633395201": "Isännöintipalvelu Terwa"}, "error": null}
+{"domain": "teljanet.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR05056224771470000129": "Teljän energiatekniikka"}, "error": null}
 {"domain": "tehoplus.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR13285129789867294721": "Siivouspalvelu Teho+"}, "error": null}
-{"domain": "jmlaatuisannointi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR01660545750905389057": "JM Laatuisannointi Oy"}, "error": null}
+{"domain": "vapaa-aika.com", "verified": true, "n_creatives": 1, "advertisers": {"AR02450287294863638529": "Vapaa-ajan tarviketalo AK&Co Oy"}, "error": null}
+{"domain": "vaaratek.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR10469578427244478465": "Vaaratek"}, "error": null}
 {"domain": "veneva.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR12630029045367570433": "Fonecta Oy"}, "error": null}
-{"domain": "wb-sails.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR00681432450257125377": "WB-Sails Ltd Oy"}, "error": null}
+{"domain": "vesitaito.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR14158581036698566657": "Insinööritoimisto Vesitaito Oy"}, "error": null}
 {"domain": "akkuteho.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR11673738462195875841": "Akku-Teho Marine Oy"}, "error": null}
 {"domain": "siivouspalvelutloytty.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR17353342535128317953": "Siivouspalvelut Löytty"}, "error": null}
+{"domain": "wb-sails.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR00681432450257125377": "WB-Sails Ltd Oy"}, "error": null}
 {"domain": "lit.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR02591061625448431617": "Lahden Isännöitsijätoimisto Oy"}, "error": null}
 {"domain": "talokompassi.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR07635445696069369857": "Talokompassi Oy"}, "error": null}
 {"domain": "siivousystavat.fi", "verified": true, "n_creatives": 1, "advertisers": {"AR01134503344811802625": "Johanna Oksanen"}, "error": null}

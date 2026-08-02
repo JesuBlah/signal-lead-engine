@@ -1,4 +1,4 @@
-# Quick analysis: Lahden Putkihuolto Oy
+# Quick analysis: Henkilökunta valmiina palvelukseen | Lahden Putkihuolto Oy
 
 **Domain:** lph.fi
 **Industry:** plumbing

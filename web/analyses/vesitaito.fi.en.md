@@ -1,4 +1,4 @@
-# Quick analysis: Insinööritoimisto Vesitaito Oy
+# Quick analysis: Energiasuunnittelun ja elinkaariajattelun edelläkävijä | Ves
 
 **Domain:** vesitaito.fi
 **Industry:** 

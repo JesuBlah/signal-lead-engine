@@ -1,4 +1,4 @@
-# Pika-analyysi: Atlas Energia Oy
+# Pika-analyysi: Suunnittelupalvelut lämpöpumppuratkaisuihin | Atlas Energia
 
 **Verkkotunnus:** atlasenergia.fi
 **Toimiala:** hvac

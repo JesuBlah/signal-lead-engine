@@ -1,4 +1,4 @@
-# Pika-analyysi: Rehti-Isännöinti Oy
+# Pika-analyysi: Isännöintitoimisto ja isännöitsijä Tampereella taloyhtiöille
 
 **Verkkotunnus:** rehti-isannointi.fi
 **Toimiala:** accounting

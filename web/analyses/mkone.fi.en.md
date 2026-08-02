@@ -1,4 +1,4 @@
-# Quick analysis: M-Kone
+# Quick analysis: M-Kone - Perämoottorin varaosat
 
 **Domain:** mkone.fi
 **Industry:** 

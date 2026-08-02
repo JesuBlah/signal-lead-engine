@@ -1,4 +1,4 @@
-# Quick analysis: Alina Kuopio, keskusta
+# Quick analysis: Yksityinen kotihoito ja kotipalvelut | Alina | Kotona paras
 
 **Domain:** alinahoivatiimi.fi
 **Industry:** 

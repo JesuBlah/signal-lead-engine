@@ -1,4 +1,4 @@
-# Pika-analyysi: Insinööritoimisto Karlsson Karves & Co Oy LVIS
+# Pika-analyysi: LVI-insinööritoimisto Karlsson, Karves &amp; Co Oy
 
 **Verkkotunnus:** lvitsto-karlsson.fi
 **Toimiala:** plumbing

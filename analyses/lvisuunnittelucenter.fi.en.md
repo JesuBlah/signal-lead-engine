@@ -1,4 +1,4 @@
-# Quick analysis: LVI-suunnittelu Center Oy
+# Quick analysis: LVI-suunnittelu I LVI-suunnitelmat yli 60 vuoden kokemuksell
 
 **Domain:** lvisuunnittelucenter.fi
 **Industry:** hvac
@@ -7,6 +7,6 @@
 ## Findings
 
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
-- No conversion tracking was found.
+- Conversion tracking is installed on the site.
 - No Meta Pixel was found.
 - The site has the following quality issues: 0.

@@ -1,4 +1,4 @@
-# Pika-analyysi: Sivina Helsinki
+# Pika-analyysi: Sivina Oy – Kotisiivous &amp; palvelut lapsiperheille ja kot
 
 **Verkkotunnus:** sivina.fi
 **Toimiala:** cleaning
@@ -8,5 +8,5 @@
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
 - Konversioseuranta löytyy sivustolta.
-- Meta-pikseliä ei löytynyt.
+- Meta-pikseli löytyy sivustolta.
 - Sivustolla havaittiin seuraavia laatuongelmia: 0.

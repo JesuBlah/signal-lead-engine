@@ -1,4 +1,4 @@
-# Pika-analyysi: Tuoretie Oy
+# Pika-analyysi: Tie tuottajilta ruokapöytiin - Tuoretie
 
 **Verkkotunnus:** tuoretie.fi
 **Toimiala:** 

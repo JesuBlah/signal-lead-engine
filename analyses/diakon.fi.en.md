@@ -1,4 +1,4 @@
-# Quick analysis: DiakonSiivous
+# Quick analysis: Diakon | Asuminen, Siivous, Kotihoito, Terveys, Juhla ja Hau
 
 **Domain:** diakon.fi
 **Industry:** cleaning

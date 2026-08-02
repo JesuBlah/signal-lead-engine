@@ -1,4 +1,4 @@
-# Pika-analyysi: Kaivuu ja kuljetus P & T Mäkelä
+# Pika-analyysi: Kaivuut Naantali | Kattavat kaivuutyöt Naantalin seudulle
 
 **Verkkotunnus:** kaivuujakuljetusptmakela.fi
 **Toimiala:** 

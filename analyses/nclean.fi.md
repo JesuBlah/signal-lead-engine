@@ -1,4 +1,4 @@
-# Pika-analyysi: N-Clean Tampere
+# Pika-analyysi: Siivouspalvelut yrityksille | N-Clean Oy
 
 **Verkkotunnus:** nclean.fi
 **Toimiala:** hotel

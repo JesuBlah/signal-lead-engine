@@ -1,4 +1,4 @@
-# Pika-analyysi: Pesurivuokraus
+# Pika-analyysi: Pesurivuokraus.fi - Tekstiilipesurin vuokraus, Höyrypesurin 
 
 **Verkkotunnus:** pesurivuokraus.fi
 **Toimiala:** 
@@ -8,6 +8,5 @@
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
 - Konversioseuranta löytyy sivustolta.
-- Meta-pikseliä ei löytynyt.
-- Sivustolla havaittiin seuraavia laatuongelmia: 1.
-- Havaitut tekniset liput: slow_response.
+- Meta-pikseli löytyy sivustolta.
+- Sivustolla havaittiin seuraavia laatuongelmia: 0.

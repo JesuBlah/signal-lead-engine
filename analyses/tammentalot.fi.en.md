@@ -1,4 +1,4 @@
-# Quick analysis: Isännöintikeskus Tammen Oy
+# Quick analysis: Isännöinti Lahti | Vastuullinen isännöitsijä | Tammentalot
 
 **Domain:** tammentalot.fi
 **Industry:** accounting

@@ -1,4 +1,4 @@
-# Pika-analyysi: Reilu Isännöinti Oy
+# Pika-analyysi: Reilu Isännöinti &#8211; Turhautuminen vanhakantaisiin työta
 
 **Verkkotunnus:** reiluisannointi.fi
 **Toimiala:** 
@@ -8,5 +8,5 @@
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
 - Konversioseuranta löytyy sivustolta.
-- Meta-pikseliä ei löytynyt.
+- Meta-pikseli löytyy sivustolta.
 - Sivustolla havaittiin seuraavia laatuongelmia: 0.

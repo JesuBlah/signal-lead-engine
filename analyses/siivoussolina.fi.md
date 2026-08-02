@@ -1,4 +1,4 @@
-# Pika-analyysi: Palokan Kotipalvelu
+# Pika-analyysi: Siivousfirma, siivouspalvelu, kotisiivous &amp; siivousapu J
 
 **Verkkotunnus:** siivoussolina.fi
 **Toimiala:** cleaning
@@ -9,5 +9,4 @@
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
 - Konversioseurantaa ei löytynyt.
 - Meta-pikseliä ei löytynyt.
-- Sivustolla havaittiin seuraavia laatuongelmia: 1.
-- Havaitut tekniset liput: slow_response.
+- Sivustolla havaittiin seuraavia laatuongelmia: 0.

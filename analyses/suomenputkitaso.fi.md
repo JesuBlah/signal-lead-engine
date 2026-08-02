@@ -1,4 +1,4 @@
-# Pika-analyysi: Suomen Putkitaso Oy
+# Pika-analyysi: Viemäriremontti Keski-Suomi | Suunnittelu- ja konsultointi
 
 **Verkkotunnus:** suomenputkitaso.fi
 **Toimiala:** 

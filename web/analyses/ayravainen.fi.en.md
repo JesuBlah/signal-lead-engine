@@ -1,4 +1,4 @@
-# Quick analysis: Äyräväinen Oy
+# Quick analysis: Talotekninen suunnittelu - Insinööritoimisto Äyräväinen
 
 **Domain:** ayravainen.fi
 **Industry:** hotel

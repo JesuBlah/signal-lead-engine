@@ -1,4 +1,4 @@
-# Pika-analyysi: TJ-Airtec Oy
+# Pika-analyysi: Ilmanvaihtotyöt yrityksille - TJ-Airtec Oy
 
 **Verkkotunnus:** tjairtec.fi
 **Toimiala:** hvac
@@ -9,5 +9,4 @@
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
 - Konversioseurantaa ei löytynyt.
 - Meta-pikseli löytyy sivustolta.
-- Sivustolla havaittiin seuraavia laatuongelmia: 1.
-- Havaitut tekniset liput: slow_response.
+- Sivustolla havaittiin seuraavia laatuongelmia: 0.

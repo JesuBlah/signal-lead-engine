@@ -1,4 +1,4 @@
-# Pika-analyysi: Lvi-Asiantuntija Oy
+# Pika-analyysi: LVI-Asiantuntija Oy | LVI-Asiantuntijasi Etelä-Pohjanmaalla
 
 **Verkkotunnus:** lviasiantuntija.fi
 **Toimiala:** hvac

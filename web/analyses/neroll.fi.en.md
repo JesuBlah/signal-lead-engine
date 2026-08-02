@@ -1,4 +1,4 @@
-# Quick analysis: Nero Lattialämmitys Oy
+# Quick analysis: Lattialämmitys tuo lämpöä ja viihtyisyyttä kotiin | Nero Lat
 
 **Domain:** neroll.fi
 **Industry:** 

@@ -1,4 +1,4 @@
-# Pika-analyysi: Siskon Siivous Oy
+# Pika-analyysi: Siivouspalvelut yrityksille – Siskon Siivous
 
 **Verkkotunnus:** siskonsiivous.fi
 **Toimiala:** cleaning

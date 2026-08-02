@@ -1,4 +1,4 @@
-# Pika-analyysi: Kiinteistö-Tahkola Rovaniemi Oy
+# Pika-analyysi: Kiinteistötahkola / Kiinteistötahkola - isännöintiä ja välit
 
 **Verkkotunnus:** kiinteistotahkola.fi
 **Toimiala:** real_estate
@@ -8,5 +8,5 @@
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
 - Konversioseuranta löytyy sivustolta.
-- Meta-pikseliä ei löytynyt.
+- Meta-pikseli löytyy sivustolta.
 - Sivustolla havaittiin seuraavia laatuongelmia: 0.

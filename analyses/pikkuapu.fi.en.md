@@ -1,4 +1,4 @@
-# Quick analysis: Pikkuapu
+# Quick analysis: Pikkuapu – Joskus sitä tarvitsee
 
 **Domain:** pikkuapu.fi
 **Industry:** cleaning
@@ -7,7 +7,7 @@
 ## Findings
 
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
-- No conversion tracking was found.
+- Conversion tracking is installed on the site.
 - No Meta Pixel was found.
-- The site has the following quality issues: 2.
-- Detected technical flags: stale_copyright,slow_response.
+- The site has the following quality issues: 1.
+- Detected technical flags: stale_copyright.

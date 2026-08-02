@@ -1,4 +1,4 @@
-# Quick analysis: Lahden Isännöitsijätoimisto Oy
+# Quick analysis: Lahden Isännöitsijätoimisto Oy - Asumisen asialla – Lahti
 
 **Domain:** lit.fi
 **Industry:** 

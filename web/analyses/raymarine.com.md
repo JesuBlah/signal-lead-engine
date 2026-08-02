@@ -1,4 +1,4 @@
-# Pika-analyysi: Raymarine Finland Oy
+# Pika-analyysi: Raymarine | UK | Reliable Marine and Boat Electronics
 
 **Verkkotunnus:** raymarine.com
 **Toimiala:** 
@@ -8,6 +8,6 @@
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
 - Konversioseuranta löytyy sivustolta.
-- Meta-pikseliä ei löytynyt.
+- Meta-pikseli löytyy sivustolta.
 - Sivustolla havaittiin seuraavia laatuongelmia: 1.
 - Havaitut tekniset liput: slow_response.

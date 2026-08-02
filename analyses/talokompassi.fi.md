@@ -1,4 +1,4 @@
-# Pika-analyysi: Talokompassi Oy
+# Pika-analyysi: TaloKompassi Oy - Isännöintiä Helsingissä, Espoossa ja Vanta
 
 **Verkkotunnus:** talokompassi.fi
 **Toimiala:** accounting

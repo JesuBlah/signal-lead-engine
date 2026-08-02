@@ -1,4 +1,4 @@
-# Pika-analyysi: Lahden Putkipalvelut Oy
+# Pika-analyysi: Putkityöt Lahti | Kokenut LVI-asiantuntijasi Päijät-Hämeessä
 
 **Verkkotunnus:** lahdenputkipalvelut.fi
 **Toimiala:** plumbing

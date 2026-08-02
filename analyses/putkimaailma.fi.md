@@ -1,4 +1,4 @@
-# Pika-analyysi: Insinööritoimisto Putkimaailma Oy
+# Pika-analyysi: Insinööritoimisto Putkimaailma Oy | LVI-suunnittelu ja -sane
 
 **Verkkotunnus:** putkimaailma.fi
 **Toimiala:** plumbing
@@ -7,7 +7,7 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseliä ei löytynyt.
 - Sivustolla havaittiin seuraavia laatuongelmia: 1.
 - Havaitut tekniset liput: slow_response.

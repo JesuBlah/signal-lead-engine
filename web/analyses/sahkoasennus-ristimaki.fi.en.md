@@ -1,4 +1,4 @@
-# Quick analysis: Sähköasennus Ristimäki Oy
+# Quick analysis: Sähköurakointi Turku | Sähköasennus Ristimäki Oy
 
 **Domain:** sahkoasennus-ristimaki.fi
 **Industry:** electrical

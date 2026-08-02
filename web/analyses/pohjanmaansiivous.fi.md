@@ -1,4 +1,4 @@
-# Pika-analyysi: Pohjanmaan Siivous Oy
+# Pika-analyysi: Pohjanmaan Siivous | Siivouspalvelu Vaasa, Oulu, Seinäjoki
 
 **Verkkotunnus:** pohjanmaansiivous.fi
 **Toimiala:** cleaning
@@ -8,6 +8,6 @@
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
 - Konversioseuranta löytyy sivustolta.
-- Meta-pikseliä ei löytynyt.
+- Meta-pikseli löytyy sivustolta.
 - Sivustolla havaittiin seuraavia laatuongelmia: 1.
 - Havaitut tekniset liput: slow_response.

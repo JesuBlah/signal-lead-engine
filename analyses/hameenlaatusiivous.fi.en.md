@@ -1,4 +1,4 @@
-# Quick analysis: Hämeen Laatusiivous Oy
+# Quick analysis: Siivous Tampere ja Pirkanmaa | Hämeen Laatusiivous Oy
 
 **Domain:** hameenlaatusiivous.fi
 **Industry:** cleaning
@@ -9,4 +9,5 @@
 - Google Ads activity is live (confirmed via Google's public Ads Transparency Center).
 - No conversion tracking was found.
 - Meta Pixel is installed on the site.
-- The site has the following quality issues: 0.
+- The site has the following quality issues: 1.
+- Detected technical flags: slow_response.

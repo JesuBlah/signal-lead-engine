@@ -1,4 +1,4 @@
-# Pika-analyysi: Akku-Teho Marine Oy
+# Pika-analyysi: Akku-Teho Marine Oy - Kaikkea veneilyyn
 
 **Verkkotunnus:** akkuteho.fi
 **Toimiala:** 

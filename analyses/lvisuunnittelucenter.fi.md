@@ -1,4 +1,4 @@
-# Pika-analyysi: LVI-suunnittelu Center Oy
+# Pika-analyysi: LVI-suunnittelu I LVI-suunnitelmat yli 60 vuoden kokemuksell
 
 **Verkkotunnus:** lvisuunnittelucenter.fi
 **Toimiala:** hvac
@@ -7,6 +7,6 @@
 ## Havainnot
 
 - Google-mainonta on aktiivista (vahvistettu Googlen julkisesta mainostajarekisteristä).
-- Konversioseurantaa ei löytynyt.
+- Konversioseuranta löytyy sivustolta.
 - Meta-pikseliä ei löytynyt.
 - Sivustolla havaittiin seuraavia laatuongelmia: 0.

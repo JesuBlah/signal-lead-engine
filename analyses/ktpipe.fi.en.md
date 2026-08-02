@@ -1,4 +1,4 @@
-# Quick analysis: K&T Pipe Oy
+# Quick analysis: LVI asennukset Lohjalla hoitaa K&amp;T Pipe Oy
 
 **Domain:** ktpipe.fi
 **Industry:** plumbing

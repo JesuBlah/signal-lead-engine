@@ -1,4 +1,4 @@
-# Quick analysis: Puhdina
+# Quick analysis: Välittävää siivouspalvelua Jyväskylässä | Puhdina
 
 **Domain:** puhdina.fi
 **Industry:** cleaning

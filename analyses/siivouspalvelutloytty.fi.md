@@ -1,4 +1,4 @@
-# Pika-analyysi: Siivouspalvelut Löytty
+# Pika-analyysi: Siivouspalveluita Vantaan lähialueilla - Sii­vous­pal­ve­lut
 
 **Verkkotunnus:** siivouspalvelutloytty.fi
 **Toimiala:** cleaning
